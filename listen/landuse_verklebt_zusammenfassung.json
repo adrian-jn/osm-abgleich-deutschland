@@ -2,15 +2,15 @@
  "kandidaten_ab_ha": 10,
  "kandidaten": 301495,
  "liste_kriterium": "mindestens 25 verklebte Knoten und mindestens 50 ha oder 30 Mitglieder",
- "liste": 3759,
- "liste_flaeche_ha": 678421,
+ "liste": 3758,
+ "liste_flaeche_ha": 667826,
  "nach_tag": {
   "landuse=farmland": 2696,
   "landuse=meadow": 969,
   "landuse=grass": 64,
-  "natural=grassland": 30
+  "natural=grassland": 29
  },
- "relationen": 1654,
+ "relationen": 1653,
  "kreise_top": {
   "Rostock": 345,
   "Vorpommern-Rügen": 229,

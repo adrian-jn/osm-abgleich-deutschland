@@ -37,6 +37,8 @@ MIN_HA_CANDIDATE = 10      # polygons below this are not looked at
 LIST_MIN_GLUED = 25        # listed: at least this many glued nodes ...
 LIST_MIN_HA = 50           # ... and at least this large
 LIST_MIN_MEMBERS = 30      # ... or a relation of at least this many members
+# Fixed in OSM after the extract (checked in the live database on 2026-11-27).
+FIXED_AFTER_EXTRACT = {"r215294": "national park boundary, natural=grassland removed 2026-11-26 21:37 UTC"}
 M_PER_DEG_LAT = 110_574.0
 M_PER_DEG_LON = 111_320.0
 
@@ -158,7 +160,7 @@ if os.environ.get("KEEP_ALL"):
     cand.to_parquet(os.environ["KEEP_ALL"])
 
 cand["link"] = np.where(cand.typ == "w", "https://www.openstreetmap.org/way/", "https://www.openstreetmap.org/relation/") + cand.id.astype(str)
-sel = cand[(cand.knoten_verklebt >= LIST_MIN_GLUED) & ((cand.flaeche_ha >= LIST_MIN_HA) | (cand.mitglieder >= LIST_MIN_MEMBERS))].copy()
+sel = cand[~cand.osm.isin(FIXED_AFTER_EXTRACT) & (cand.knoten_verklebt >= LIST_MIN_GLUED) & ((cand.flaeche_ha >= LIST_MIN_HA) | (cand.mitglieder >= LIST_MIN_MEMBERS))].copy()
 sel["flaeche_ha"] = sel.flaeche_ha.round(1)
 sel["lon"] = sel.lon.round(6); sel["lat"] = sel.lat.round(6)
 cols = ["osm", "link", "tag", "flaeche_ha", "mitglieder", "knoten", "knoten_verklebt", "anteil_verklebt",
