@@ -4,14 +4,14 @@ Wo OpenStreetMap in Deutschland neben offenen amtlichen Daten noch Lücken hat, 
 
 **Stand:** OpenStreetMap 26.11.2026 (Geofabrik, 21:21 UTC), DELFI-Fahrplan 23.11.2026, INKAR 2025, Zensus 2022, Krankenhausverzeichnis 2024.
 
-Die Auswertung ist beim Bau von [WohnData](https://wohn-data.de) entstanden, einem Wohnlagen-Check, der auf OSM aufbaut. Ausführlich erklärt ist sie im [OSM-Tagebuch](LINK).
+Entstanden ist das beim Bau von [WohnData](https://wohn-data.de), einem Wohnlagen-Check, der auf OSM aufbaut. Die ausführliche Erklärung steht im [OSM-Tagebuch](LINK).
 
 ## Die wichtigsten Ergebnisse
 
 - **Hausnummern:** 1,4 Millionen Einwohner haben in ihrer 100-Meter-Zelle und den acht Nachbarzellen keine Adresse in OSM. Bei 97 Prozent von ihnen ist in der eigenen Zelle schon ein Gebäude gezeichnet. Am größten ist die Lücke in Niederbayern und der Oberpfalz.
 - **Haltestellen:** Von 239.511 angefahrenen Haltestellen im DELFI-Fahrplan liegen 91 Prozent in 100 Metern an einem Haltestellen-Objekt in OSM. 21.797 nicht.
 - **Krankenhäuser:** 316 Standorte mit Notfallversorgung nach dem Krankenhausverzeichnis haben in OSM kein `emergency`-Tag. Acht geschlossene Häuser oder Notaufnahmen stehen noch ganz oder teilweise als offen in OSM.
-- **Arztpraxen, Post, Kitas:** große Unterschiede zwischen den Kreisen, siehe Karte.
+- **Arztpraxen, Post, Kitas:** 15 Kreise mit 2,1 Mio. Einwohnern haben in OSM weniger als halb so viele Arztpraxen wie im Bundesschnitt, bei der Post sind es 19 Kreise mit 2,3 Mio. Einwohnern. Kitas sind zu 85 Prozent erfasst.
 
 ![Haltestellen](karten/haltestellen_kreise.png)
 
