@@ -1,0 +1,67 @@
+{
+ "osm_krankenhaus_objekte": 2472,
+ "standorte_notfallstufe_1_3": 1057,
+ "ohne_osm_250m": 17,
+ "emergency_yes": 698,
+ "emergency_fehlt": 316,
+ "emergency_no": 18,
+ "emergency_anderer_wert": 8,
+ "stufe_1": {
+  "standorte": 572,
+  "emergency_yes": 343,
+  "mit_osm": 558
+ },
+ "stufe_2": {
+  "standorte": 300,
+  "emergency_yes": 210,
+  "mit_osm": 297
+ },
+ "stufe_3": {
+  "standorte": 185,
+  "emergency_yes": 145,
+  "mit_osm": 185
+ },
+ "geschlossen_auffaellig": 8,
+ "geschlossen_liste": [
+  [
+   "Helios Klinik Schkeuditz",
+   "Haus geschlossen, in OSM noch Krankenhaus mit emergency=yes",
+   "w573158875"
+  ],
+  [
+   "Krankenhaus Groß-Sand Hamburg",
+   "disused:amenity gesetzt, healthcare=hospital noch da",
+   "w56461027"
+  ],
+  [
+   "Helios Rosmann Klinik Breisach",
+   "Haus geschlossen, in OSM noch Krankenhaus",
+   "w1271096599"
+  ],
+  [
+   "Krankenhaus Sachsenhausen Frankfurt",
+   "Notaufnahme geschlossen, in OSM noch emergency=yes",
+   "w262714839"
+  ],
+  [
+   "Aller-Weser-Klinik Achim",
+   "Notaufnahme geschlossen, in OSM noch emergency=yes",
+   "w134111673"
+  ],
+  [
+   "Klinik Kösching",
+   "Haus geschlossen, in OSM noch Krankenhaus mit emergency=yes",
+   "w48704582"
+  ],
+  [
+   "St. Bernhard-Hospital Brake",
+   "Haus geschlossen, in OSM noch Krankenhaus mit emergency=yes",
+   "r6157081"
+  ],
+  [
+   "St. Elisabeth-Krankenhaus Salzgitter",
+   "disused:amenity gesetzt, healthcare=hospital noch da",
+   "r2360874"
+  ]
+ ]
+}

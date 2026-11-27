@@ -1,0 +1,98 @@
+{
+ "osm_objekte_bundesweit": {
+  "supermarkt": 33997,
+  "post": 12136,
+  "apotheke": 17133,
+  "kindergarten": 46610,
+  "kita": 50159,
+  "arztpraxis": 42272
+ },
+ "apotheken": {
+  "osm": 17084,
+  "amtlich": 17335,
+  "verhaeltnis": 0.986,
+  "kreise_unter_0_5": 0,
+  "einwohner_unter_0_5": 0,
+  "kreise_unter_0_7": 0,
+  "einwohner_unter_0_7": 0,
+  "minimum": 0.744
+ },
+ "kitas": {
+  "osm": 50120,
+  "amtlich": 59021,
+  "verhaeltnis": 0.849,
+  "kreise_unter_0_5": 1,
+  "einwohner_unter_0_5": 39576,
+  "kreise_unter_0_7": 18,
+  "einwohner_unter_0_7": 2242741,
+  "minimum": 0.464
+ },
+ "post": {
+  "osm": 12099,
+  "amtlich": 12788,
+  "verhaeltnis": 0.946,
+  "kreise_unter_0_5": 19,
+  "einwohner_unter_0_5": 2333276,
+  "kreise_unter_0_7": 81,
+  "einwohner_unter_0_7": 11309042,
+  "minimum": 0.278
+ },
+ "arzt_hausaerzte": {
+  "osm": 42221,
+  "amtlich": 51635,
+  "verhaeltnis": 0.818,
+  "kreise_unter_0_5": 32,
+  "einwohner_unter_0_5": 4320940,
+  "kreise_unter_0_7": 107,
+  "einwohner_unter_0_7": 16907350,
+  "minimum": 0.29
+ },
+ "arzt_aerzte": {
+  "osm": 42221,
+  "amtlich": 122152,
+  "verhaeltnis": 0.346,
+  "kreise_unter_0_5": 24,
+  "einwohner_unter_0_5": 2841429,
+  "kreise_unter_0_7": 81,
+  "einwohner_unter_0_7": 13719288,
+  "minimum": 0.236
+ },
+ "arzt_beide_unter_0_5": {
+  "kreise": 15,
+  "einwohner": 2105226,
+  "liste": [
+   "Ostprignitz-Ruppin",
+   "Prignitz",
+   "Salzgitter",
+   "Pforzheim",
+   "Zweibrücken",
+   "Emsland",
+   "Bottrop",
+   "Rheinisch-Bergischer Kreis",
+   "Limburg-Weilburg",
+   "Oberhausen",
+   "Straubing",
+   "Gelsenkirchen",
+   "Pirmasens",
+   "Schwerin",
+   "Neumünster"
+  ]
+ },
+ "marken": {
+  "(ohne brand)": 5947,
+  "edeka": 4650,
+  "netto marken-discount": 4215,
+  "rewe": 3742,
+  "lidl": 3232,
+  "aldi nord": 2204,
+  "penny": 2112,
+  "aldi süd": 1986,
+  "norma": 1312,
+  "kaufland": 786,
+  "nahkauf": 441,
+  "netto": 338,
+  "denns biomarkt": 329,
+  "combi": 192,
+  "k+k": 187
+ }
+}

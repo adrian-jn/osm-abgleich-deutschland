@@ -1,0 +1,2401 @@
+kennziffer,name,kuerzel,indikator,zeit,wert
+01001000,"Flensburg, Stadt",H01_pfil_,Postfillialen insgesamt,2024,11.0
+01001000,"Flensburg, Stadt",Kitas,Kindertagesstätten,2024,71.0
+01001000,"Flensburg, Stadt",apoth,Apotheken,2024,19.0
+01001000,"Flensburg, Stadt",bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,96431.0
+01001000,"Flensburg, Stadt",q_hausarzt_bev,Hausärzte,2022,6.26
+01001000,"Flensburg, Stadt",q_ärzte_bev,Ärzte,2022,19.62
+01002000,"Kiel, Landeshauptstadt",H01_pfil_,Postfillialen insgesamt,2024,31.0
+01002000,"Kiel, Landeshauptstadt",Kitas,Kindertagesstätten,2024,153.0
+01002000,"Kiel, Landeshauptstadt",apoth,Apotheken,2024,58.0
+01002000,"Kiel, Landeshauptstadt",bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,251751.0
+01002000,"Kiel, Landeshauptstadt",q_hausarzt_bev,Hausärzte,2022,6.65
+01002000,"Kiel, Landeshauptstadt",q_ärzte_bev,Ärzte,2022,23.26
+01003000,"Lübeck, Hansestadt",H01_pfil_,Postfillialen insgesamt,2024,29.0
+01003000,"Lübeck, Hansestadt",Kitas,Kindertagesstätten,2024,128.0
+01003000,"Lübeck, Hansestadt",apoth,Apotheken,2024,45.0
+01003000,"Lübeck, Hansestadt",bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,217061.0
+01003000,"Lübeck, Hansestadt",q_hausarzt_bev,Hausärzte,2022,6.82
+01003000,"Lübeck, Hansestadt",q_ärzte_bev,Ärzte,2022,22.46
+01004000,"Neumünster, Stadt",H01_pfil_,Postfillialen insgesamt,2024,10.0
+01004000,"Neumünster, Stadt",Kitas,Kindertagesstätten,2024,41.0
+01004000,"Neumünster, Stadt",apoth,Apotheken,2024,21.0
+01004000,"Neumünster, Stadt",bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,79461.0
+01004000,"Neumünster, Stadt",q_hausarzt_bev,Hausärzte,2022,5.86
+01004000,"Neumünster, Stadt",q_ärzte_bev,Ärzte,2022,15.28
+01051000,Dithmarschen,H01_pfil_,Postfillialen insgesamt,2024,23.0
+01051000,Dithmarschen,Kitas,Kindertagesstätten,2024,73.0
+01051000,Dithmarschen,apoth,Apotheken,2024,23.0
+01051000,Dithmarschen,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,133514.0
+01051000,Dithmarschen,q_hausarzt_bev,Hausärzte,2022,6.4
+01051000,Dithmarschen,q_ärzte_bev,Ärzte,2022,13.17
+01053000,Herzogtum Lauenburg,H01_pfil_,Postfillialen insgesamt,2024,29.0
+01053000,Herzogtum Lauenburg,Kitas,Kindertagesstätten,2024,133.0
+01053000,Herzogtum Lauenburg,apoth,Apotheken,2024,34.0
+01053000,Herzogtum Lauenburg,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,205445.0
+01053000,Herzogtum Lauenburg,q_hausarzt_bev,Hausärzte,2022,6.25
+01053000,Herzogtum Lauenburg,q_ärzte_bev,Ärzte,2022,12.79
+01054000,Nordfriesland,H01_pfil_,Postfillialen insgesamt,2024,33.0
+01054000,Nordfriesland,Kitas,Kindertagesstätten,2024,107.0
+01054000,Nordfriesland,apoth,Apotheken,2024,35.0
+01054000,Nordfriesland,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,170048.0
+01054000,Nordfriesland,q_hausarzt_bev,Hausärzte,2022,6.65
+01054000,Nordfriesland,q_ärzte_bev,Ärzte,2022,13.03
+01055000,Ostholstein,H01_pfil_,Postfillialen insgesamt,2024,35.0
+01055000,Ostholstein,Kitas,Kindertagesstätten,2024,122.0
+01055000,Ostholstein,apoth,Apotheken,2024,46.0
+01055000,Ostholstein,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,201529.0
+01055000,Ostholstein,q_hausarzt_bev,Hausärzte,2022,6.85
+01055000,Ostholstein,q_ärzte_bev,Ärzte,2022,14.38
+01056000,Pinneberg,H01_pfil_,Postfillialen insgesamt,2024,49.0
+01056000,Pinneberg,Kitas,Kindertagesstätten,2024,152.0
+01056000,Pinneberg,apoth,Apotheken,2024,62.0
+01056000,Pinneberg,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,323762.0
+01056000,Pinneberg,q_hausarzt_bev,Hausärzte,2022,6.14
+01056000,Pinneberg,q_ärzte_bev,Ärzte,2022,12.98
+01057000,Plön,H01_pfil_,Postfillialen insgesamt,2024,21.0
+01057000,Plön,Kitas,Kindertagesstätten,2024,101.0
+01057000,Plön,apoth,Apotheken,2024,24.0
+01057000,Plön,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,130635.0
+01057000,Plön,q_hausarzt_bev,Hausärzte,2022,6.95
+01057000,Plön,q_ärzte_bev,Ärzte,2022,12.74
+01058000,Rendsburg-Eckernförde,H01_pfil_,Postfillialen insgesamt,2024,39.0
+01058000,Rendsburg-Eckernförde,Kitas,Kindertagesstätten,2024,173.0
+01058000,Rendsburg-Eckernförde,apoth,Apotheken,2024,55.0
+01058000,Rendsburg-Eckernförde,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,277888.0
+01058000,Rendsburg-Eckernförde,q_hausarzt_bev,Hausärzte,2022,6.68
+01058000,Rendsburg-Eckernförde,q_ärzte_bev,Ärzte,2022,12.67
+01059000,Schleswig-Flensburg,H01_pfil_,Postfillialen insgesamt,2024,35.0
+01059000,Schleswig-Flensburg,Kitas,Kindertagesstätten,2024,140.0
+01059000,Schleswig-Flensburg,apoth,Apotheken,2024,41.0
+01059000,Schleswig-Flensburg,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,204761.0
+01059000,Schleswig-Flensburg,q_hausarzt_bev,Hausärzte,2022,6.16
+01059000,Schleswig-Flensburg,q_ärzte_bev,Ärzte,2022,10.73
+01060000,Segeberg,H01_pfil_,Postfillialen insgesamt,2024,41.0
+01060000,Segeberg,Kitas,Kindertagesstätten,2024,166.0
+01060000,Segeberg,apoth,Apotheken,2024,47.0
+01060000,Segeberg,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,282268.0
+01060000,Segeberg,q_hausarzt_bev,Hausärzte,2022,5.78
+01060000,Segeberg,q_ärzte_bev,Ärzte,2022,11.83
+01061000,Steinburg,H01_pfil_,Postfillialen insgesamt,2024,22.0
+01061000,Steinburg,Kitas,Kindertagesstätten,2024,73.0
+01061000,Steinburg,apoth,Apotheken,2024,23.0
+01061000,Steinburg,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,132447.0
+01061000,Steinburg,q_hausarzt_bev,Hausärzte,2022,6.02
+01061000,Steinburg,q_ärzte_bev,Ärzte,2022,13.57
+01062000,Stormarn,H01_pfil_,Postfillialen insgesamt,2024,32.0
+01062000,Stormarn,Kitas,Kindertagesstätten,2024,150.0
+01062000,Stormarn,apoth,Apotheken,2024,43.0
+01062000,Stormarn,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,246201.0
+01062000,Stormarn,q_hausarzt_bev,Hausärzte,2022,6.04
+01062000,Stormarn,q_ärzte_bev,Ärzte,2022,12.75
+02000000,"Hamburg, Freie und Hansestadt",H01_pfil_,Postfillialen insgesamt,2024,228.0
+02000000,"Hamburg, Freie und Hansestadt",Kitas,Kindertagesstätten,2024,1174.0
+02000000,"Hamburg, Freie und Hansestadt",apoth,Apotheken,2024,369.0
+02000000,"Hamburg, Freie und Hansestadt",bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,1851596.0
+02000000,"Hamburg, Freie und Hansestadt",q_hausarzt_bev,Hausärzte,2022,6.39
+02000000,"Hamburg, Freie und Hansestadt",q_ärzte_bev,Ärzte,2022,17.99
+03101000,"Braunschweig, Stadt",H01_pfil_,Postfillialen insgesamt,2024,35.0
+03101000,"Braunschweig, Stadt",Kitas,Kindertagesstätten,2024,212.0
+03101000,"Braunschweig, Stadt",apoth,Apotheken,2024,59.0
+03101000,"Braunschweig, Stadt",bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,253527.0
+03101000,"Braunschweig, Stadt",q_hausarzt_bev,Hausärzte,2022,6.51
+03101000,"Braunschweig, Stadt",q_ärzte_bev,Ärzte,2022,18.89
+03102000,"Salzgitter, Stadt",H01_pfil_,Postfillialen insgesamt,2024,11.0
+03102000,"Salzgitter, Stadt",Kitas,Kindertagesstätten,2024,62.0
+03102000,"Salzgitter, Stadt",apoth,Apotheken,2024,29.0
+03102000,"Salzgitter, Stadt",bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,105056.0
+03102000,"Salzgitter, Stadt",q_hausarzt_bev,Hausärzte,2022,5.59
+03102000,"Salzgitter, Stadt",q_ärzte_bev,Ärzte,2022,15.92
+03103000,"Wolfsburg, Stadt",H01_pfil_,Postfillialen insgesamt,2024,18.0
+03103000,"Wolfsburg, Stadt",Kitas,Kindertagesstätten,2024,71.0
+03103000,"Wolfsburg, Stadt",apoth,Apotheken,2024,29.0
+03103000,"Wolfsburg, Stadt",bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,129347.0
+03103000,"Wolfsburg, Stadt",q_hausarzt_bev,Hausärzte,2022,5.61
+03103000,"Wolfsburg, Stadt",q_ärzte_bev,Ärzte,2022,16.23
+03151000,Gifhorn,H01_pfil_,Postfillialen insgesamt,2024,33.0
+03151000,Gifhorn,Kitas,Kindertagesstätten,2024,137.0
+03151000,Gifhorn,apoth,Apotheken,2024,36.0
+03151000,Gifhorn,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,175876.0
+03151000,Gifhorn,q_hausarzt_bev,Hausärzte,2022,5.59
+03151000,Gifhorn,q_ärzte_bev,Ärzte,2022,10.61
+03153000,Goslar,H01_pfil_,Postfillialen insgesamt,2024,26.0
+03153000,Goslar,Kitas,Kindertagesstätten,2024,79.0
+03153000,Goslar,apoth,Apotheken,2024,37.0
+03153000,Goslar,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,127712.0
+03153000,Goslar,q_hausarzt_bev,Hausärzte,2022,7.37
+03153000,Goslar,q_ärzte_bev,Ärzte,2022,15.51
+03154000,Helmstedt,H01_pfil_,Postfillialen insgesamt,2024,15.0
+03154000,Helmstedt,Kitas,Kindertagesstätten,2024,72.0
+03154000,Helmstedt,apoth,Apotheken,2024,23.0
+03154000,Helmstedt,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,90692.0
+03154000,Helmstedt,q_hausarzt_bev,Hausärzte,2022,6.02
+03154000,Helmstedt,q_ärzte_bev,Ärzte,2022,12.31
+03155000,Northeim,H01_pfil_,Postfillialen insgesamt,2024,17.0
+03155000,Northeim,Kitas,Kindertagesstätten,2024,95.0
+03155000,Northeim,apoth,Apotheken,2024,30.0
+03155000,Northeim,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,126310.0
+03155000,Northeim,q_hausarzt_bev,Hausärzte,2022,8.06
+03155000,Northeim,q_ärzte_bev,Ärzte,2022,15.46
+03157000,Peine,H01_pfil_,Postfillialen insgesamt,2024,22.0
+03157000,Peine,Kitas,Kindertagesstätten,2024,111.0
+03157000,Peine,apoth,Apotheken,2024,26.0
+03157000,Peine,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,136983.0
+03157000,Peine,q_hausarzt_bev,Hausärzte,2022,5.83
+03157000,Peine,q_ärzte_bev,Ärzte,2022,12.16
+03158000,Wolfenbüttel,H01_pfil_,Postfillialen insgesamt,2024,21.0
+03158000,Wolfenbüttel,Kitas,Kindertagesstätten,2024,89.0
+03158000,Wolfenbüttel,apoth,Apotheken,2024,27.0
+03158000,Wolfenbüttel,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,118540.0
+03158000,Wolfenbüttel,q_hausarzt_bev,Hausärzte,2022,5.9
+03158000,Wolfenbüttel,q_ärzte_bev,Ärzte,2022,12.87
+03159000,Göttingen,H01_pfil_,Postfillialen insgesamt,2024,54.0
+03159000,Göttingen,Kitas,Kindertagesstätten,2024,258.0
+03159000,Göttingen,apoth,Apotheken,2024,71.0
+03159000,Göttingen,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,328657.0
+03159000,Göttingen,q_hausarzt_bev,Hausärzte,2022,6.99
+03159000,Göttingen,q_ärzte_bev,Ärzte,2022,17.59
+03241000,Region Hannover,H01_pfil_,Postfillialen insgesamt,2024,171.0
+03241000,Region Hannover,Kitas,Kindertagesstätten,2024,983.0
+03241000,Region Hannover,apoth,Apotheken,2024,234.0
+03241000,Region Hannover,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,1138943.0
+03241000,Region Hannover,q_hausarzt_bev,Hausärzte,2022,6.7
+03241000,Region Hannover,q_ärzte_bev,Ärzte,2022,16.51
+03251000,Diepholz,H01_pfil_,Postfillialen insgesamt,2024,34.0
+03251000,Diepholz,Kitas,Kindertagesstätten,2024,173.0
+03251000,Diepholz,apoth,Apotheken,2024,45.0
+03251000,Diepholz,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,220743.0
+03251000,Diepholz,q_hausarzt_bev,Hausärzte,2022,5.29
+03251000,Diepholz,q_ärzte_bev,Ärzte,2022,10.2
+03252000,Hameln-Pyrmont,H01_pfil_,Postfillialen insgesamt,2024,25.0
+03252000,Hameln-Pyrmont,Kitas,Kindertagesstätten,2024,108.0
+03252000,Hameln-Pyrmont,apoth,Apotheken,2024,35.0
+03252000,Hameln-Pyrmont,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,150535.0
+03252000,Hameln-Pyrmont,q_hausarzt_bev,Hausärzte,2022,6.42
+03252000,Hameln-Pyrmont,q_ärzte_bev,Ärzte,2022,15.11
+03254000,Hildesheim,H01_pfil_,Postfillialen insgesamt,2024,45.0
+03254000,Hildesheim,Kitas,Kindertagesstätten,2024,208.0
+03254000,Hildesheim,apoth,Apotheken,2024,59.0
+03254000,Hildesheim,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,268318.0
+03254000,Hildesheim,q_hausarzt_bev,Hausärzte,2022,7.02
+03254000,Hildesheim,q_ärzte_bev,Ärzte,2022,15.37
+03255000,Holzminden,H01_pfil_,Postfillialen insgesamt,2024,15.0
+03255000,Holzminden,Kitas,Kindertagesstätten,2024,57.0
+03255000,Holzminden,apoth,Apotheken,2024,19.0
+03255000,Holzminden,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,66088.0
+03255000,Holzminden,q_hausarzt_bev,Hausärzte,2022,7.47
+03255000,Holzminden,q_ärzte_bev,Ärzte,2022,13.84
+03256000,Nienburg (Weser),H01_pfil_,Postfillialen insgesamt,2024,31.0
+03256000,Nienburg (Weser),Kitas,Kindertagesstätten,2024,82.0
+03256000,Nienburg (Weser),apoth,Apotheken,2024,25.0
+03256000,Nienburg (Weser),bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,121723.0
+03256000,Nienburg (Weser),q_hausarzt_bev,Hausärzte,2022,5.59
+03256000,Nienburg (Weser),q_ärzte_bev,Ärzte,2022,11.52
+03257000,Schaumburg,H01_pfil_,Postfillialen insgesamt,2024,29.0
+03257000,Schaumburg,Kitas,Kindertagesstätten,2024,120.0
+03257000,Schaumburg,apoth,Apotheken,2024,32.0
+03257000,Schaumburg,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,157051.0
+03257000,Schaumburg,q_hausarzt_bev,Hausärzte,2022,6.33
+03257000,Schaumburg,q_ärzte_bev,Ärzte,2022,12.95
+03351000,Celle,H01_pfil_,Postfillialen insgesamt,2024,37.0
+03351000,Celle,Kitas,Kindertagesstätten,2024,123.0
+03351000,Celle,apoth,Apotheken,2024,35.0
+03351000,Celle,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,172871.0
+03351000,Celle,q_hausarzt_bev,Hausärzte,2022,6.61
+03351000,Celle,q_ärzte_bev,Ärzte,2022,14.16
+03352000,Cuxhaven,H01_pfil_,Postfillialen insgesamt,2024,33.0
+03352000,Cuxhaven,Kitas,Kindertagesstätten,2024,170.0
+03352000,Cuxhaven,apoth,Apotheken,2024,38.0
+03352000,Cuxhaven,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,199390.0
+03352000,Cuxhaven,q_hausarzt_bev,Hausärzte,2022,5.95
+03352000,Cuxhaven,q_ärzte_bev,Ärzte,2022,11.46
+03353000,Harburg,H01_pfil_,Postfillialen insgesamt,2024,39.0
+03353000,Harburg,Kitas,Kindertagesstätten,2024,197.0
+03353000,Harburg,apoth,Apotheken,2024,46.0
+03353000,Harburg,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,264767.0
+03353000,Harburg,q_hausarzt_bev,Hausärzte,2022,5.9
+03353000,Harburg,q_ärzte_bev,Ärzte,2022,11.76
+03354000,Lüchow-Dannenberg,H01_pfil_,Postfillialen insgesamt,2024,16.0
+03354000,Lüchow-Dannenberg,Kitas,Kindertagesstätten,2024,39.0
+03354000,Lüchow-Dannenberg,apoth,Apotheken,2024,10.0
+03354000,Lüchow-Dannenberg,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,46815.0
+03354000,Lüchow-Dannenberg,q_hausarzt_bev,Hausärzte,2022,6.84
+03354000,Lüchow-Dannenberg,q_ärzte_bev,Ärzte,2022,13.62
+03355000,Lüneburg,H01_pfil_,Postfillialen insgesamt,2024,33.0
+03355000,Lüneburg,Kitas,Kindertagesstätten,2024,148.0
+03355000,Lüneburg,apoth,Apotheken,2024,35.0
+03355000,Lüneburg,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,179403.0
+03355000,Lüneburg,q_hausarzt_bev,Hausärzte,2022,6.71
+03355000,Lüneburg,q_ärzte_bev,Ärzte,2022,15.72
+03356000,Osterholz,H01_pfil_,Postfillialen insgesamt,2024,17.0
+03356000,Osterholz,Kitas,Kindertagesstätten,2024,96.0
+03356000,Osterholz,apoth,Apotheken,2024,17.0
+03356000,Osterholz,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,113784.0
+03356000,Osterholz,q_hausarzt_bev,Hausärzte,2022,6.2
+03356000,Osterholz,q_ärzte_bev,Ärzte,2022,11.8
+03357000,Rotenburg (Wümme),H01_pfil_,Postfillialen insgesamt,2024,28.0
+03357000,Rotenburg (Wümme),Kitas,Kindertagesstätten,2024,141.0
+03357000,Rotenburg (Wümme),apoth,Apotheken,2024,32.0
+03357000,Rotenburg (Wümme),bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,165561.0
+03357000,Rotenburg (Wümme),q_hausarzt_bev,Hausärzte,2022,5.71
+03357000,Rotenburg (Wümme),q_ärzte_bev,Ärzte,2022,12.22
+03358000,Heidekreis,H01_pfil_,Postfillialen insgesamt,2024,22.0
+03358000,Heidekreis,Kitas,Kindertagesstätten,2024,106.0
+03358000,Heidekreis,apoth,Apotheken,2024,23.0
+03358000,Heidekreis,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,141627.0
+03358000,Heidekreis,q_hausarzt_bev,Hausärzte,2022,5.76
+03358000,Heidekreis,q_ärzte_bev,Ärzte,2022,12.19
+03359000,Stade,H01_pfil_,Postfillialen insgesamt,2024,37.0
+03359000,Stade,Kitas,Kindertagesstätten,2024,152.0
+03359000,Stade,apoth,Apotheken,2024,44.0
+03359000,Stade,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,207659.0
+03359000,Stade,q_hausarzt_bev,Hausärzte,2022,5.6
+03359000,Stade,q_ärzte_bev,Ärzte,2022,12.21
+03360000,Uelzen,H01_pfil_,Postfillialen insgesamt,2024,19.0
+03360000,Uelzen,Kitas,Kindertagesstätten,2024,64.0
+03360000,Uelzen,apoth,Apotheken,2024,22.0
+03360000,Uelzen,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,91832.0
+03360000,Uelzen,q_hausarzt_bev,Hausärzte,2022,6.78
+03360000,Uelzen,q_ärzte_bev,Ärzte,2022,15.02
+03361000,Verden,H01_pfil_,Postfillialen insgesamt,2024,23.0
+03361000,Verden,Kitas,Kindertagesstätten,2024,120.0
+03361000,Verden,apoth,Apotheken,2024,25.0
+03361000,Verden,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,138273.0
+03361000,Verden,q_hausarzt_bev,Hausärzte,2022,6.5
+03361000,Verden,q_ärzte_bev,Ärzte,2022,12.66
+03401000,"Delmenhorst, Stadt",H01_pfil_,Postfillialen insgesamt,2024,11.0
+03401000,"Delmenhorst, Stadt",Kitas,Kindertagesstätten,2024,36.0
+03401000,"Delmenhorst, Stadt",apoth,Apotheken,2024,18.0
+03401000,"Delmenhorst, Stadt",bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,81746.0
+03401000,"Delmenhorst, Stadt",q_hausarzt_bev,Hausärzte,2022,5.73
+03401000,"Delmenhorst, Stadt",q_ärzte_bev,Ärzte,2022,15.16
+03402000,"Emden, Stadt",H01_pfil_,Postfillialen insgesamt,2024,10.0
+03402000,"Emden, Stadt",Kitas,Kindertagesstätten,2024,29.0
+03402000,"Emden, Stadt",apoth,Apotheken,2024,9.0
+03402000,"Emden, Stadt",bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,49701.0
+03402000,"Emden, Stadt",q_hausarzt_bev,Hausärzte,2022,6.2
+03402000,"Emden, Stadt",q_ärzte_bev,Ärzte,2022,16.29
+03403000,"Oldenburg (Oldenburg), Stadt",H01_pfil_,Postfillialen insgesamt,2024,22.0
+03403000,"Oldenburg (Oldenburg), Stadt",Kitas,Kindertagesstätten,2022,156.0
+03403000,"Oldenburg (Oldenburg), Stadt",apoth,Apotheken,2024,39.0
+03403000,"Oldenburg (Oldenburg), Stadt",bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,176242.0
+03403000,"Oldenburg (Oldenburg), Stadt",q_hausarzt_bev,Hausärzte,2022,6.13
+03403000,"Oldenburg (Oldenburg), Stadt",q_ärzte_bev,Ärzte,2022,20.68
+03404000,"Osnabrück, Stadt",H01_pfil_,Postfillialen insgesamt,2024,18.0
+03404000,"Osnabrück, Stadt",Kitas,Kindertagesstätten,2024,118.0
+03404000,"Osnabrück, Stadt",apoth,Apotheken,2024,41.0
+03404000,"Osnabrück, Stadt",bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,165686.0
+03404000,"Osnabrück, Stadt",q_hausarzt_bev,Hausärzte,2022,6.79
+03404000,"Osnabrück, Stadt",q_ärzte_bev,Ärzte,2022,21.34
+03405000,"Wilhelmshaven, Stadt",H01_pfil_,Postfillialen insgesamt,2024,11.0
+03405000,"Wilhelmshaven, Stadt",Kitas,Kindertagesstätten,2024,43.0
+03405000,"Wilhelmshaven, Stadt",apoth,Apotheken,2024,16.0
+03405000,"Wilhelmshaven, Stadt",bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,76010.0
+03405000,"Wilhelmshaven, Stadt",q_hausarzt_bev,Hausärzte,2022,6.82
+03405000,"Wilhelmshaven, Stadt",q_ärzte_bev,Ärzte,2022,19.18
+03451000,Ammerland,H01_pfil_,Postfillialen insgesamt,2024,19.0
+03451000,Ammerland,Kitas,Kindertagesstätten,2024,88.0
+03451000,Ammerland,apoth,Apotheken,2024,26.0
+03451000,Ammerland,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,127292.0
+03451000,Ammerland,q_hausarzt_bev,Hausärzte,2022,7.22
+03451000,Ammerland,q_ärzte_bev,Ärzte,2022,13.53
+03452000,Aurich,H01_pfil_,Postfillialen insgesamt,2024,39.0
+03452000,Aurich,Kitas,Kindertagesstätten,2024,136.0
+03452000,Aurich,apoth,Apotheken,2024,46.0
+03452000,Aurich,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,188960.0
+03452000,Aurich,q_hausarzt_bev,Hausärzte,2022,6.34
+03452000,Aurich,q_ärzte_bev,Ärzte,2022,12.63
+03453000,Cloppenburg,H01_pfil_,Postfillialen insgesamt,2024,28.0
+03453000,Cloppenburg,Kitas,Kindertagesstätten,2024,104.0
+03453000,Cloppenburg,apoth,Apotheken,2024,31.0
+03453000,Cloppenburg,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,176540.0
+03453000,Cloppenburg,q_hausarzt_bev,Hausärzte,2022,5.07
+03453000,Cloppenburg,q_ärzte_bev,Ärzte,2022,9.88
+03454000,Emsland,H01_pfil_,Postfillialen insgesamt,2024,57.0
+03454000,Emsland,Kitas,Kindertagesstätten,2024,198.0
+03454000,Emsland,apoth,Apotheken,2024,74.0
+03454000,Emsland,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,334203.0
+03454000,Emsland,q_hausarzt_bev,Hausärzte,2022,5.61
+03454000,Emsland,q_ärzte_bev,Ärzte,2022,12.17
+03455000,Friesland,H01_pfil_,Postfillialen insgesamt,2024,20.0
+03455000,Friesland,Kitas,Kindertagesstätten,2024,61.0
+03455000,Friesland,apoth,Apotheken,2024,24.0
+03455000,Friesland,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,100461.0
+03455000,Friesland,q_hausarzt_bev,Hausärzte,2022,7.22
+03455000,Friesland,q_ärzte_bev,Ärzte,2022,14.34
+03456000,Grafschaft Bentheim,H01_pfil_,Postfillialen insgesamt,2024,21.0
+03456000,Grafschaft Bentheim,Kitas,Kindertagesstätten,2024,77.0
+03456000,Grafschaft Bentheim,apoth,Apotheken,2024,33.0
+03456000,Grafschaft Bentheim,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,144212.0
+03456000,Grafschaft Bentheim,q_hausarzt_bev,Hausärzte,2022,5.3
+03456000,Grafschaft Bentheim,q_ärzte_bev,Ärzte,2022,12.42
+03457000,Leer,H01_pfil_,Postfillialen insgesamt,2024,26.0
+03457000,Leer,Kitas,Kindertagesstätten,2024,110.0
+03457000,Leer,apoth,Apotheken,2024,35.0
+03457000,Leer,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,169111.0
+03457000,Leer,q_hausarzt_bev,Hausärzte,2022,6.36
+03457000,Leer,q_ärzte_bev,Ärzte,2022,12.59
+03458000,Oldenburg,H01_pfil_,Postfillialen insgesamt,2024,17.0
+03458000,Oldenburg,Kitas,Kindertagesstätten,2024,98.0
+03458000,Oldenburg,apoth,Apotheken,2024,24.0
+03458000,Oldenburg,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,131965.0
+03458000,Oldenburg,q_hausarzt_bev,Hausärzte,2022,6.13
+03458000,Oldenburg,q_ärzte_bev,Ärzte,2022,11.49
+03459000,Osnabrück,H01_pfil_,Postfillialen insgesamt,2024,63.0
+03459000,Osnabrück,Kitas,Kindertagesstätten,2024,210.0
+03459000,Osnabrück,apoth,Apotheken,2024,80.0
+03459000,Osnabrück,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,356194.0
+03459000,Osnabrück,q_hausarzt_bev,Hausärzte,2022,6.19
+03459000,Osnabrück,q_ärzte_bev,Ärzte,2022,12.83
+03460000,Vechta,H01_pfil_,Postfillialen insgesamt,2024,16.0
+03460000,Vechta,Kitas,Kindertagesstätten,2024,99.0
+03460000,Vechta,apoth,Apotheken,2024,29.0
+03460000,Vechta,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,146400.0
+03460000,Vechta,q_hausarzt_bev,Hausärzte,2022,5.74
+03460000,Vechta,q_ärzte_bev,Ärzte,2022,12.9
+03461000,Wesermarsch,H01_pfil_,Postfillialen insgesamt,2024,18.0
+03461000,Wesermarsch,Kitas,Kindertagesstätten,2024,61.0
+03461000,Wesermarsch,apoth,Apotheken,2024,17.0
+03461000,Wesermarsch,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,89316.0
+03461000,Wesermarsch,q_hausarzt_bev,Hausärzte,2022,5.97
+03461000,Wesermarsch,q_ärzte_bev,Ärzte,2022,11.75
+03462000,Wittmund,H01_pfil_,Postfillialen insgesamt,2024,9.0
+03462000,Wittmund,Kitas,Kindertagesstätten,2024,38.0
+03462000,Wittmund,apoth,Apotheken,2024,12.0
+03462000,Wittmund,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,56013.0
+03462000,Wittmund,q_hausarzt_bev,Hausärzte,2022,7.06
+03462000,Wittmund,q_ärzte_bev,Ärzte,2022,12.87
+04011000,"Bremen, Stadt",H01_pfil_,Postfillialen insgesamt,2024,64.0
+04011000,"Bremen, Stadt",Kitas,Kindertagesstätten,2024,430.0
+04011000,"Bremen, Stadt",apoth,Apotheken,2024,107.0
+04011000,"Bremen, Stadt",bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,584332.0
+04011000,"Bremen, Stadt",q_hausarzt_bev,Hausärzte,2022,6.08
+04011000,"Bremen, Stadt",q_ärzte_bev,Ärzte,2022,17.52
+04012000,"Bremerhaven, Stadt",H01_pfil_,Postfillialen insgesamt,2024,12.0
+04012000,"Bremerhaven, Stadt",Kitas,Kindertagesstätten,2024,60.0
+04012000,"Bremerhaven, Stadt",apoth,Apotheken,2024,21.0
+04012000,"Bremerhaven, Stadt",bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,118323.0
+04012000,"Bremerhaven, Stadt",q_hausarzt_bev,Hausärzte,2022,5.83
+04012000,"Bremerhaven, Stadt",q_ärzte_bev,Ärzte,2022,17.91
+05111000,"Düsseldorf, Stadt",H01_pfil_,Postfillialen insgesamt,2024,73.0
+05111000,"Düsseldorf, Stadt",Kitas,Kindertagesstätten,2024,401.0
+05111000,"Düsseldorf, Stadt",apoth,Apotheken,2024,150.0
+05111000,"Düsseldorf, Stadt",bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,616319.0
+05111000,"Düsseldorf, Stadt",q_hausarzt_bev,Hausärzte,2022,6.41
+05111000,"Düsseldorf, Stadt",q_ärzte_bev,Ärzte,2022,18.62
+05112000,"Duisburg, Stadt",H01_pfil_,Postfillialen insgesamt,2024,41.0
+05112000,"Duisburg, Stadt",Kitas,Kindertagesstätten,2024,204.0
+05112000,"Duisburg, Stadt",apoth,Apotheken,2024,86.0
+05112000,"Duisburg, Stadt",bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,503185.0
+05112000,"Duisburg, Stadt",q_hausarzt_bev,Hausärzte,2022,5.36
+05112000,"Duisburg, Stadt",q_ärzte_bev,Ärzte,2022,12.49
+05113000,"Essen, Stadt",H01_pfil_,Postfillialen insgesamt,2024,55.0
+05113000,"Essen, Stadt",Kitas,Kindertagesstätten,2024,340.0
+05113000,"Essen, Stadt",apoth,Apotheken,2024,113.0
+05113000,"Essen, Stadt",bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,574082.0
+05113000,"Essen, Stadt",q_hausarzt_bev,Hausärzte,2022,5.96
+05113000,"Essen, Stadt",q_ärzte_bev,Ärzte,2022,14.71
+05114000,"Krefeld, Stadt",H01_pfil_,Postfillialen insgesamt,2024,26.0
+05114000,"Krefeld, Stadt",Kitas,Kindertagesstätten,2024,106.0
+05114000,"Krefeld, Stadt",apoth,Apotheken,2024,54.0
+05114000,"Krefeld, Stadt",bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,230393.0
+05114000,"Krefeld, Stadt",q_hausarzt_bev,Hausärzte,2022,6.57
+05114000,"Krefeld, Stadt",q_ärzte_bev,Ärzte,2022,18.46
+05116000,"Mönchengladbach, Stadt",H01_pfil_,Postfillialen insgesamt,2024,29.0
+05116000,"Mönchengladbach, Stadt",Kitas,Kindertagesstätten,2024,165.0
+05116000,"Mönchengladbach, Stadt",apoth,Apotheken,2024,52.0
+05116000,"Mönchengladbach, Stadt",bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,267667.0
+05116000,"Mönchengladbach, Stadt",q_hausarzt_bev,Hausärzte,2022,6.17
+05116000,"Mönchengladbach, Stadt",q_ärzte_bev,Ärzte,2022,18.59
+05117000,"Mülheim an der Ruhr, Stadt",H01_pfil_,Postfillialen insgesamt,2024,18.0
+05117000,"Mülheim an der Ruhr, Stadt",Kitas,Kindertagesstätten,2024,100.0
+05117000,"Mülheim an der Ruhr, Stadt",apoth,Apotheken,2024,35.0
+05117000,"Mülheim an der Ruhr, Stadt",bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,172887.0
+05117000,"Mülheim an der Ruhr, Stadt",q_hausarzt_bev,Hausärzte,2022,5.72
+05117000,"Mülheim an der Ruhr, Stadt",q_ärzte_bev,Ärzte,2022,14.09
+05119000,"Oberhausen, Stadt",H01_pfil_,Postfillialen insgesamt,2024,19.0
+05119000,"Oberhausen, Stadt",Kitas,Kindertagesstätten,2024,85.0
+05119000,"Oberhausen, Stadt",apoth,Apotheken,2024,40.0
+05119000,"Oberhausen, Stadt",bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,213510.0
+05119000,"Oberhausen, Stadt",q_hausarzt_bev,Hausärzte,2022,5.32
+05119000,"Oberhausen, Stadt",q_ärzte_bev,Ärzte,2022,12.58
+05120000,"Remscheid, Stadt",H01_pfil_,Postfillialen insgesamt,2024,11.0
+05120000,"Remscheid, Stadt",Kitas,Kindertagesstätten,2024,65.0
+05120000,"Remscheid, Stadt",apoth,Apotheken,2024,19.0
+05120000,"Remscheid, Stadt",bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,114061.0
+05120000,"Remscheid, Stadt",q_hausarzt_bev,Hausärzte,2022,6.07
+05120000,"Remscheid, Stadt",q_ärzte_bev,Ärzte,2022,16.49
+05122000,"Solingen, Klingenstadt",H01_pfil_,Postfillialen insgesamt,2024,17.0
+05122000,"Solingen, Klingenstadt",Kitas,Kindertagesstätten,2024,109.0
+05122000,"Solingen, Klingenstadt",apoth,Apotheken,2024,33.0
+05122000,"Solingen, Klingenstadt",bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,166078.0
+05122000,"Solingen, Klingenstadt",q_hausarzt_bev,Hausärzte,2022,5.65
+05122000,"Solingen, Klingenstadt",q_ärzte_bev,Ärzte,2022,16.67
+05124000,"Wuppertal, Stadt",H01_pfil_,Postfillialen insgesamt,2024,39.0
+05124000,"Wuppertal, Stadt",Kitas,Kindertagesstätten,2024,209.0
+05124000,"Wuppertal, Stadt",apoth,Apotheken,2024,58.0
+05124000,"Wuppertal, Stadt",bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,358592.0
+05124000,"Wuppertal, Stadt",q_hausarzt_bev,Hausärzte,2022,5.9
+05124000,"Wuppertal, Stadt",q_ärzte_bev,Ärzte,2022,16.61
+05154000,Kleve,H01_pfil_,Postfillialen insgesamt,2024,42.0
+05154000,Kleve,Kitas,Kindertagesstätten,2024,177.0
+05154000,Kleve,apoth,Apotheken,2024,52.0
+05154000,Kleve,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,319928.0
+05154000,Kleve,q_hausarzt_bev,Hausärzte,2022,5.4
+05154000,Kleve,q_ärzte_bev,Ärzte,2022,10.85
+05158000,Mettmann,H01_pfil_,Postfillialen insgesamt,2024,50.0
+05158000,Mettmann,Kitas,Kindertagesstätten,2024,259.0
+05158000,Mettmann,apoth,Apotheken,2024,103.0
+05158000,Mettmann,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,489760.0
+05158000,Mettmann,q_hausarzt_bev,Hausärzte,2022,6.15
+05158000,Mettmann,q_ärzte_bev,Ärzte,2022,13.81
+05162000,Rhein-Kreis Neuss,H01_pfil_,Postfillialen insgesamt,2024,67.0
+05162000,Rhein-Kreis Neuss,Kitas,Kindertagesstätten,2024,259.0
+05162000,Rhein-Kreis Neuss,apoth,Apotheken,2024,90.0
+05162000,Rhein-Kreis Neuss,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,457398.0
+05162000,Rhein-Kreis Neuss,q_hausarzt_bev,Hausärzte,2022,6.03
+05162000,Rhein-Kreis Neuss,q_ärzte_bev,Ärzte,2022,13.32
+05166000,Viersen,H01_pfil_,Postfillialen insgesamt,2024,33.0
+05166000,Viersen,Kitas,Kindertagesstätten,2024,167.0
+05166000,Viersen,apoth,Apotheken,2024,62.0
+05166000,Viersen,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,297504.0
+05166000,Viersen,q_hausarzt_bev,Hausärzte,2022,6.14
+05166000,Viersen,q_ärzte_bev,Ärzte,2022,12.63
+05170000,Wesel,H01_pfil_,Postfillialen insgesamt,2024,57.0
+05170000,Wesel,Kitas,Kindertagesstätten,2024,247.0
+05170000,Wesel,apoth,Apotheken,2024,90.0
+05170000,Wesel,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,457545.0
+05170000,Wesel,q_hausarzt_bev,Hausärzte,2022,5.68
+05170000,Wesel,q_ärzte_bev,Ärzte,2022,12.89
+05314000,"Bonn, Stadt",H01_pfil_,Postfillialen insgesamt,2024,44.0
+05314000,"Bonn, Stadt",Kitas,Kindertagesstätten,2024,216.0
+05314000,"Bonn, Stadt",apoth,Apotheken,2024,90.0
+05314000,"Bonn, Stadt",bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,321680.0
+05314000,"Bonn, Stadt",q_hausarzt_bev,Hausärzte,2022,6.52
+05314000,"Bonn, Stadt",q_ärzte_bev,Ärzte,2022,22.39
+05315000,"Köln, Stadt",H01_pfil_,Postfillialen insgesamt,2024,104.0
+05315000,"Köln, Stadt",Kitas,Kindertagesstätten,2024,708.0
+05315000,"Köln, Stadt",apoth,Apotheken,2024,213.0
+05315000,"Köln, Stadt",bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,1024408.0
+05315000,"Köln, Stadt",q_hausarzt_bev,Hausärzte,2022,6.54
+05315000,"Köln, Stadt",q_ärzte_bev,Ärzte,2022,18.65
+05316000,"Leverkusen, Stadt",H01_pfil_,Postfillialen insgesamt,2024,21.0
+05316000,"Leverkusen, Stadt",Kitas,Kindertagesstätten,2024,89.0
+05316000,"Leverkusen, Stadt",apoth,Apotheken,2024,34.0
+05316000,"Leverkusen, Stadt",bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,167850.0
+05316000,"Leverkusen, Stadt",q_hausarzt_bev,Hausärzte,2022,6.52
+05316000,"Leverkusen, Stadt",q_ärzte_bev,Ärzte,2022,18.5
+05334000,Städteregion Aachen,H01_pfil_,Postfillialen insgesamt,2024,71.0
+05334000,Städteregion Aachen,Kitas,Kindertagesstätten,2024,324.0
+05334000,Städteregion Aachen,apoth,Apotheken,2024,122.0
+05334000,Städteregion Aachen,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,582463.0
+05334000,Städteregion Aachen,q_hausarzt_bev,Hausärzte,2022,6.36
+05334000,Städteregion Aachen,q_ärzte_bev,Ärzte,2022,16.22
+05358000,Düren,H01_pfil_,Postfillialen insgesamt,2024,39.0
+05358000,Düren,Kitas,Kindertagesstätten,2024,164.0
+05358000,Düren,apoth,Apotheken,2024,45.0
+05358000,Düren,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,278462.0
+05358000,Düren,q_hausarzt_bev,Hausärzte,2022,6.1
+05358000,Düren,q_ärzte_bev,Ärzte,2022,12.47
+05362000,Rhein-Erft-Kreis,H01_pfil_,Postfillialen insgesamt,2024,62.0
+05362000,Rhein-Erft-Kreis,Kitas,Kindertagesstätten,2024,288.0
+05362000,Rhein-Erft-Kreis,apoth,Apotheken,2024,89.0
+05362000,Rhein-Erft-Kreis,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,476412.0
+05362000,Rhein-Erft-Kreis,q_hausarzt_bev,Hausärzte,2022,6.09
+05362000,Rhein-Erft-Kreis,q_ärzte_bev,Ärzte,2022,12.97
+05366000,Euskirchen,H01_pfil_,Postfillialen insgesamt,2024,30.0
+05366000,Euskirchen,Kitas,Kindertagesstätten,2024,144.0
+05366000,Euskirchen,apoth,Apotheken,2024,37.0
+05366000,Euskirchen,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,201841.0
+05366000,Euskirchen,q_hausarzt_bev,Hausärzte,2022,6.29
+05366000,Euskirchen,q_ärzte_bev,Ärzte,2022,12.91
+05370000,Heinsberg,H01_pfil_,Postfillialen insgesamt,2024,44.0
+05370000,Heinsberg,Kitas,Kindertagesstätten,2024,147.0
+05370000,Heinsberg,apoth,Apotheken,2024,55.0
+05370000,Heinsberg,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,262149.0
+05370000,Heinsberg,q_hausarzt_bev,Hausärzte,2022,6.18
+05370000,Heinsberg,q_ärzte_bev,Ärzte,2022,12.13
+05374000,Oberbergischer Kreis,H01_pfil_,Postfillialen insgesamt,2024,36.0
+05374000,Oberbergischer Kreis,Kitas,Kindertagesstätten,2024,160.0
+05374000,Oberbergischer Kreis,apoth,Apotheken,2024,57.0
+05374000,Oberbergischer Kreis,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,273963.0
+05374000,Oberbergischer Kreis,q_hausarzt_bev,Hausärzte,2022,5.44
+05374000,Oberbergischer Kreis,q_ärzte_bev,Ärzte,2022,12.05
+05378000,Rheinisch-Bergischer Kreis,H01_pfil_,Postfillialen insgesamt,2024,35.0
+05378000,Rheinisch-Bergischer Kreis,Kitas,Kindertagesstätten,2024,184.0
+05378000,Rheinisch-Bergischer Kreis,apoth,Apotheken,2024,54.0
+05378000,Rheinisch-Bergischer Kreis,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,283607.0
+05378000,Rheinisch-Bergischer Kreis,q_hausarzt_bev,Hausärzte,2022,5.99
+05378000,Rheinisch-Bergischer Kreis,q_ärzte_bev,Ärzte,2022,13.25
+05382000,Rhein-Sieg-Kreis,H01_pfil_,Postfillialen insgesamt,2024,85.0
+05382000,Rhein-Sieg-Kreis,Kitas,Kindertagesstätten,2024,411.0
+05382000,Rhein-Sieg-Kreis,apoth,Apotheken,2024,131.0
+05382000,Rhein-Sieg-Kreis,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,605283.0
+05382000,Rhein-Sieg-Kreis,q_hausarzt_bev,Hausärzte,2022,6.31
+05382000,Rhein-Sieg-Kreis,q_ärzte_bev,Ärzte,2022,12.67
+05512000,"Bottrop, Stadt",H01_pfil_,Postfillialen insgesamt,2024,13.0
+05512000,"Bottrop, Stadt",Kitas,Kindertagesstätten,2024,58.0
+05512000,"Bottrop, Stadt",apoth,Apotheken,2024,20.0
+05512000,"Bottrop, Stadt",bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,118912.0
+05512000,"Bottrop, Stadt",q_hausarzt_bev,Hausärzte,2022,5.35
+05512000,"Bottrop, Stadt",q_ärzte_bev,Ärzte,2022,13.25
+05513000,"Gelsenkirchen, Stadt",H01_pfil_,Postfillialen insgesamt,2024,26.0
+05513000,"Gelsenkirchen, Stadt",Kitas,Kindertagesstätten,2024,135.0
+05513000,"Gelsenkirchen, Stadt",apoth,Apotheken,2024,52.0
+05513000,"Gelsenkirchen, Stadt",bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,267284.0
+05513000,"Gelsenkirchen, Stadt",q_hausarzt_bev,Hausärzte,2022,5.38
+05513000,"Gelsenkirchen, Stadt",q_ärzte_bev,Ärzte,2022,13.18
+05515000,"Münster, Stadt",H01_pfil_,Postfillialen insgesamt,2024,33.0
+05515000,"Münster, Stadt",Kitas,Kindertagesstätten,2024,216.0
+05515000,"Münster, Stadt",apoth,Apotheken,2024,81.0
+05515000,"Münster, Stadt",bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,307071.0
+05515000,"Münster, Stadt",q_hausarzt_bev,Hausärzte,2022,6.52
+05515000,"Münster, Stadt",q_ärzte_bev,Ärzte,2022,20.27
+05554000,Borken,H01_pfil_,Postfillialen insgesamt,2024,49.0
+05554000,Borken,Kitas,Kindertagesstätten,2024,240.0
+05554000,Borken,apoth,Apotheken,2024,75.0
+05554000,Borken,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,379787.0
+05554000,Borken,q_hausarzt_bev,Hausärzte,2022,5.36
+05554000,Borken,q_ärzte_bev,Ärzte,2022,11.57
+05558000,Coesfeld,H01_pfil_,Postfillialen insgesamt,2024,31.0
+05558000,Coesfeld,Kitas,Kindertagesstätten,2024,160.0
+05558000,Coesfeld,apoth,Apotheken,2024,45.0
+05558000,Coesfeld,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,226217.0
+05558000,Coesfeld,q_hausarzt_bev,Hausärzte,2022,6.4
+05558000,Coesfeld,q_ärzte_bev,Ärzte,2022,12.46
+05562000,Recklinghausen,H01_pfil_,Postfillialen insgesamt,2024,69.0
+05562000,Recklinghausen,Kitas,Kindertagesstätten,2024,351.0
+05562000,Recklinghausen,apoth,Apotheken,2024,129.0
+05562000,Recklinghausen,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,622855.0
+05562000,Recklinghausen,q_hausarzt_bev,Hausärzte,2022,5.51
+05562000,Recklinghausen,q_ärzte_bev,Ärzte,2022,12.87
+05566000,Steinfurt,H01_pfil_,Postfillialen insgesamt,2024,50.0
+05566000,Steinfurt,Kitas,Kindertagesstätten,2024,320.0
+05566000,Steinfurt,apoth,Apotheken,2024,102.0
+05566000,Steinfurt,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,450042.0
+05566000,Steinfurt,q_hausarzt_bev,Hausärzte,2022,6.2
+05566000,Steinfurt,q_ärzte_bev,Ärzte,2022,12.46
+05570000,Warendorf,H01_pfil_,Postfillialen insgesamt,2024,38.0
+05570000,Warendorf,Kitas,Kindertagesstätten,2024,171.0
+05570000,Warendorf,apoth,Apotheken,2024,61.0
+05570000,Warendorf,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,282216.0
+05570000,Warendorf,q_hausarzt_bev,Hausärzte,2022,5.79
+05570000,Warendorf,q_ärzte_bev,Ärzte,2022,11.9
+05711000,"Bielefeld, Stadt",H01_pfil_,Postfillialen insgesamt,2024,40.0
+05711000,"Bielefeld, Stadt",Kitas,Kindertagesstätten,2024,209.0
+05711000,"Bielefeld, Stadt",apoth,Apotheken,2024,64.0
+05711000,"Bielefeld, Stadt",bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,331519.0
+05711000,"Bielefeld, Stadt",q_hausarzt_bev,Hausärzte,2022,5.45
+05711000,"Bielefeld, Stadt",q_ärzte_bev,Ärzte,2022,17.35
+05754000,Gütersloh,H01_pfil_,Postfillialen insgesamt,2024,45.0
+05754000,Gütersloh,Kitas,Kindertagesstätten,2024,224.0
+05754000,Gütersloh,apoth,Apotheken,2024,67.0
+05754000,Gütersloh,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,363674.0
+05754000,Gütersloh,q_hausarzt_bev,Hausärzte,2022,4.98
+05754000,Gütersloh,q_ärzte_bev,Ärzte,2022,10.82
+05758000,Herford,H01_pfil_,Postfillialen insgesamt,2024,37.0
+05758000,Herford,Kitas,Kindertagesstätten,2024,135.0
+05758000,Herford,apoth,Apotheken,2024,47.0
+05758000,Herford,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,254593.0
+05758000,Herford,q_hausarzt_bev,Hausärzte,2022,4.93
+05758000,Herford,q_ärzte_bev,Ärzte,2022,11.62
+05762000,Höxter,H01_pfil_,Postfillialen insgesamt,2024,19.0
+05762000,Höxter,Kitas,Kindertagesstätten,2024,99.0
+05762000,Höxter,apoth,Apotheken,2024,33.0
+05762000,Höxter,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,139042.0
+05762000,Höxter,q_hausarzt_bev,Hausärzte,2022,6.15
+05762000,Höxter,q_ärzte_bev,Ärzte,2022,11.57
+05766000,Lippe,H01_pfil_,Postfillialen insgesamt,2024,44.0
+05766000,Lippe,Kitas,Kindertagesstätten,2024,213.0
+05766000,Lippe,apoth,Apotheken,2024,72.0
+05766000,Lippe,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,347613.0
+05766000,Lippe,q_hausarzt_bev,Hausärzte,2022,5.18
+05766000,Lippe,q_ärzte_bev,Ärzte,2022,11.41
+05770000,Minden-Lübbecke,H01_pfil_,Postfillialen insgesamt,2024,43.0
+05770000,Minden-Lübbecke,Kitas,Kindertagesstätten,2024,167.0
+05770000,Minden-Lübbecke,apoth,Apotheken,2024,64.0
+05770000,Minden-Lübbecke,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,320925.0
+05770000,Minden-Lübbecke,q_hausarzt_bev,Hausärzte,2022,5.77
+05770000,Minden-Lübbecke,q_ärzte_bev,Ärzte,2022,12.33
+05774000,Paderborn,H01_pfil_,Postfillialen insgesamt,2024,40.0
+05774000,Paderborn,Kitas,Kindertagesstätten,2024,214.0
+05774000,Paderborn,apoth,Apotheken,2024,63.0
+05774000,Paderborn,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,315606.0
+05774000,Paderborn,q_hausarzt_bev,Hausärzte,2022,5.32
+05774000,Paderborn,q_ärzte_bev,Ärzte,2022,12.17
+05911000,"Bochum, Stadt",H01_pfil_,Postfillialen insgesamt,2024,36.0
+05911000,"Bochum, Stadt",Kitas,Kindertagesstätten,2024,192.0
+05911000,"Bochum, Stadt",apoth,Apotheken,2024,74.0
+05911000,"Bochum, Stadt",bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,357024.0
+05911000,"Bochum, Stadt",q_hausarzt_bev,Hausärzte,2022,6.03
+05911000,"Bochum, Stadt",q_ärzte_bev,Ärzte,2022,15.29
+05913000,"Dortmund, Stadt",H01_pfil_,Postfillialen insgesamt,2024,66.0
+05913000,"Dortmund, Stadt",Kitas,Kindertagesstätten,2024,337.0
+05913000,"Dortmund, Stadt",apoth,Apotheken,2024,113.0
+05913000,"Dortmund, Stadt",bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,601343.0
+05913000,"Dortmund, Stadt",q_hausarzt_bev,Hausärzte,2022,5.41
+05913000,"Dortmund, Stadt",q_ärzte_bev,Ärzte,2022,13.54
+05914000,"Hagen, Stadt der FernUniversität",H01_pfil_,Postfillialen insgesamt,2024,23.0
+05914000,"Hagen, Stadt der FernUniversität",Kitas,Kindertagesstätten,2024,108.0
+05914000,"Hagen, Stadt der FernUniversität",apoth,Apotheken,2024,29.0
+05914000,"Hagen, Stadt der FernUniversität",bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,190640.0
+05914000,"Hagen, Stadt der FernUniversität",q_hausarzt_bev,Hausärzte,2022,5.92
+05914000,"Hagen, Stadt der FernUniversität",q_ärzte_bev,Ärzte,2022,13.53
+05915000,"Hamm, Stadt",H01_pfil_,Postfillialen insgesamt,2024,21.0
+05915000,"Hamm, Stadt",Kitas,Kindertagesstätten,2024,107.0
+05915000,"Hamm, Stadt",apoth,Apotheken,2024,35.0
+05915000,"Hamm, Stadt",bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,179380.0
+05915000,"Hamm, Stadt",q_hausarzt_bev,Hausärzte,2022,4.83
+05915000,"Hamm, Stadt",q_ärzte_bev,Ärzte,2022,12.76
+05916000,"Herne, Stadt",H01_pfil_,Postfillialen insgesamt,2024,17.0
+05916000,"Herne, Stadt",Kitas,Kindertagesstätten,2024,73.0
+05916000,"Herne, Stadt",apoth,Apotheken,2024,29.0
+05916000,"Herne, Stadt",bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,156154.0
+05916000,"Herne, Stadt",q_hausarzt_bev,Hausärzte,2022,5.58
+05916000,"Herne, Stadt",q_ärzte_bev,Ärzte,2022,13.67
+05954000,Ennepe-Ruhr-Kreis,H01_pfil_,Postfillialen insgesamt,2024,39.0
+05954000,Ennepe-Ruhr-Kreis,Kitas,Kindertagesstätten,2024,195.0
+05954000,Ennepe-Ruhr-Kreis,apoth,Apotheken,2024,62.0
+05954000,Ennepe-Ruhr-Kreis,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,315069.0
+05954000,Ennepe-Ruhr-Kreis,q_hausarzt_bev,Hausärzte,2022,5.84
+05954000,Ennepe-Ruhr-Kreis,q_ärzte_bev,Ärzte,2022,13.98
+05958000,Hochsauerlandkreis,H01_pfil_,Postfillialen insgesamt,2024,36.0
+05958000,Hochsauerlandkreis,Kitas,Kindertagesstätten,2024,170.0
+05958000,Hochsauerlandkreis,apoth,Apotheken,2024,57.0
+05958000,Hochsauerlandkreis,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,261193.0
+05958000,Hochsauerlandkreis,q_hausarzt_bev,Hausärzte,2022,5.86
+05958000,Hochsauerlandkreis,q_ärzte_bev,Ärzte,2022,12.15
+05962000,Märkischer Kreis,H01_pfil_,Postfillialen insgesamt,2024,60.0
+05962000,Märkischer Kreis,Kitas,Kindertagesstätten,2024,232.0
+05962000,Märkischer Kreis,apoth,Apotheken,2024,83.0
+05962000,Märkischer Kreis,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,408899.0
+05962000,Märkischer Kreis,q_hausarzt_bev,Hausärzte,2022,5.61
+05962000,Märkischer Kreis,q_ärzte_bev,Ärzte,2022,12.19
+05966000,Olpe,H01_pfil_,Postfillialen insgesamt,2024,20.0
+05966000,Olpe,Kitas,Kindertagesstätten,2024,93.0
+05966000,Olpe,apoth,Apotheken,2024,28.0
+05966000,Olpe,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,132426.0
+05966000,Olpe,q_hausarzt_bev,Hausärzte,2022,5.87
+05966000,Olpe,q_ärzte_bev,Ärzte,2022,11.83
+05970000,Siegen-Wittgenstein,H01_pfil_,Postfillialen insgesamt,2024,45.0
+05970000,Siegen-Wittgenstein,Kitas,Kindertagesstätten,2024,208.0
+05970000,Siegen-Wittgenstein,apoth,Apotheken,2024,60.0
+05970000,Siegen-Wittgenstein,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,274379.0
+05970000,Siegen-Wittgenstein,q_hausarzt_bev,Hausärzte,2022,5.55
+05970000,Siegen-Wittgenstein,q_ärzte_bev,Ärzte,2022,12.55
+05974000,Soest,H01_pfil_,Postfillialen insgesamt,2024,39.0
+05974000,Soest,Kitas,Kindertagesstätten,2024,198.0
+05974000,Soest,apoth,Apotheken,2024,57.0
+05974000,Soest,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,300347.0
+05974000,Soest,q_hausarzt_bev,Hausärzte,2022,5.66
+05974000,Soest,q_ärzte_bev,Ärzte,2022,12.65
+05978000,Unna,H01_pfil_,Postfillialen insgesamt,2024,45.0
+05978000,Unna,Kitas,Kindertagesstätten,2024,210.0
+05978000,Unna,apoth,Apotheken,2024,84.0
+05978000,Unna,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,396283.0
+05978000,Unna,q_hausarzt_bev,Hausärzte,2022,5.5
+05978000,Unna,q_ärzte_bev,Ärzte,2022,12.8
+06411000,"Darmstadt, Wissenschaftsstadt",H01_pfil_,Postfillialen insgesamt,2024,18.0
+06411000,"Darmstadt, Wissenschaftsstadt",Kitas,Kindertagesstätten,2024,145.0
+06411000,"Darmstadt, Wissenschaftsstadt",apoth,Apotheken,2024,31.0
+06411000,"Darmstadt, Wissenschaftsstadt",bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,164832.0
+06411000,"Darmstadt, Wissenschaftsstadt",q_hausarzt_bev,Hausärzte,2022,6.58
+06411000,"Darmstadt, Wissenschaftsstadt",q_ärzte_bev,Ärzte,2022,20.7
+06412000,"Frankfurt am Main, Stadt",H01_pfil_,Postfillialen insgesamt,2024,75.0
+06412000,"Frankfurt am Main, Stadt",Kitas,Kindertagesstätten,2024,800.0
+06412000,"Frankfurt am Main, Stadt",apoth,Apotheken,2024,155.0
+06412000,"Frankfurt am Main, Stadt",bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,749596.0
+06412000,"Frankfurt am Main, Stadt",q_hausarzt_bev,Hausärzte,2022,6.1
+06412000,"Frankfurt am Main, Stadt",q_ärzte_bev,Ärzte,2022,17.67
+06413000,"Offenbach am Main, Stadt",H01_pfil_,Postfillialen insgesamt,2024,11.0
+06413000,"Offenbach am Main, Stadt",Kitas,Kindertagesstätten,2024,95.0
+06413000,"Offenbach am Main, Stadt",apoth,Apotheken,2024,20.0
+06413000,"Offenbach am Main, Stadt",bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,131845.0
+06413000,"Offenbach am Main, Stadt",q_hausarzt_bev,Hausärzte,2022,6.19
+06413000,"Offenbach am Main, Stadt",q_ärzte_bev,Ärzte,2022,17.75
+06414000,"Wiesbaden, Landeshauptstadt",H01_pfil_,Postfillialen insgesamt,2024,44.0
+06414000,"Wiesbaden, Landeshauptstadt",Kitas,Kindertagesstätten,2024,191.0
+06414000,"Wiesbaden, Landeshauptstadt",apoth,Apotheken,2024,63.0
+06414000,"Wiesbaden, Landeshauptstadt",bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,287241.0
+06414000,"Wiesbaden, Landeshauptstadt",q_hausarzt_bev,Hausärzte,2022,6.57
+06414000,"Wiesbaden, Landeshauptstadt",q_ärzte_bev,Ärzte,2022,19.58
+06431000,Bergstraße,H01_pfil_,Postfillialen insgesamt,2024,40.0
+06431000,Bergstraße,Kitas,Kindertagesstätten,2024,174.0
+06431000,Bergstraße,apoth,Apotheken,2024,59.0
+06431000,Bergstraße,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,274484.0
+06431000,Bergstraße,q_hausarzt_bev,Hausärzte,2022,5.98
+06431000,Bergstraße,q_ärzte_bev,Ärzte,2022,12.48
+06432000,Darmstadt-Dieburg,H01_pfil_,Postfillialen insgesamt,2024,52.0
+06432000,Darmstadt-Dieburg,Kitas,Kindertagesstätten,2024,173.0
+06432000,Darmstadt-Dieburg,apoth,Apotheken,2024,52.0
+06432000,Darmstadt-Dieburg,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,302263.0
+06432000,Darmstadt-Dieburg,q_hausarzt_bev,Hausärzte,2022,5.04
+06432000,Darmstadt-Dieburg,q_ärzte_bev,Ärzte,2022,10.38
+06433000,Groß-Gerau,H01_pfil_,Postfillialen insgesamt,2024,36.0
+06433000,Groß-Gerau,Kitas,Kindertagesstätten,2024,179.0
+06433000,Groß-Gerau,apoth,Apotheken,2024,57.0
+06433000,Groß-Gerau,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,267920.0
+06433000,Groß-Gerau,q_hausarzt_bev,Hausärzte,2022,5.79
+06433000,Groß-Gerau,q_ärzte_bev,Ärzte,2022,12.33
+06434000,Hochtaunuskreis,H01_pfil_,Postfillialen insgesamt,2024,34.0
+06434000,Hochtaunuskreis,Kitas,Kindertagesstätten,2024,165.0
+06434000,Hochtaunuskreis,apoth,Apotheken,2024,56.0
+06434000,Hochtaunuskreis,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,240622.0
+06434000,Hochtaunuskreis,q_hausarzt_bev,Hausärzte,2022,5.74
+06434000,Hochtaunuskreis,q_ärzte_bev,Ärzte,2022,14.45
+06435000,Main-Kinzig-Kreis,H01_pfil_,Postfillialen insgesamt,2024,70.0
+06435000,Main-Kinzig-Kreis,Kitas,Kindertagesstätten,2024,262.0
+06435000,Main-Kinzig-Kreis,apoth,Apotheken,2024,87.0
+06435000,Main-Kinzig-Kreis,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,419055.0
+06435000,Main-Kinzig-Kreis,q_hausarzt_bev,Hausärzte,2022,5.97
+06435000,Main-Kinzig-Kreis,q_ärzte_bev,Ärzte,2022,11.91
+06436000,Main-Taunus-Kreis,H01_pfil_,Postfillialen insgesamt,2024,35.0
+06436000,Main-Taunus-Kreis,Kitas,Kindertagesstätten,2024,163.0
+06436000,Main-Taunus-Kreis,apoth,Apotheken,2024,48.0
+06436000,Main-Taunus-Kreis,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,238593.0
+06436000,Main-Taunus-Kreis,q_hausarzt_bev,Hausärzte,2022,5.54
+06436000,Main-Taunus-Kreis,q_ärzte_bev,Ärzte,2022,12.81
+06437000,Odenwaldkreis,H01_pfil_,Postfillialen insgesamt,2024,20.0
+06437000,Odenwaldkreis,Kitas,Kindertagesstätten,2024,58.0
+06437000,Odenwaldkreis,apoth,Apotheken,2024,20.0
+06437000,Odenwaldkreis,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,94246.0
+06437000,Odenwaldkreis,q_hausarzt_bev,Hausärzte,2022,6.74
+06437000,Odenwaldkreis,q_ärzte_bev,Ärzte,2022,12.02
+06438000,Offenbach,H01_pfil_,Postfillialen insgesamt,2024,48.0
+06438000,Offenbach,Kitas,Kindertagesstätten,2024,214.0
+06438000,Offenbach,apoth,Apotheken,2024,72.0
+06438000,Offenbach,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,356578.0
+06438000,Offenbach,q_hausarzt_bev,Hausärzte,2022,5.72
+06438000,Offenbach,q_ärzte_bev,Ärzte,2022,12.14
+06439000,Rheingau-Taunus-Kreis,H01_pfil_,Postfillialen insgesamt,2024,34.0
+06439000,Rheingau-Taunus-Kreis,Kitas,Kindertagesstätten,2024,109.0
+06439000,Rheingau-Taunus-Kreis,apoth,Apotheken,2024,37.0
+06439000,Rheingau-Taunus-Kreis,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,186050.0
+06439000,Rheingau-Taunus-Kreis,q_hausarzt_bev,Hausärzte,2022,6.04
+06439000,Rheingau-Taunus-Kreis,q_ärzte_bev,Ärzte,2022,11.79
+06440000,Wetteraukreis,H01_pfil_,Postfillialen insgesamt,2024,51.0
+06440000,Wetteraukreis,Kitas,Kindertagesstätten,2024,203.0
+06440000,Wetteraukreis,apoth,Apotheken,2024,56.0
+06440000,Wetteraukreis,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,310705.0
+06440000,Wetteraukreis,q_hausarzt_bev,Hausärzte,2022,6.56
+06440000,Wetteraukreis,q_ärzte_bev,Ärzte,2022,12.61
+06531000,Gießen,H01_pfil_,Postfillialen insgesamt,2024,47.0
+06531000,Gießen,Kitas,Kindertagesstätten,2024,182.0
+06531000,Gießen,apoth,Apotheken,2024,58.0
+06531000,Gießen,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,268141.0
+06531000,Gießen,q_hausarzt_bev,Hausärzte,2022,6.96
+06531000,Gießen,q_ärzte_bev,Ärzte,2022,15.85
+06532000,Lahn-Dill-Kreis,H01_pfil_,Postfillialen insgesamt,2024,43.0
+06532000,Lahn-Dill-Kreis,Kitas,Kindertagesstätten,2024,154.0
+06532000,Lahn-Dill-Kreis,apoth,Apotheken,2024,60.0
+06532000,Lahn-Dill-Kreis,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,254444.0
+06532000,Lahn-Dill-Kreis,q_hausarzt_bev,Hausärzte,2022,6.5
+06532000,Lahn-Dill-Kreis,q_ärzte_bev,Ärzte,2022,13.72
+06533000,Limburg-Weilburg,H01_pfil_,Postfillialen insgesamt,2024,36.0
+06533000,Limburg-Weilburg,Kitas,Kindertagesstätten,2024,117.0
+06533000,Limburg-Weilburg,apoth,Apotheken,2024,38.0
+06533000,Limburg-Weilburg,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,174281.0
+06533000,Limburg-Weilburg,q_hausarzt_bev,Hausärzte,2022,6.13
+06533000,Limburg-Weilburg,q_ärzte_bev,Ärzte,2022,13.03
+06534000,Marburg-Biedenkopf,H01_pfil_,Postfillialen insgesamt,2024,40.0
+06534000,Marburg-Biedenkopf,Kitas,Kindertagesstätten,2024,168.0
+06534000,Marburg-Biedenkopf,apoth,Apotheken,2024,64.0
+06534000,Marburg-Biedenkopf,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,243093.0
+06534000,Marburg-Biedenkopf,q_hausarzt_bev,Hausärzte,2022,6.37
+06534000,Marburg-Biedenkopf,q_ärzte_bev,Ärzte,2022,14.73
+06535000,Vogelsbergkreis,H01_pfil_,Postfillialen insgesamt,2024,24.0
+06535000,Vogelsbergkreis,Kitas,Kindertagesstätten,2024,61.0
+06535000,Vogelsbergkreis,apoth,Apotheken,2024,26.0
+06535000,Vogelsbergkreis,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,101494.0
+06535000,Vogelsbergkreis,q_hausarzt_bev,Hausärzte,2022,6.25
+06535000,Vogelsbergkreis,q_ärzte_bev,Ärzte,2022,12.58
+06611000,"Kassel, documenta-Stadt",H01_pfil_,Postfillialen insgesamt,2024,25.0
+06611000,"Kassel, documenta-Stadt",Kitas,Kindertagesstätten,2024,158.0
+06611000,"Kassel, documenta-Stadt",apoth,Apotheken,2024,48.0
+06611000,"Kassel, documenta-Stadt",bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,197065.0
+06611000,"Kassel, documenta-Stadt",q_hausarzt_bev,Hausärzte,2022,6.73
+06611000,"Kassel, documenta-Stadt",q_ärzte_bev,Ärzte,2022,22.56
+06631000,Fulda,H01_pfil_,Postfillialen insgesamt,2024,37.0
+06631000,Fulda,Kitas,Kindertagesstätten,2024,154.0
+06631000,Fulda,apoth,Apotheken,2024,52.0
+06631000,Fulda,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,222688.0
+06631000,Fulda,q_hausarzt_bev,Hausärzte,2022,6.83
+06631000,Fulda,q_ärzte_bev,Ärzte,2022,14.51
+06632000,Hersfeld-Rotenburg,H01_pfil_,Postfillialen insgesamt,2024,27.0
+06632000,Hersfeld-Rotenburg,Kitas,Kindertagesstätten,2024,77.0
+06632000,Hersfeld-Rotenburg,apoth,Apotheken,2024,22.0
+06632000,Hersfeld-Rotenburg,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,118010.0
+06632000,Hersfeld-Rotenburg,q_hausarzt_bev,Hausärzte,2022,6.83
+06632000,Hersfeld-Rotenburg,q_ärzte_bev,Ärzte,2022,13.45
+06633000,Kassel,H01_pfil_,Postfillialen insgesamt,2024,46.0
+06633000,Kassel,Kitas,Kindertagesstätten,2024,154.0
+06633000,Kassel,apoth,Apotheken,2024,49.0
+06633000,Kassel,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,230742.0
+06633000,Kassel,q_hausarzt_bev,Hausärzte,2022,6.36
+06633000,Kassel,q_ärzte_bev,Ärzte,2022,12.06
+06634000,Schwalm-Eder-Kreis,H01_pfil_,Postfillialen insgesamt,2024,32.0
+06634000,Schwalm-Eder-Kreis,Kitas,Kindertagesstätten,2024,104.0
+06634000,Schwalm-Eder-Kreis,apoth,Apotheken,2024,38.0
+06634000,Schwalm-Eder-Kreis,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,180368.0
+06634000,Schwalm-Eder-Kreis,q_hausarzt_bev,Hausärzte,2022,5.92
+06634000,Schwalm-Eder-Kreis,q_ärzte_bev,Ärzte,2022,10.63
+06635000,Waldeck-Frankenberg,H01_pfil_,Postfillialen insgesamt,2024,34.0
+06635000,Waldeck-Frankenberg,Kitas,Kindertagesstätten,2024,101.0
+06635000,Waldeck-Frankenberg,apoth,Apotheken,2024,33.0
+06635000,Waldeck-Frankenberg,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,155135.0
+06635000,Waldeck-Frankenberg,q_hausarzt_bev,Hausärzte,2022,6.34
+06635000,Waldeck-Frankenberg,q_ärzte_bev,Ärzte,2022,13.57
+06636000,Werra-Meißner-Kreis,H01_pfil_,Postfillialen insgesamt,2024,22.0
+06636000,Werra-Meißner-Kreis,Kitas,Kindertagesstätten,2024,63.0
+06636000,Werra-Meißner-Kreis,apoth,Apotheken,2024,24.0
+06636000,Werra-Meißner-Kreis,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,98055.0
+06636000,Werra-Meißner-Kreis,q_hausarzt_bev,Hausärzte,2022,5.99
+06636000,Werra-Meißner-Kreis,q_ärzte_bev,Ärzte,2022,11.91
+07111000,"Koblenz, kreisfreie Stadt",H01_pfil_,Postfillialen insgesamt,2024,21.0
+07111000,"Koblenz, kreisfreie Stadt",Kitas,Kindertagesstätten,2024,66.0
+07111000,"Koblenz, kreisfreie Stadt",apoth,Apotheken,2024,27.0
+07111000,"Koblenz, kreisfreie Stadt",bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,113346.0
+07111000,"Koblenz, kreisfreie Stadt",q_hausarzt_bev,Hausärzte,2022,6.91
+07111000,"Koblenz, kreisfreie Stadt",q_ärzte_bev,Ärzte,2022,24.23
+07131000,Ahrweiler,H01_pfil_,Postfillialen insgesamt,2024,20.0
+07131000,Ahrweiler,Kitas,Kindertagesstätten,2024,88.0
+07131000,Ahrweiler,apoth,Apotheken,2024,28.0
+07131000,Ahrweiler,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,128546.0
+07131000,Ahrweiler,q_hausarzt_bev,Hausärzte,2022,6.27
+07131000,Ahrweiler,q_ärzte_bev,Ärzte,2022,13.9
+07132000,Altenkirchen (Westerwald),H01_pfil_,Postfillialen insgesamt,2024,22.0
+07132000,Altenkirchen (Westerwald),Kitas,Kindertagesstätten,2024,81.0
+07132000,Altenkirchen (Westerwald),apoth,Apotheken,2024,26.0
+07132000,Altenkirchen (Westerwald),bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,132149.0
+07132000,Altenkirchen (Westerwald),q_hausarzt_bev,Hausärzte,2022,6.06
+07132000,Altenkirchen (Westerwald),q_ärzte_bev,Ärzte,2022,10.52
+07133000,Bad Kreuznach,H01_pfil_,Postfillialen insgesamt,2024,25.0
+07133000,Bad Kreuznach,Kitas,Kindertagesstätten,2024,109.0
+07133000,Bad Kreuznach,apoth,Apotheken,2024,29.0
+07133000,Bad Kreuznach,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,164564.0
+07133000,Bad Kreuznach,q_hausarzt_bev,Hausärzte,2022,6.05
+07133000,Bad Kreuznach,q_ärzte_bev,Ärzte,2022,12.65
+07134000,Birkenfeld,H01_pfil_,Postfillialen insgesamt,2024,14.0
+07134000,Birkenfeld,Kitas,Kindertagesstätten,2024,50.0
+07134000,Birkenfeld,apoth,Apotheken,2024,16.0
+07134000,Birkenfeld,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,82622.0
+07134000,Birkenfeld,q_hausarzt_bev,Hausärzte,2022,6.38
+07134000,Birkenfeld,q_ärzte_bev,Ärzte,2022,11.84
+07135000,Cochem-Zell,H01_pfil_,Postfillialen insgesamt,2024,11.0
+07135000,Cochem-Zell,Kitas,Kindertagesstätten,2024,44.0
+07135000,Cochem-Zell,apoth,Apotheken,2024,13.0
+07135000,Cochem-Zell,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,61538.0
+07135000,Cochem-Zell,q_hausarzt_bev,Hausärzte,2022,5.69
+07135000,Cochem-Zell,q_ärzte_bev,Ärzte,2022,11.79
+07137000,Mayen-Koblenz,H01_pfil_,Postfillialen insgesamt,2024,42.0
+07137000,Mayen-Koblenz,Kitas,Kindertagesstätten,2024,145.0
+07137000,Mayen-Koblenz,apoth,Apotheken,2024,38.0
+07137000,Mayen-Koblenz,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,216874.0
+07137000,Mayen-Koblenz,q_hausarzt_bev,Hausärzte,2022,5.79
+07137000,Mayen-Koblenz,q_ärzte_bev,Ärzte,2022,10.88
+07138000,Neuwied,H01_pfil_,Postfillialen insgesamt,2024,34.0
+07138000,Neuwied,Kitas,Kindertagesstätten,2024,113.0
+07138000,Neuwied,apoth,Apotheken,2024,38.0
+07138000,Neuwied,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,188656.0
+07138000,Neuwied,q_hausarzt_bev,Hausärzte,2022,6.32
+07138000,Neuwied,q_ärzte_bev,Ärzte,2022,12.56
+07140000,Rhein-Hunsrück-Kreis,H01_pfil_,Postfillialen insgesamt,2024,16.0
+07140000,Rhein-Hunsrück-Kreis,Kitas,Kindertagesstätten,2024,72.0
+07140000,Rhein-Hunsrück-Kreis,apoth,Apotheken,2024,18.0
+07140000,Rhein-Hunsrück-Kreis,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,106390.0
+07140000,Rhein-Hunsrück-Kreis,q_hausarzt_bev,Hausärzte,2022,6.18
+07140000,Rhein-Hunsrück-Kreis,q_ärzte_bev,Ärzte,2022,11.92
+07141000,Rhein-Lahn-Kreis,H01_pfil_,Postfillialen insgesamt,2024,18.0
+07141000,Rhein-Lahn-Kreis,Kitas,Kindertagesstätten,2024,93.0
+07141000,Rhein-Lahn-Kreis,apoth,Apotheken,2024,21.0
+07141000,Rhein-Lahn-Kreis,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,125283.0
+07141000,Rhein-Lahn-Kreis,q_hausarzt_bev,Hausärzte,2022,5.93
+07141000,Rhein-Lahn-Kreis,q_ärzte_bev,Ärzte,2022,11.83
+07143000,Westerwaldkreis,H01_pfil_,Postfillialen insgesamt,2024,28.0
+07143000,Westerwaldkreis,Kitas,Kindertagesstätten,2024,131.0
+07143000,Westerwaldkreis,apoth,Apotheken,2024,37.0
+07143000,Westerwaldkreis,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,207648.0
+07143000,Westerwaldkreis,q_hausarzt_bev,Hausärzte,2022,5.78
+07143000,Westerwaldkreis,q_ärzte_bev,Ärzte,2022,10.98
+07211000,"Trier, kreisfreie Stadt",H01_pfil_,Postfillialen insgesamt,2024,19.0
+07211000,"Trier, kreisfreie Stadt",Kitas,Kindertagesstätten,2024,68.0
+07211000,"Trier, kreisfreie Stadt",apoth,Apotheken,2024,28.0
+07211000,"Trier, kreisfreie Stadt",bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,103986.0
+07211000,"Trier, kreisfreie Stadt",q_hausarzt_bev,Hausärzte,2022,6.56
+07211000,"Trier, kreisfreie Stadt",q_ärzte_bev,Ärzte,2022,24.1
+07231000,Bernkastel-Wittlich,H01_pfil_,Postfillialen insgesamt,2024,24.0
+07231000,Bernkastel-Wittlich,Kitas,Kindertagesstätten,2024,80.0
+07231000,Bernkastel-Wittlich,apoth,Apotheken,2024,18.0
+07231000,Bernkastel-Wittlich,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,113327.0
+07231000,Bernkastel-Wittlich,q_hausarzt_bev,Hausärzte,2022,5.91
+07231000,Bernkastel-Wittlich,q_ärzte_bev,Ärzte,2022,12.84
+07232000,Eifelkreis Bitburg-Prüm,H01_pfil_,Postfillialen insgesamt,2024,20.0
+07232000,Eifelkreis Bitburg-Prüm,Kitas,Kindertagesstätten,2024,69.0
+07232000,Eifelkreis Bitburg-Prüm,apoth,Apotheken,2024,19.0
+07232000,Eifelkreis Bitburg-Prüm,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,100740.0
+07232000,Eifelkreis Bitburg-Prüm,q_hausarzt_bev,Hausärzte,2022,5.03
+07232000,Eifelkreis Bitburg-Prüm,q_ärzte_bev,Ärzte,2022,9.86
+07233000,Vulkaneifel,H01_pfil_,Postfillialen insgesamt,2024,12.0
+07233000,Vulkaneifel,Kitas,Kindertagesstätten,2024,32.0
+07233000,Vulkaneifel,apoth,Apotheken,2024,12.0
+07233000,Vulkaneifel,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,59542.0
+07233000,Vulkaneifel,q_hausarzt_bev,Hausärzte,2022,6.57
+07233000,Vulkaneifel,q_ärzte_bev,Ärzte,2022,12.29
+07235000,Trier-Saarburg,H01_pfil_,Postfillialen insgesamt,2024,30.0
+07235000,Trier-Saarburg,Kitas,Kindertagesstätten,2024,92.0
+07235000,Trier-Saarburg,apoth,Apotheken,2024,24.0
+07235000,Trier-Saarburg,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,149056.0
+07235000,Trier-Saarburg,q_hausarzt_bev,Hausärzte,2022,5.3
+07235000,Trier-Saarburg,q_ärzte_bev,Ärzte,2022,10.23
+07311000,"Frankenthal (Pfalz), kreisfreie Stadt",H01_pfil_,Postfillialen insgesamt,2024,6.0
+07311000,"Frankenthal (Pfalz), kreisfreie Stadt",Kitas,Kindertagesstätten,2024,30.0
+07311000,"Frankenthal (Pfalz), kreisfreie Stadt",apoth,Apotheken,2024,11.0
+07311000,"Frankenthal (Pfalz), kreisfreie Stadt",bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,48107.0
+07311000,"Frankenthal (Pfalz), kreisfreie Stadt",q_hausarzt_bev,Hausärzte,2022,6.51
+07311000,"Frankenthal (Pfalz), kreisfreie Stadt",q_ärzte_bev,Ärzte,2022,18.07
+07312000,"Kaiserslautern, kreisfreie Stadt",H01_pfil_,Postfillialen insgesamt,2024,17.0
+07312000,"Kaiserslautern, kreisfreie Stadt",Kitas,Kindertagesstätten,2024,59.0
+07312000,"Kaiserslautern, kreisfreie Stadt",apoth,Apotheken,2024,24.0
+07312000,"Kaiserslautern, kreisfreie Stadt",bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,100571.0
+07312000,"Kaiserslautern, kreisfreie Stadt",q_hausarzt_bev,Hausärzte,2022,5.78
+07312000,"Kaiserslautern, kreisfreie Stadt",q_ärzte_bev,Ärzte,2022,20.39
+07313000,"Landau in der Pfalz, kreisfreie Stadt",H01_pfil_,Postfillialen insgesamt,2024,7.0
+07313000,"Landau in der Pfalz, kreisfreie Stadt",Kitas,Kindertagesstätten,2024,34.0
+07313000,"Landau in der Pfalz, kreisfreie Stadt",apoth,Apotheken,2024,13.0
+07313000,"Landau in der Pfalz, kreisfreie Stadt",bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,48202.0
+07313000,"Landau in der Pfalz, kreisfreie Stadt",q_hausarzt_bev,Hausärzte,2022,6.49
+07313000,"Landau in der Pfalz, kreisfreie Stadt",q_ärzte_bev,Ärzte,2022,21.65
+07314000,"Ludwigshafen am Rhein, kreisfreie Stadt",H01_pfil_,Postfillialen insgesamt,2024,14.0
+07314000,"Ludwigshafen am Rhein, kreisfreie Stadt",Kitas,Kindertagesstätten,2024,98.0
+07314000,"Ludwigshafen am Rhein, kreisfreie Stadt",apoth,Apotheken,2024,41.0
+07314000,"Ludwigshafen am Rhein, kreisfreie Stadt",bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,175816.0
+07314000,"Ludwigshafen am Rhein, kreisfreie Stadt",q_hausarzt_bev,Hausärzte,2022,6.33
+07314000,"Ludwigshafen am Rhein, kreisfreie Stadt",q_ärzte_bev,Ärzte,2022,18.19
+07315000,"Mainz, kreisfreie Stadt",H01_pfil_,Postfillialen insgesamt,2024,26.0
+07315000,"Mainz, kreisfreie Stadt",Kitas,Kindertagesstätten,2024,133.0
+07315000,"Mainz, kreisfreie Stadt",apoth,Apotheken,2024,53.0
+07315000,"Mainz, kreisfreie Stadt",bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,223871.0
+07315000,"Mainz, kreisfreie Stadt",q_hausarzt_bev,Hausärzte,2022,5.71
+07315000,"Mainz, kreisfreie Stadt",q_ärzte_bev,Ärzte,2022,18.95
+07316000,"Neustadt an der Weinstraße, kreisfreie Stadt",H01_pfil_,Postfillialen insgesamt,2024,6.0
+07316000,"Neustadt an der Weinstraße, kreisfreie Stadt",Kitas,Kindertagesstätten,2024,37.0
+07316000,"Neustadt an der Weinstraße, kreisfreie Stadt",apoth,Apotheken,2024,12.0
+07316000,"Neustadt an der Weinstraße, kreisfreie Stadt",bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,52709.0
+07316000,"Neustadt an der Weinstraße, kreisfreie Stadt",q_hausarzt_bev,Hausärzte,2022,5.41
+07316000,"Neustadt an der Weinstraße, kreisfreie Stadt",q_ärzte_bev,Ärzte,2022,21.13
+07317000,"Pirmasens, kreisfreie Stadt",H01_pfil_,Postfillialen insgesamt,2024,8.0
+07317000,"Pirmasens, kreisfreie Stadt",Kitas,Kindertagesstätten,2024,33.0
+07317000,"Pirmasens, kreisfreie Stadt",apoth,Apotheken,2024,7.0
+07317000,"Pirmasens, kreisfreie Stadt",bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,39576.0
+07317000,"Pirmasens, kreisfreie Stadt",q_hausarzt_bev,Hausärzte,2022,6.29
+07317000,"Pirmasens, kreisfreie Stadt",q_ärzte_bev,Ärzte,2022,20.41
+07318000,"Speyer, kreisfreie Stadt",H01_pfil_,Postfillialen insgesamt,2024,4.0
+07318000,"Speyer, kreisfreie Stadt",Kitas,Kindertagesstätten,2024,33.0
+07318000,"Speyer, kreisfreie Stadt",apoth,Apotheken,2024,12.0
+07318000,"Speyer, kreisfreie Stadt",bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,49874.0
+07318000,"Speyer, kreisfreie Stadt",q_hausarzt_bev,Hausärzte,2022,6.42
+07318000,"Speyer, kreisfreie Stadt",q_ärzte_bev,Ärzte,2022,22.15
+07319000,"Worms, kreisfreie Stadt",H01_pfil_,Postfillialen insgesamt,2024,14.0
+07319000,"Worms, kreisfreie Stadt",Kitas,Kindertagesstätten,2024,55.0
+07319000,"Worms, kreisfreie Stadt",apoth,Apotheken,2024,19.0
+07319000,"Worms, kreisfreie Stadt",bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,86403.0
+07319000,"Worms, kreisfreie Stadt",q_hausarzt_bev,Hausärzte,2022,5.45
+07319000,"Worms, kreisfreie Stadt",q_ärzte_bev,Ärzte,2022,15.49
+07320000,"Zweibrücken, kreisfreie Stadt",H01_pfil_,Postfillialen insgesamt,2024,5.0
+07320000,"Zweibrücken, kreisfreie Stadt",Kitas,Kindertagesstätten,2024,26.0
+07320000,"Zweibrücken, kreisfreie Stadt",apoth,Apotheken,2024,10.0
+07320000,"Zweibrücken, kreisfreie Stadt",bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,33355.0
+07320000,"Zweibrücken, kreisfreie Stadt",q_hausarzt_bev,Hausärzte,2022,6.54
+07320000,"Zweibrücken, kreisfreie Stadt",q_ärzte_bev,Ärzte,2022,19.16
+07331000,Alzey-Worms,H01_pfil_,Postfillialen insgesamt,2024,18.0
+07331000,Alzey-Worms,Kitas,Kindertagesstätten,2024,97.0
+07331000,Alzey-Worms,apoth,Apotheken,2024,22.0
+07331000,Alzey-Worms,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,130794.0
+07331000,Alzey-Worms,q_hausarzt_bev,Hausärzte,2022,6.22
+07331000,Alzey-Worms,q_ärzte_bev,Ärzte,2022,11.03
+07332000,Bad Dürkheim,H01_pfil_,Postfillialen insgesamt,2024,26.0
+07332000,Bad Dürkheim,Kitas,Kindertagesstätten,2024,92.0
+07332000,Bad Dürkheim,apoth,Apotheken,2024,28.0
+07332000,Bad Dürkheim,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,134221.0
+07332000,Bad Dürkheim,q_hausarzt_bev,Hausärzte,2022,6.17
+07332000,Bad Dürkheim,q_ärzte_bev,Ärzte,2022,10.76
+07333000,Donnersbergkreis,H01_pfil_,Postfillialen insgesamt,2024,13.0
+07333000,Donnersbergkreis,Kitas,Kindertagesstätten,2024,62.0
+07333000,Donnersbergkreis,apoth,Apotheken,2024,12.0
+07333000,Donnersbergkreis,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,74728.0
+07333000,Donnersbergkreis,q_hausarzt_bev,Hausärzte,2022,4.98
+07333000,Donnersbergkreis,q_ärzte_bev,Ärzte,2022,10.95
+07334000,Germersheim,H01_pfil_,Postfillialen insgesamt,2024,22.0
+07334000,Germersheim,Kitas,Kindertagesstätten,2024,89.0
+07334000,Germersheim,apoth,Apotheken,2024,28.0
+07334000,Germersheim,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,131678.0
+07334000,Germersheim,q_hausarzt_bev,Hausärzte,2022,5.21
+07334000,Germersheim,q_ärzte_bev,Ärzte,2022,10.0
+07335000,Kaiserslautern,H01_pfil_,Postfillialen insgesamt,2024,22.0
+07335000,Kaiserslautern,Kitas,Kindertagesstätten,2024,72.0
+07335000,Kaiserslautern,apoth,Apotheken,2024,23.0
+07335000,Kaiserslautern,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,106082.0
+07335000,Kaiserslautern,q_hausarzt_bev,Hausärzte,2022,6.56
+07335000,Kaiserslautern,q_ärzte_bev,Ärzte,2022,11.87
+07336000,Kusel,H01_pfil_,Postfillialen insgesamt,2024,8.0
+07336000,Kusel,Kitas,Kindertagesstätten,2024,51.0
+07336000,Kusel,apoth,Apotheken,2024,15.0
+07336000,Kusel,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,69846.0
+07336000,Kusel,q_hausarzt_bev,Hausärzte,2022,5.78
+07336000,Kusel,q_ärzte_bev,Ärzte,2022,11.62
+07337000,Südliche Weinstraße,H01_pfil_,Postfillialen insgesamt,2024,18.0
+07337000,Südliche Weinstraße,Kitas,Kindertagesstätten,2024,81.0
+07337000,Südliche Weinstraße,apoth,Apotheken,2024,24.0
+07337000,Südliche Weinstraße,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,113150.0
+07337000,Südliche Weinstraße,q_hausarzt_bev,Hausärzte,2022,6.11
+07337000,Südliche Weinstraße,q_ärzte_bev,Ärzte,2022,9.65
+07338000,Rhein-Pfalz-Kreis,H01_pfil_,Postfillialen insgesamt,2024,24.0
+07338000,Rhein-Pfalz-Kreis,Kitas,Kindertagesstätten,2024,105.0
+07338000,Rhein-Pfalz-Kreis,apoth,Apotheken,2024,33.0
+07338000,Rhein-Pfalz-Kreis,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,155525.0
+07338000,Rhein-Pfalz-Kreis,q_hausarzt_bev,Hausärzte,2022,5.29
+07338000,Rhein-Pfalz-Kreis,q_ärzte_bev,Ärzte,2022,8.56
+07339000,Mainz-Bingen,H01_pfil_,Postfillialen insgesamt,2024,38.0
+07339000,Mainz-Bingen,Kitas,Kindertagesstätten,2024,165.0
+07339000,Mainz-Bingen,apoth,Apotheken,2024,42.0
+07339000,Mainz-Bingen,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,206220.0
+07339000,Mainz-Bingen,q_hausarzt_bev,Hausärzte,2022,6.54
+07339000,Mainz-Bingen,q_ärzte_bev,Ärzte,2022,13.28
+07340000,Südwestpfalz,H01_pfil_,Postfillialen insgesamt,2024,17.0
+07340000,Südwestpfalz,Kitas,Kindertagesstätten,2024,77.0
+07340000,Südwestpfalz,apoth,Apotheken,2024,20.0
+07340000,Südwestpfalz,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,90168.0
+07340000,Südwestpfalz,q_hausarzt_bev,Hausärzte,2022,6.66
+07340000,Südwestpfalz,q_ärzte_bev,Ärzte,2022,7.99
+08111000,"Stuttgart, Stadtkreis",H01_pfil_,Postfillialen insgesamt,2024,60.0
+08111000,"Stuttgart, Stadtkreis",Kitas,Kindertagesstätten,2024,599.0
+08111000,"Stuttgart, Stadtkreis",apoth,Apotheken,2024,102.0
+08111000,"Stuttgart, Stadtkreis",bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,613111.0
+08111000,"Stuttgart, Stadtkreis",q_hausarzt_bev,Hausärzte,2022,5.92
+08111000,"Stuttgart, Stadtkreis",q_ärzte_bev,Ärzte,2022,17.58
+08115000,Böblingen,H01_pfil_,Postfillialen insgesamt,2024,62.0
+08115000,Böblingen,Kitas,Kindertagesstätten,2024,335.0
+08115000,Böblingen,apoth,Apotheken,2024,69.0
+08115000,Böblingen,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,394261.0
+08115000,Böblingen,q_hausarzt_bev,Hausärzte,2022,5.19
+08115000,Böblingen,q_ärzte_bev,Ärzte,2022,11.49
+08116000,Esslingen,H01_pfil_,Postfillialen insgesamt,2024,80.0
+08116000,Esslingen,Kitas,Kindertagesstätten,2024,462.0
+08116000,Esslingen,apoth,Apotheken,2024,99.0
+08116000,Esslingen,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,536027.0
+08116000,Esslingen,q_hausarzt_bev,Hausärzte,2022,5.62
+08116000,Esslingen,q_ärzte_bev,Ärzte,2022,12.37
+08117000,Göppingen,H01_pfil_,Postfillialen insgesamt,2024,48.0
+08117000,Göppingen,Kitas,Kindertagesstätten,2024,213.0
+08117000,Göppingen,apoth,Apotheken,2024,53.0
+08117000,Göppingen,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,259232.0
+08117000,Göppingen,q_hausarzt_bev,Hausärzte,2022,5.35
+08117000,Göppingen,q_ärzte_bev,Ärzte,2022,11.37
+08118000,Ludwigsburg,H01_pfil_,Postfillialen insgesamt,2024,82.0
+08118000,Ludwigsburg,Kitas,Kindertagesstätten,2024,463.0
+08118000,Ludwigsburg,apoth,Apotheken,2024,92.0
+08118000,Ludwigsburg,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,534808.0
+08118000,Ludwigsburg,q_hausarzt_bev,Hausärzte,2022,6.21
+08118000,Ludwigsburg,q_ärzte_bev,Ärzte,2022,12.78
+08119000,Rems-Murr-Kreis,H01_pfil_,Postfillialen insgesamt,2024,67.0
+08119000,Rems-Murr-Kreis,Kitas,Kindertagesstätten,2024,408.0
+08119000,Rems-Murr-Kreis,apoth,Apotheken,2024,79.0
+08119000,Rems-Murr-Kreis,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,440103.0
+08119000,Rems-Murr-Kreis,q_hausarzt_bev,Hausärzte,2022,5.49
+08119000,Rems-Murr-Kreis,q_ärzte_bev,Ärzte,2022,11.62
+08121000,"Heilbronn, Stadtkreis",H01_pfil_,Postfillialen insgesamt,2024,19.0
+08121000,"Heilbronn, Stadtkreis",Kitas,Kindertagesstätten,2024,110.0
+08121000,"Heilbronn, Stadtkreis",apoth,Apotheken,2024,22.0
+08121000,"Heilbronn, Stadtkreis",bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,131653.0
+08121000,"Heilbronn, Stadtkreis",q_hausarzt_bev,Hausärzte,2022,6.14
+08121000,"Heilbronn, Stadtkreis",q_ärzte_bev,Ärzte,2022,18.28
+08125000,Heilbronn,H01_pfil_,Postfillialen insgesamt,2024,64.0
+08125000,Heilbronn,Kitas,Kindertagesstätten,2024,328.0
+08125000,Heilbronn,apoth,Apotheken,2024,61.0
+08125000,Heilbronn,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,353609.0
+08125000,Heilbronn,q_hausarzt_bev,Hausärzte,2022,5.36
+08125000,Heilbronn,q_ärzte_bev,Ärzte,2022,10.59
+08126000,Hohenlohekreis,H01_pfil_,Postfillialen insgesamt,2024,19.0
+08126000,Hohenlohekreis,Kitas,Kindertagesstätten,2024,103.0
+08126000,Hohenlohekreis,apoth,Apotheken,2024,19.0
+08126000,Hohenlohekreis,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,115335.0
+08126000,Hohenlohekreis,q_hausarzt_bev,Hausärzte,2022,5.72
+08126000,Hohenlohekreis,q_ärzte_bev,Ärzte,2022,10.85
+08127000,Schwäbisch Hall,H01_pfil_,Postfillialen insgesamt,2024,44.0
+08127000,Schwäbisch Hall,Kitas,Kindertagesstätten,2024,184.0
+08127000,Schwäbisch Hall,apoth,Apotheken,2024,30.0
+08127000,Schwäbisch Hall,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,200597.0
+08127000,Schwäbisch Hall,q_hausarzt_bev,Hausärzte,2022,6.03
+08127000,Schwäbisch Hall,q_ärzte_bev,Ärzte,2022,11.55
+08128000,Main-Tauber-Kreis,H01_pfil_,Postfillialen insgesamt,2024,26.0
+08128000,Main-Tauber-Kreis,Kitas,Kindertagesstätten,2024,124.0
+08128000,Main-Tauber-Kreis,apoth,Apotheken,2024,32.0
+08128000,Main-Tauber-Kreis,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,133459.0
+08128000,Main-Tauber-Kreis,q_hausarzt_bev,Hausärzte,2022,6.17
+08128000,Main-Tauber-Kreis,q_ärzte_bev,Ärzte,2022,14.01
+08135000,Heidenheim,H01_pfil_,Postfillialen insgesamt,2024,24.0
+08135000,Heidenheim,Kitas,Kindertagesstätten,2024,123.0
+08135000,Heidenheim,apoth,Apotheken,2024,25.0
+08135000,Heidenheim,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,135241.0
+08135000,Heidenheim,q_hausarzt_bev,Hausärzte,2022,5.75
+08135000,Heidenheim,q_ärzte_bev,Ärzte,2022,12.13
+08136000,Ostalbkreis,H01_pfil_,Postfillialen insgesamt,2024,63.0
+08136000,Ostalbkreis,Kitas,Kindertagesstätten,2024,288.0
+08136000,Ostalbkreis,apoth,Apotheken,2024,60.0
+08136000,Ostalbkreis,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,317263.0
+08136000,Ostalbkreis,q_hausarzt_bev,Hausärzte,2022,5.65
+08136000,Ostalbkreis,q_ärzte_bev,Ärzte,2022,11.89
+08211000,"Baden-Baden, Stadtkreis",H01_pfil_,Postfillialen insgesamt,2024,9.0
+08211000,"Baden-Baden, Stadtkreis",Kitas,Kindertagesstätten,2024,36.0
+08211000,"Baden-Baden, Stadtkreis",apoth,Apotheken,2024,20.0
+08211000,"Baden-Baden, Stadtkreis",bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,56526.0
+08211000,"Baden-Baden, Stadtkreis",q_hausarzt_bev,Hausärzte,2022,7.76
+08211000,"Baden-Baden, Stadtkreis",q_ärzte_bev,Ärzte,2022,22.69
+08212000,"Karlsruhe, Stadtkreis",H01_pfil_,Postfillialen insgesamt,2024,37.0
+08212000,"Karlsruhe, Stadtkreis",Kitas,Kindertagesstätten,2024,237.0
+08212000,"Karlsruhe, Stadtkreis",apoth,Apotheken,2024,67.0
+08212000,"Karlsruhe, Stadtkreis",bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,308197.0
+08212000,"Karlsruhe, Stadtkreis",q_hausarzt_bev,Hausärzte,2022,5.76
+08212000,"Karlsruhe, Stadtkreis",q_ärzte_bev,Ärzte,2022,18.06
+08215000,Karlsruhe,H01_pfil_,Postfillialen insgesamt,2024,79.0
+08215000,Karlsruhe,Kitas,Kindertagesstätten,2024,332.0
+08215000,Karlsruhe,apoth,Apotheken,2024,92.0
+08215000,Karlsruhe,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,455350.0
+08215000,Karlsruhe,q_hausarzt_bev,Hausärzte,2022,5.37
+08215000,Karlsruhe,q_ärzte_bev,Ärzte,2022,11.23
+08216000,Rastatt,H01_pfil_,Postfillialen insgesamt,2024,41.0
+08216000,Rastatt,Kitas,Kindertagesstätten,2024,143.0
+08216000,Rastatt,apoth,Apotheken,2024,48.0
+08216000,Rastatt,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,231356.0
+08216000,Rastatt,q_hausarzt_bev,Hausärzte,2022,5.79
+08216000,Rastatt,q_ärzte_bev,Ärzte,2022,10.91
+08221000,"Heidelberg, Stadtkreis",H01_pfil_,Postfillialen insgesamt,2024,16.0
+08221000,"Heidelberg, Stadtkreis",Kitas,Kindertagesstätten,2024,135.0
+08221000,"Heidelberg, Stadtkreis",apoth,Apotheken,2024,38.0
+08221000,"Heidelberg, Stadtkreis",bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,155175.0
+08221000,"Heidelberg, Stadtkreis",q_hausarzt_bev,Hausärzte,2022,6.95
+08221000,"Heidelberg, Stadtkreis",q_ärzte_bev,Ärzte,2022,27.53
+08222000,"Mannheim, Stadtkreis",H01_pfil_,Postfillialen insgesamt,2024,32.0
+08222000,"Mannheim, Stadtkreis",Kitas,Kindertagesstätten,2024,213.0
+08222000,"Mannheim, Stadtkreis",apoth,Apotheken,2024,73.0
+08222000,"Mannheim, Stadtkreis",bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,316256.0
+08222000,"Mannheim, Stadtkreis",q_hausarzt_bev,Hausärzte,2022,6.45
+08222000,"Mannheim, Stadtkreis",q_ärzte_bev,Ärzte,2022,18.41
+08225000,Neckar-Odenwald-Kreis,H01_pfil_,Postfillialen insgesamt,2024,31.0
+08225000,Neckar-Odenwald-Kreis,Kitas,Kindertagesstätten,2024,122.0
+08225000,Neckar-Odenwald-Kreis,apoth,Apotheken,2024,34.0
+08225000,Neckar-Odenwald-Kreis,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,145681.0
+08225000,Neckar-Odenwald-Kreis,q_hausarzt_bev,Hausärzte,2022,5.56
+08225000,Neckar-Odenwald-Kreis,q_ärzte_bev,Ärzte,2022,11.2
+08226000,Rhein-Neckar-Kreis,H01_pfil_,Postfillialen insgesamt,2024,92.0
+08226000,Rhein-Neckar-Kreis,Kitas,Kindertagesstätten,2024,404.0
+08226000,Rhein-Neckar-Kreis,apoth,Apotheken,2024,129.0
+08226000,Rhein-Neckar-Kreis,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,557819.0
+08226000,Rhein-Neckar-Kreis,q_hausarzt_bev,Hausärzte,2022,6.24
+08226000,Rhein-Neckar-Kreis,q_ärzte_bev,Ärzte,2022,13.18
+08231000,"Pforzheim, Stadtkreis",H01_pfil_,Postfillialen insgesamt,2024,20.0
+08231000,"Pforzheim, Stadtkreis",Kitas,Kindertagesstätten,2024,95.0
+08231000,"Pforzheim, Stadtkreis",apoth,Apotheken,2024,26.0
+08231000,"Pforzheim, Stadtkreis",bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,135087.0
+08231000,"Pforzheim, Stadtkreis",q_hausarzt_bev,Hausärzte,2022,5.74
+08231000,"Pforzheim, Stadtkreis",q_ärzte_bev,Ärzte,2022,18.17
+08235000,Calw,H01_pfil_,Postfillialen insgesamt,2024,32.0
+08235000,Calw,Kitas,Kindertagesstätten,2024,143.0
+08235000,Calw,apoth,Apotheken,2024,29.0
+08235000,Calw,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,161181.0
+08235000,Calw,q_hausarzt_bev,Hausärzte,2022,5.53
+08235000,Calw,q_ärzte_bev,Ärzte,2022,11.1
+08236000,Enzkreis,H01_pfil_,Postfillialen insgesamt,2024,38.0
+08236000,Enzkreis,Kitas,Kindertagesstätten,2024,167.0
+08236000,Enzkreis,apoth,Apotheken,2024,37.0
+08236000,Enzkreis,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,199878.0
+08236000,Enzkreis,q_hausarzt_bev,Hausärzte,2022,5.18
+08236000,Enzkreis,q_ärzte_bev,Ärzte,2022,9.94
+08237000,Freudenstadt,H01_pfil_,Postfillialen insgesamt,2024,26.0
+08237000,Freudenstadt,Kitas,Kindertagesstätten,2024,107.0
+08237000,Freudenstadt,apoth,Apotheken,2024,22.0
+08237000,Freudenstadt,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,121901.0
+08237000,Freudenstadt,q_hausarzt_bev,Hausärzte,2022,5.8
+08237000,Freudenstadt,q_ärzte_bev,Ärzte,2022,11.34
+08311000,"Freiburg im Breisgau, Stadtkreis",H01_pfil_,Postfillialen insgesamt,2024,30.0
+08311000,"Freiburg im Breisgau, Stadtkreis",Kitas,Kindertagesstätten,2024,249.0
+08311000,"Freiburg im Breisgau, Stadtkreis",apoth,Apotheken,2024,59.0
+08311000,"Freiburg im Breisgau, Stadtkreis",bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,236236.0
+08311000,"Freiburg im Breisgau, Stadtkreis",q_hausarzt_bev,Hausärzte,2022,7.99
+08311000,"Freiburg im Breisgau, Stadtkreis",q_ärzte_bev,Ärzte,2022,25.82
+08315000,Breisgau-Hochschwarzwald,H01_pfil_,Postfillialen insgesamt,2024,54.0
+08315000,Breisgau-Hochschwarzwald,Kitas,Kindertagesstätten,2024,227.0
+08315000,Breisgau-Hochschwarzwald,apoth,Apotheken,2024,55.0
+08315000,Breisgau-Hochschwarzwald,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,271977.0
+08315000,Breisgau-Hochschwarzwald,q_hausarzt_bev,Hausärzte,2022,6.28
+08315000,Breisgau-Hochschwarzwald,q_ärzte_bev,Ärzte,2022,12.69
+08316000,Emmendingen,H01_pfil_,Postfillialen insgesamt,2024,26.0
+08316000,Emmendingen,Kitas,Kindertagesstätten,2024,165.0
+08316000,Emmendingen,apoth,Apotheken,2024,37.0
+08316000,Emmendingen,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,169470.0
+08316000,Emmendingen,q_hausarzt_bev,Hausärzte,2022,6.59
+08316000,Emmendingen,q_ärzte_bev,Ärzte,2022,13.59
+08317000,Ortenaukreis,H01_pfil_,Postfillialen insgesamt,2024,86.0
+08317000,Ortenaukreis,Kitas,Kindertagesstätten,2024,306.0
+08317000,Ortenaukreis,apoth,Apotheken,2024,84.0
+08317000,Ortenaukreis,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,443482.0
+08317000,Ortenaukreis,q_hausarzt_bev,Hausärzte,2022,6.34
+08317000,Ortenaukreis,q_ärzte_bev,Ärzte,2022,12.56
+08325000,Rottweil,H01_pfil_,Postfillialen insgesamt,2024,29.0
+08325000,Rottweil,Kitas,Kindertagesstätten,2024,134.0
+08325000,Rottweil,apoth,Apotheken,2024,30.0
+08325000,Rottweil,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,140344.0
+08325000,Rottweil,q_hausarzt_bev,Hausärzte,2022,5.14
+08325000,Rottweil,q_ärzte_bev,Ärzte,2022,10.98
+08326000,Schwarzwald-Baar-Kreis,H01_pfil_,Postfillialen insgesamt,2024,33.0
+08326000,Schwarzwald-Baar-Kreis,Kitas,Kindertagesstätten,2024,159.0
+08326000,Schwarzwald-Baar-Kreis,apoth,Apotheken,2024,39.0
+08326000,Schwarzwald-Baar-Kreis,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,213922.0
+08326000,Schwarzwald-Baar-Kreis,q_hausarzt_bev,Hausärzte,2022,5.91
+08326000,Schwarzwald-Baar-Kreis,q_ärzte_bev,Ärzte,2022,13.46
+08327000,Tuttlingen,H01_pfil_,Postfillialen insgesamt,2024,25.0
+08327000,Tuttlingen,Kitas,Kindertagesstätten,2024,113.0
+08327000,Tuttlingen,apoth,Apotheken,2024,25.0
+08327000,Tuttlingen,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,144955.0
+08327000,Tuttlingen,q_hausarzt_bev,Hausärzte,2022,4.52
+08327000,Tuttlingen,q_ärzte_bev,Ärzte,2022,10.04
+08335000,Konstanz,H01_pfil_,Postfillialen insgesamt,2024,44.0
+08335000,Konstanz,Kitas,Kindertagesstätten,2024,221.0
+08335000,Konstanz,apoth,Apotheken,2024,55.0
+08335000,Konstanz,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,291397.0
+08335000,Konstanz,q_hausarzt_bev,Hausärzte,2022,6.04
+08335000,Konstanz,q_ärzte_bev,Ärzte,2022,14.67
+08336000,Lörrach,H01_pfil_,Postfillialen insgesamt,2024,36.0
+08336000,Lörrach,Kitas,Kindertagesstätten,2024,173.0
+08336000,Lörrach,apoth,Apotheken,2024,46.0
+08336000,Lörrach,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,237212.0
+08336000,Lörrach,q_hausarzt_bev,Hausärzte,2022,5.41
+08336000,Lörrach,q_ärzte_bev,Ärzte,2022,11.25
+08337000,Waldshut,H01_pfil_,Postfillialen insgesamt,2024,35.0
+08337000,Waldshut,Kitas,Kindertagesstätten,2024,155.0
+08337000,Waldshut,apoth,Apotheken,2024,31.0
+08337000,Waldshut,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,171777.0
+08337000,Waldshut,q_hausarzt_bev,Hausärzte,2022,5.4
+08337000,Waldshut,q_ärzte_bev,Ärzte,2022,10.83
+08415000,Reutlingen,H01_pfil_,Postfillialen insgesamt,2024,45.0
+08415000,Reutlingen,Kitas,Kindertagesstätten,2024,286.0
+08415000,Reutlingen,apoth,Apotheken,2024,58.0
+08415000,Reutlingen,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,293385.0
+08415000,Reutlingen,q_hausarzt_bev,Hausärzte,2022,6.08
+08415000,Reutlingen,q_ärzte_bev,Ärzte,2022,13.01
+08416000,Tübingen,H01_pfil_,Postfillialen insgesamt,2024,38.0
+08416000,Tübingen,Kitas,Kindertagesstätten,2024,254.0
+08416000,Tübingen,apoth,Apotheken,2024,42.0
+08416000,Tübingen,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,232897.0
+08416000,Tübingen,q_hausarzt_bev,Hausärzte,2022,6.02
+08416000,Tübingen,q_ärzte_bev,Ärzte,2022,15.44
+08417000,Zollernalbkreis,H01_pfil_,Postfillialen insgesamt,2024,33.0
+08417000,Zollernalbkreis,Kitas,Kindertagesstätten,2024,156.0
+08417000,Zollernalbkreis,apoth,Apotheken,2024,38.0
+08417000,Zollernalbkreis,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,193339.0
+08417000,Zollernalbkreis,q_hausarzt_bev,Hausärzte,2022,4.94
+08417000,Zollernalbkreis,q_ärzte_bev,Ärzte,2022,10.68
+08421000,"Ulm, Stadtkreis",H01_pfil_,Postfillialen insgesamt,2024,16.0
+08421000,"Ulm, Stadtkreis",Kitas,Kindertagesstätten,2024,114.0
+08421000,"Ulm, Stadtkreis",apoth,Apotheken,2024,31.0
+08421000,"Ulm, Stadtkreis",bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,128998.0
+08421000,"Ulm, Stadtkreis",q_hausarzt_bev,Hausärzte,2022,8.17
+08421000,"Ulm, Stadtkreis",q_ärzte_bev,Ärzte,2022,28.77
+08425000,Alb-Donau-Kreis,H01_pfil_,Postfillialen insgesamt,2024,37.0
+08425000,Alb-Donau-Kreis,Kitas,Kindertagesstätten,2024,163.0
+08425000,Alb-Donau-Kreis,apoth,Apotheken,2024,39.0
+08425000,Alb-Donau-Kreis,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,201769.0
+08425000,Alb-Donau-Kreis,q_hausarzt_bev,Hausärzte,2022,5.8
+08425000,Alb-Donau-Kreis,q_ärzte_bev,Ärzte,2022,10.91
+08426000,Biberach,H01_pfil_,Postfillialen insgesamt,2024,34.0
+08426000,Biberach,Kitas,Kindertagesstätten,2024,190.0
+08426000,Biberach,apoth,Apotheken,2024,33.0
+08426000,Biberach,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,206783.0
+08426000,Biberach,q_hausarzt_bev,Hausärzte,2022,5.99
+08426000,Biberach,q_ärzte_bev,Ärzte,2022,11.51
+08435000,Bodenseekreis,H01_pfil_,Postfillialen insgesamt,2024,33.0
+08435000,Bodenseekreis,Kitas,Kindertagesstätten,2024,162.0
+08435000,Bodenseekreis,apoth,Apotheken,2024,42.0
+08435000,Bodenseekreis,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,221208.0
+08435000,Bodenseekreis,q_hausarzt_bev,Hausärzte,2022,6.24
+08435000,Bodenseekreis,q_ärzte_bev,Ärzte,2022,14.74
+08436000,Ravensburg,H01_pfil_,Postfillialen insgesamt,2024,50.0
+08436000,Ravensburg,Kitas,Kindertagesstätten,2024,270.0
+08436000,Ravensburg,apoth,Apotheken,2024,57.0
+08436000,Ravensburg,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,289725.0
+08436000,Ravensburg,q_hausarzt_bev,Hausärzte,2022,6.16
+08436000,Ravensburg,q_ärzte_bev,Ärzte,2022,14.46
+08437000,Sigmaringen,H01_pfil_,Postfillialen insgesamt,2024,25.0
+08437000,Sigmaringen,Kitas,Kindertagesstätten,2024,100.0
+08437000,Sigmaringen,apoth,Apotheken,2024,26.0
+08437000,Sigmaringen,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,132758.0
+08437000,Sigmaringen,q_hausarzt_bev,Hausärzte,2022,5.36
+08437000,Sigmaringen,q_ärzte_bev,Ärzte,2022,10.98
+09161000,Ingolstadt,H01_pfil_,Postfillialen insgesamt,2024,24.0
+09161000,Ingolstadt,Kitas,Kindertagesstätten,2024,116.0
+09161000,Ingolstadt,apoth,Apotheken,2024,28.0
+09161000,Ingolstadt,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,139536.0
+09161000,Ingolstadt,q_hausarzt_bev,Hausärzte,2022,5.86
+09161000,Ingolstadt,q_ärzte_bev,Ärzte,2022,18.24
+09162000,"München, Landeshauptstadt",H01_pfil_,Postfillialen insgesamt,2024,128.0
+09162000,"München, Landeshauptstadt",Kitas,Kindertagesstätten,2024,1456.0
+09162000,"München, Landeshauptstadt",apoth,Apotheken,2024,314.0
+09162000,"München, Landeshauptstadt",bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,1488719.0
+09162000,"München, Landeshauptstadt",q_hausarzt_bev,Hausärzte,2022,6.62
+09162000,"München, Landeshauptstadt",q_ärzte_bev,Ärzte,2022,20.78
+09163000,"Rosenheim, Stadt",H01_pfil_,Postfillialen insgesamt,2024,14.0
+09163000,"Rosenheim, Stadt",Kitas,Kindertagesstätten,2024,44.0
+09163000,"Rosenheim, Stadt",apoth,Apotheken,2024,21.0
+09163000,"Rosenheim, Stadt",bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,64453.0
+09163000,"Rosenheim, Stadt",q_hausarzt_bev,Hausärzte,2022,7.7
+09163000,"Rosenheim, Stadt",q_ärzte_bev,Ärzte,2022,31.23
+09171000,Altötting,H01_pfil_,Postfillialen insgesamt,2024,26.0
+09171000,Altötting,Kitas,Kindertagesstätten,2024,72.0
+09171000,Altötting,apoth,Apotheken,2024,23.0
+09171000,Altötting,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,113018.0
+09171000,Altötting,q_hausarzt_bev,Hausärzte,2022,6.37
+09171000,Altötting,q_ärzte_bev,Ärzte,2022,14.07
+09172000,Berchtesgadener Land,H01_pfil_,Postfillialen insgesamt,2024,18.0
+09172000,Berchtesgadener Land,Kitas,Kindertagesstätten,2024,62.0
+09172000,Berchtesgadener Land,apoth,Apotheken,2024,20.0
+09172000,Berchtesgadener Land,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,105108.0
+09172000,Berchtesgadener Land,q_hausarzt_bev,Hausärzte,2022,6.78
+09172000,Berchtesgadener Land,q_ärzte_bev,Ärzte,2022,14.04
+09173000,Bad Tölz-Wolfratshausen,H01_pfil_,Postfillialen insgesamt,2024,21.0
+09173000,Bad Tölz-Wolfratshausen,Kitas,Kindertagesstätten,2024,84.0
+09173000,Bad Tölz-Wolfratshausen,apoth,Apotheken,2024,27.0
+09173000,Bad Tölz-Wolfratshausen,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,129787.0
+09173000,Bad Tölz-Wolfratshausen,q_hausarzt_bev,Hausärzte,2022,6.53
+09173000,Bad Tölz-Wolfratshausen,q_ärzte_bev,Ärzte,2022,14.61
+09174000,Dachau,H01_pfil_,Postfillialen insgesamt,2024,25.0
+09174000,Dachau,Kitas,Kindertagesstätten,2024,114.0
+09174000,Dachau,apoth,Apotheken,2024,32.0
+09174000,Dachau,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,151925.0
+09174000,Dachau,q_hausarzt_bev,Hausärzte,2022,6.34
+09174000,Dachau,q_ärzte_bev,Ärzte,2022,12.74
+09175000,Ebersberg,H01_pfil_,Postfillialen insgesamt,2024,22.0
+09175000,Ebersberg,Kitas,Kindertagesstätten,2024,93.0
+09175000,Ebersberg,apoth,Apotheken,2024,25.0
+09175000,Ebersberg,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,143011.0
+09175000,Ebersberg,q_hausarzt_bev,Hausärzte,2022,5.8
+09175000,Ebersberg,q_ärzte_bev,Ärzte,2022,12.22
+09176000,Eichstätt,H01_pfil_,Postfillialen insgesamt,2024,30.0
+09176000,Eichstätt,Kitas,Kindertagesstätten,2024,97.0
+09176000,Eichstätt,apoth,Apotheken,2024,22.0
+09176000,Eichstätt,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,135220.0
+09176000,Eichstätt,q_hausarzt_bev,Hausärzte,2022,5.23
+09176000,Eichstätt,q_ärzte_bev,Ärzte,2022,10.23
+09177000,Erding,H01_pfil_,Postfillialen insgesamt,2024,30.0
+09177000,Erding,Kitas,Kindertagesstätten,2024,95.0
+09177000,Erding,apoth,Apotheken,2024,24.0
+09177000,Erding,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,139547.0
+09177000,Erding,q_hausarzt_bev,Hausärzte,2022,5.93
+09177000,Erding,q_ärzte_bev,Ärzte,2022,12.03
+09178000,Freising,H01_pfil_,Postfillialen insgesamt,2024,32.0
+09178000,Freising,Kitas,Kindertagesstätten,2024,116.0
+09178000,Freising,apoth,Apotheken,2024,27.0
+09178000,Freising,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,183535.0
+09178000,Freising,q_hausarzt_bev,Hausärzte,2022,5.44
+09178000,Freising,q_ärzte_bev,Ärzte,2022,10.92
+09179000,Fürstenfeldbruck,H01_pfil_,Postfillialen insgesamt,2024,28.0
+09179000,Fürstenfeldbruck,Kitas,Kindertagesstätten,2024,173.0
+09179000,Fürstenfeldbruck,apoth,Apotheken,2024,38.0
+09179000,Fürstenfeldbruck,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,216912.0
+09179000,Fürstenfeldbruck,q_hausarzt_bev,Hausärzte,2022,6.25
+09179000,Fürstenfeldbruck,q_ärzte_bev,Ärzte,2022,13.94
+09180000,Garmisch-Partenkirchen,H01_pfil_,Postfillialen insgesamt,2024,16.0
+09180000,Garmisch-Partenkirchen,Kitas,Kindertagesstätten,2024,49.0
+09180000,Garmisch-Partenkirchen,apoth,Apotheken,2024,23.0
+09180000,Garmisch-Partenkirchen,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,89322.0
+09180000,Garmisch-Partenkirchen,q_hausarzt_bev,Hausärzte,2022,8.05
+09180000,Garmisch-Partenkirchen,q_ärzte_bev,Ärzte,2022,16.06
+09181000,Landsberg am Lech,H01_pfil_,Postfillialen insgesamt,2024,25.0
+09181000,Landsberg am Lech,Kitas,Kindertagesstätten,2024,78.0
+09181000,Landsberg am Lech,apoth,Apotheken,2024,22.0
+09181000,Landsberg am Lech,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,120966.0
+09181000,Landsberg am Lech,q_hausarzt_bev,Hausärzte,2022,6.27
+09181000,Landsberg am Lech,q_ärzte_bev,Ärzte,2022,12.58
+09182000,Miesbach,H01_pfil_,Postfillialen insgesamt,2024,24.0
+09182000,Miesbach,Kitas,Kindertagesstätten,2024,58.0
+09182000,Miesbach,apoth,Apotheken,2024,23.0
+09182000,Miesbach,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,96730.0
+09182000,Miesbach,q_hausarzt_bev,Hausärzte,2022,7.64
+09182000,Miesbach,q_ärzte_bev,Ärzte,2022,17.71
+09183000,Mühldorf a.Inn,H01_pfil_,Postfillialen insgesamt,2024,19.0
+09183000,Mühldorf a.Inn,Kitas,Kindertagesstätten,2024,65.0
+09183000,Mühldorf a.Inn,apoth,Apotheken,2024,21.0
+09183000,Mühldorf a.Inn,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,121263.0
+09183000,Mühldorf a.Inn,q_hausarzt_bev,Hausärzte,2022,6.13
+09183000,Mühldorf a.Inn,q_ärzte_bev,Ärzte,2022,12.7
+09184000,München,H01_pfil_,Postfillialen insgesamt,2024,48.0
+09184000,München,Kitas,Kindertagesstätten,2024,303.0
+09184000,München,apoth,Apotheken,2024,70.0
+09184000,München,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,352771.0
+09184000,München,q_hausarzt_bev,Hausärzte,2022,5.58
+09184000,München,q_ärzte_bev,Ärzte,2022,13.13
+09185000,Neuburg-Schrobenhausen,H01_pfil_,Postfillialen insgesamt,2024,21.0
+09185000,Neuburg-Schrobenhausen,Kitas,Kindertagesstätten,2024,61.0
+09185000,Neuburg-Schrobenhausen,apoth,Apotheken,2024,18.0
+09185000,Neuburg-Schrobenhausen,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,98967.0
+09185000,Neuburg-Schrobenhausen,q_hausarzt_bev,Hausärzte,2022,5.78
+09185000,Neuburg-Schrobenhausen,q_ärzte_bev,Ärzte,2022,11.79
+09186000,Pfaffenhofen a.d.Ilm,H01_pfil_,Postfillialen insgesamt,2024,24.0
+09186000,Pfaffenhofen a.d.Ilm,Kitas,Kindertagesstätten,2024,78.0
+09186000,Pfaffenhofen a.d.Ilm,apoth,Apotheken,2024,24.0
+09186000,Pfaffenhofen a.d.Ilm,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,129497.0
+09186000,Pfaffenhofen a.d.Ilm,q_hausarzt_bev,Hausärzte,2022,5.95
+09186000,Pfaffenhofen a.d.Ilm,q_ärzte_bev,Ärzte,2022,11.67
+09187000,Rosenheim,H01_pfil_,Postfillialen insgesamt,2024,50.0
+09187000,Rosenheim,Kitas,Kindertagesstätten,2024,152.0
+09187000,Rosenheim,apoth,Apotheken,2024,51.0
+09187000,Rosenheim,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,256815.0
+09187000,Rosenheim,q_hausarzt_bev,Hausärzte,2022,6.66
+09187000,Rosenheim,q_ärzte_bev,Ärzte,2022,12.61
+09188000,Starnberg,H01_pfil_,Postfillialen insgesamt,2024,21.0
+09188000,Starnberg,Kitas,Kindertagesstätten,2024,128.0
+09188000,Starnberg,apoth,Apotheken,2024,32.0
+09188000,Starnberg,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,138926.0
+09188000,Starnberg,q_hausarzt_bev,Hausärzte,2022,6.85
+09188000,Starnberg,q_ärzte_bev,Ärzte,2022,17.28
+09189000,Traunstein,H01_pfil_,Postfillialen insgesamt,2024,35.0
+09189000,Traunstein,Kitas,Kindertagesstätten,2024,120.0
+09189000,Traunstein,apoth,Apotheken,2024,38.0
+09189000,Traunstein,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,172021.0
+09189000,Traunstein,q_hausarzt_bev,Hausärzte,2022,7.3
+09189000,Traunstein,q_ärzte_bev,Ärzte,2022,16.57
+09190000,Weilheim-Schongau,H01_pfil_,Postfillialen insgesamt,2024,26.0
+09190000,Weilheim-Schongau,Kitas,Kindertagesstätten,2024,104.0
+09190000,Weilheim-Schongau,apoth,Apotheken,2024,25.0
+09190000,Weilheim-Schongau,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,138052.0
+09190000,Weilheim-Schongau,q_hausarzt_bev,Hausärzte,2022,7.27
+09190000,Weilheim-Schongau,q_ärzte_bev,Ärzte,2022,15.2
+09261000,"Landshut, Stadt",H01_pfil_,Postfillialen insgesamt,2024,10.0
+09261000,"Landshut, Stadt",Kitas,Kindertagesstätten,2024,40.0
+09261000,"Landshut, Stadt",apoth,Apotheken,2024,22.0
+09261000,"Landshut, Stadt",bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,68741.0
+09261000,"Landshut, Stadt",q_hausarzt_bev,Hausärzte,2022,6.84
+09261000,"Landshut, Stadt",q_ärzte_bev,Ärzte,2022,26.84
+09262000,"Passau, Stadt",H01_pfil_,Postfillialen insgesamt,2024,12.0
+09262000,"Passau, Stadt",Kitas,Kindertagesstätten,2024,33.0
+09262000,"Passau, Stadt",apoth,Apotheken,2024,19.0
+09262000,"Passau, Stadt",bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,52894.0
+09262000,"Passau, Stadt",q_hausarzt_bev,Hausärzte,2022,7.51
+09262000,"Passau, Stadt",q_ärzte_bev,Ärzte,2022,28.22
+09263000,Straubing,H01_pfil_,Postfillialen insgesamt,2024,7.0
+09263000,Straubing,Kitas,Kindertagesstätten,2024,34.0
+09263000,Straubing,apoth,Apotheken,2024,13.0
+09263000,Straubing,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,47524.0
+09263000,Straubing,q_hausarzt_bev,Hausärzte,2022,7.67
+09263000,Straubing,q_ärzte_bev,Ärzte,2022,26.41
+09271000,Deggendorf,H01_pfil_,Postfillialen insgesamt,2024,25.0
+09271000,Deggendorf,Kitas,Kindertagesstätten,2024,59.0
+09271000,Deggendorf,apoth,Apotheken,2024,27.0
+09271000,Deggendorf,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,121137.0
+09271000,Deggendorf,q_hausarzt_bev,Hausärzte,2022,6.16
+09271000,Deggendorf,q_ärzte_bev,Ärzte,2022,14.7
+09272000,Freyung-Grafenau,H01_pfil_,Postfillialen insgesamt,2024,21.0
+09272000,Freyung-Grafenau,Kitas,Kindertagesstätten,2024,45.0
+09272000,Freyung-Grafenau,apoth,Apotheken,2024,18.0
+09272000,Freyung-Grafenau,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,78512.0
+09272000,Freyung-Grafenau,q_hausarzt_bev,Hausärzte,2022,6.53
+09272000,Freyung-Grafenau,q_ärzte_bev,Ärzte,2022,12.41
+09273000,Kelheim,H01_pfil_,Postfillialen insgesamt,2024,21.0
+09273000,Kelheim,Kitas,Kindertagesstätten,2024,78.0
+09273000,Kelheim,apoth,Apotheken,2024,20.0
+09273000,Kelheim,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,125597.0
+09273000,Kelheim,q_hausarzt_bev,Hausärzte,2022,6.34
+09273000,Kelheim,q_ärzte_bev,Ärzte,2022,11.19
+09274000,Landshut,H01_pfil_,Postfillialen insgesamt,2024,30.0
+09274000,Landshut,Kitas,Kindertagesstätten,2024,138.0
+09274000,Landshut,apoth,Apotheken,2024,30.0
+09274000,Landshut,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,161180.0
+09274000,Landshut,q_hausarzt_bev,Hausärzte,2022,6.19
+09274000,Landshut,q_ärzte_bev,Ärzte,2022,8.02
+09275000,Passau,H01_pfil_,Postfillialen insgesamt,2024,41.0
+09275000,Passau,Kitas,Kindertagesstätten,2024,101.0
+09275000,Passau,apoth,Apotheken,2024,44.0
+09275000,Passau,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,194068.0
+09275000,Passau,q_hausarzt_bev,Hausärzte,2022,7.31
+09275000,Passau,q_ärzte_bev,Ärzte,2022,11.63
+09276000,Regen,H01_pfil_,Postfillialen insgesamt,2024,26.0
+09276000,Regen,Kitas,Kindertagesstätten,2024,40.0
+09276000,Regen,apoth,Apotheken,2024,19.0
+09276000,Regen,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,77439.0
+09276000,Regen,q_hausarzt_bev,Hausärzte,2022,6.68
+09276000,Regen,q_ärzte_bev,Ärzte,2022,13.29
+09277000,Rottal-Inn,H01_pfil_,Postfillialen insgesamt,2024,28.0
+09277000,Rottal-Inn,Kitas,Kindertagesstätten,2024,54.0
+09277000,Rottal-Inn,apoth,Apotheken,2024,28.0
+09277000,Rottal-Inn,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,120475.0
+09277000,Rottal-Inn,q_hausarzt_bev,Hausärzte,2022,6.03
+09277000,Rottal-Inn,q_ärzte_bev,Ärzte,2022,12.24
+09278000,Straubing-Bogen,H01_pfil_,Postfillialen insgesamt,2024,27.0
+09278000,Straubing-Bogen,Kitas,Kindertagesstätten,2024,60.0
+09278000,Straubing-Bogen,apoth,Apotheken,2024,18.0
+09278000,Straubing-Bogen,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,103329.0
+09278000,Straubing-Bogen,q_hausarzt_bev,Hausärzte,2022,6.1
+09278000,Straubing-Bogen,q_ärzte_bev,Ärzte,2022,9.3
+09279000,Dingolfing-Landau,H01_pfil_,Postfillialen insgesamt,2024,19.0
+09279000,Dingolfing-Landau,Kitas,Kindertagesstätten,2024,36.0
+09279000,Dingolfing-Landau,apoth,Apotheken,2024,21.0
+09279000,Dingolfing-Landau,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,100727.0
+09279000,Dingolfing-Landau,q_hausarzt_bev,Hausärzte,2022,5.41
+09279000,Dingolfing-Landau,q_ärzte_bev,Ärzte,2022,11.18
+09361000,Amberg,H01_pfil_,Postfillialen insgesamt,2024,10.0
+09361000,Amberg,Kitas,Kindertagesstätten,2024,32.0
+09361000,Amberg,apoth,Apotheken,2024,16.0
+09361000,Amberg,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,42217.0
+09361000,Amberg,q_hausarzt_bev,Hausärzte,2022,9.09
+09361000,Amberg,q_ärzte_bev,Ärzte,2022,28.7
+09362000,"Regensburg, Stadt",H01_pfil_,Postfillialen insgesamt,2024,17.0
+09362000,"Regensburg, Stadt",Kitas,Kindertagesstätten,2024,117.0
+09362000,"Regensburg, Stadt",apoth,Apotheken,2024,39.0
+09362000,"Regensburg, Stadt",bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,149664.0
+09362000,"Regensburg, Stadt",q_hausarzt_bev,Hausärzte,2022,6.91
+09362000,"Regensburg, Stadt",q_ärzte_bev,Ärzte,2022,25.27
+09363000,Weiden i.d.OPf.,H01_pfil_,Postfillialen insgesamt,2024,9.0
+09363000,Weiden i.d.OPf.,Kitas,Kindertagesstätten,2024,28.0
+09363000,Weiden i.d.OPf.,apoth,Apotheken,2024,17.0
+09363000,Weiden i.d.OPf.,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,42430.0
+09363000,Weiden i.d.OPf.,q_hausarzt_bev,Hausärzte,2022,7.1
+09363000,Weiden i.d.OPf.,q_ärzte_bev,Ärzte,2022,27.4
+09371000,Amberg-Sulzbach,H01_pfil_,Postfillialen insgesamt,2024,23.0
+09371000,Amberg-Sulzbach,Kitas,Kindertagesstätten,2024,59.0
+09371000,Amberg-Sulzbach,apoth,Apotheken,2024,17.0
+09371000,Amberg-Sulzbach,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,104127.0
+09371000,Amberg-Sulzbach,q_hausarzt_bev,Hausärzte,2022,5.94
+09371000,Amberg-Sulzbach,q_ärzte_bev,Ärzte,2022,9.12
+09372000,Cham,H01_pfil_,Postfillialen insgesamt,2024,29.0
+09372000,Cham,Kitas,Kindertagesstätten,2024,61.0
+09372000,Cham,apoth,Apotheken,2024,28.0
+09372000,Cham,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,128230.0
+09372000,Cham,q_hausarzt_bev,Hausärzte,2022,6.83
+09372000,Cham,q_ärzte_bev,Ärzte,2022,12.38
+09373000,Neumarkt i.d.OPf.,H01_pfil_,Postfillialen insgesamt,2024,25.0
+09373000,Neumarkt i.d.OPf.,Kitas,Kindertagesstätten,2024,85.0
+09373000,Neumarkt i.d.OPf.,apoth,Apotheken,2024,24.0
+09373000,Neumarkt i.d.OPf.,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,138214.0
+09373000,Neumarkt i.d.OPf.,q_hausarzt_bev,Hausärzte,2022,6.15
+09373000,Neumarkt i.d.OPf.,q_ärzte_bev,Ärzte,2022,11.87
+09374000,Neustadt a.d.Waldnaab,H01_pfil_,Postfillialen insgesamt,2024,21.0
+09374000,Neustadt a.d.Waldnaab,Kitas,Kindertagesstätten,2024,59.0
+09374000,Neustadt a.d.Waldnaab,apoth,Apotheken,2024,17.0
+09374000,Neustadt a.d.Waldnaab,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,96209.0
+09374000,Neustadt a.d.Waldnaab,q_hausarzt_bev,Hausärzte,2022,6.89
+09374000,Neustadt a.d.Waldnaab,q_ärzte_bev,Ärzte,2022,10.76
+09375000,Regensburg,H01_pfil_,Postfillialen insgesamt,2024,34.0
+09375000,Regensburg,Kitas,Kindertagesstätten,2024,158.0
+09375000,Regensburg,apoth,Apotheken,2024,38.0
+09375000,Regensburg,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,193801.0
+09375000,Regensburg,q_hausarzt_bev,Hausärzte,2022,6.55
+09375000,Regensburg,q_ärzte_bev,Ärzte,2022,12.07
+09376000,Schwandorf,H01_pfil_,Postfillialen insgesamt,2024,25.0
+09376000,Schwandorf,Kitas,Kindertagesstätten,2024,90.0
+09376000,Schwandorf,apoth,Apotheken,2024,30.0
+09376000,Schwandorf,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,148698.0
+09376000,Schwandorf,q_hausarzt_bev,Hausärzte,2022,6.84
+09376000,Schwandorf,q_ärzte_bev,Ärzte,2022,12.81
+09377000,Tirschenreuth,H01_pfil_,Postfillialen insgesamt,2024,17.0
+09377000,Tirschenreuth,Kitas,Kindertagesstätten,2024,44.0
+09377000,Tirschenreuth,apoth,Apotheken,2024,15.0
+09377000,Tirschenreuth,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,72545.0
+09377000,Tirschenreuth,q_hausarzt_bev,Hausärzte,2022,5.75
+09377000,Tirschenreuth,q_ärzte_bev,Ärzte,2022,10.51
+09461000,"Bamberg, Stadt",H01_pfil_,Postfillialen insgesamt,2024,12.0
+09461000,"Bamberg, Stadt",Kitas,Kindertagesstätten,2024,53.0
+09461000,"Bamberg, Stadt",apoth,Apotheken,2024,22.0
+09461000,"Bamberg, Stadt",bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,75087.0
+09461000,"Bamberg, Stadt",q_hausarzt_bev,Hausärzte,2022,7.23
+09461000,"Bamberg, Stadt",q_ärzte_bev,Ärzte,2022,28.66
+09462000,"Bayreuth, Stadt",H01_pfil_,Postfillialen insgesamt,2024,13.0
+09462000,"Bayreuth, Stadt",Kitas,Kindertagesstätten,2024,47.0
+09462000,"Bayreuth, Stadt",apoth,Apotheken,2024,17.0
+09462000,"Bayreuth, Stadt",bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,73074.0
+09462000,"Bayreuth, Stadt",q_hausarzt_bev,Hausärzte,2022,7.5
+09462000,"Bayreuth, Stadt",q_ärzte_bev,Ärzte,2022,26.97
+09463000,"Coburg, Stadt",H01_pfil_,Postfillialen insgesamt,2024,6.0
+09463000,"Coburg, Stadt",Kitas,Kindertagesstätten,2024,27.0
+09463000,"Coburg, Stadt",apoth,Apotheken,2024,13.0
+09463000,"Coburg, Stadt",bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,40907.0
+09463000,"Coburg, Stadt",q_hausarzt_bev,Hausärzte,2022,5.35
+09463000,"Coburg, Stadt",q_ärzte_bev,Ärzte,2022,24.25
+09464000,"Hof, Stadt",H01_pfil_,Postfillialen insgesamt,2024,10.0
+09464000,"Hof, Stadt",Kitas,Kindertagesstätten,2024,28.0
+09464000,"Hof, Stadt",apoth,Apotheken,2024,15.0
+09464000,"Hof, Stadt",bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,46484.0
+09464000,"Hof, Stadt",q_hausarzt_bev,Hausärzte,2022,8.23
+09464000,"Hof, Stadt",q_ärzte_bev,Ärzte,2022,23.24
+09471000,Bamberg,H01_pfil_,Postfillialen insgesamt,2024,32.0
+09471000,Bamberg,Kitas,Kindertagesstätten,2024,98.0
+09471000,Bamberg,apoth,Apotheken,2024,25.0
+09471000,Bamberg,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,148017.0
+09471000,Bamberg,q_hausarzt_bev,Hausärzte,2022,6.27
+09471000,Bamberg,q_ärzte_bev,Ärzte,2022,8.93
+09472000,Bayreuth,H01_pfil_,Postfillialen insgesamt,2024,21.0
+09472000,Bayreuth,Kitas,Kindertagesstätten,2024,83.0
+09472000,Bayreuth,apoth,Apotheken,2024,23.0
+09472000,Bayreuth,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,103269.0
+09472000,Bayreuth,q_hausarzt_bev,Hausärzte,2022,6.01
+09472000,Bayreuth,q_ärzte_bev,Ärzte,2022,8.0
+09473000,Coburg,H01_pfil_,Postfillialen insgesamt,2024,23.0
+09473000,Coburg,Kitas,Kindertagesstätten,2024,57.0
+09473000,Coburg,apoth,Apotheken,2024,19.0
+09473000,Coburg,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,84518.0
+09473000,Coburg,q_hausarzt_bev,Hausärzte,2022,5.75
+09473000,Coburg,q_ärzte_bev,Ärzte,2022,7.29
+09474000,Forchheim,H01_pfil_,Postfillialen insgesamt,2024,24.0
+09474000,Forchheim,Kitas,Kindertagesstätten,2024,84.0
+09474000,Forchheim,apoth,Apotheken,2024,24.0
+09474000,Forchheim,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,116284.0
+09474000,Forchheim,q_hausarzt_bev,Hausärzte,2022,6.24
+09474000,Forchheim,q_ärzte_bev,Ärzte,2022,12.43
+09475000,Hof,H01_pfil_,Postfillialen insgesamt,2024,24.0
+09475000,Hof,Kitas,Kindertagesstätten,2024,91.0
+09475000,Hof,apoth,Apotheken,2024,18.0
+09475000,Hof,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,92675.0
+09475000,Hof,q_hausarzt_bev,Hausärzte,2022,6.51
+09475000,Hof,q_ärzte_bev,Ärzte,2022,10.28
+09476000,Kronach,H01_pfil_,Postfillialen insgesamt,2024,19.0
+09476000,Kronach,Kitas,Kindertagesstätten,2024,44.0
+09476000,Kronach,apoth,Apotheken,2024,15.0
+09476000,Kronach,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,65009.0
+09476000,Kronach,q_hausarzt_bev,Hausärzte,2022,6.07
+09476000,Kronach,q_ärzte_bev,Ärzte,2022,11.83
+09477000,Kulmbach,H01_pfil_,Postfillialen insgesamt,2024,15.0
+09477000,Kulmbach,Kitas,Kindertagesstätten,2024,56.0
+09477000,Kulmbach,apoth,Apotheken,2024,17.0
+09477000,Kulmbach,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,71752.0
+09477000,Kulmbach,q_hausarzt_bev,Hausärzte,2022,7.52
+09477000,Kulmbach,q_ärzte_bev,Ärzte,2022,14.94
+09478000,Lichtenfels,H01_pfil_,Postfillialen insgesamt,2024,13.0
+09478000,Lichtenfels,Kitas,Kindertagesstätten,2024,50.0
+09478000,Lichtenfels,apoth,Apotheken,2024,19.0
+09478000,Lichtenfels,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,67716.0
+09478000,Lichtenfels,q_hausarzt_bev,Hausärzte,2022,6.63
+09478000,Lichtenfels,q_ärzte_bev,Ärzte,2022,13.12
+09479000,Wunsiedel i.Fichtelgebirge,H01_pfil_,Postfillialen insgesamt,2024,18.0
+09479000,Wunsiedel i.Fichtelgebirge,Kitas,Kindertagesstätten,2024,54.0
+09479000,Wunsiedel i.Fichtelgebirge,apoth,Apotheken,2024,18.0
+09479000,Wunsiedel i.Fichtelgebirge,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,70959.0
+09479000,Wunsiedel i.Fichtelgebirge,q_hausarzt_bev,Hausärzte,2022,6.55
+09479000,Wunsiedel i.Fichtelgebirge,q_ärzte_bev,Ärzte,2022,13.46
+09561000,"Ansbach, Stadt",H01_pfil_,Postfillialen insgesamt,2024,6.0
+09561000,"Ansbach, Stadt",Kitas,Kindertagesstätten,2024,26.0
+09561000,"Ansbach, Stadt",apoth,Apotheken,2024,12.0
+09561000,"Ansbach, Stadt",bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,39700.0
+09561000,"Ansbach, Stadt",q_hausarzt_bev,Hausärzte,2022,7.01
+09561000,"Ansbach, Stadt",q_ärzte_bev,Ärzte,2022,29.61
+09562000,Erlangen,H01_pfil_,Postfillialen insgesamt,2024,17.0
+09562000,Erlangen,Kitas,Kindertagesstätten,2024,127.0
+09562000,Erlangen,apoth,Apotheken,2024,30.0
+09562000,Erlangen,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,115314.0
+09562000,Erlangen,q_hausarzt_bev,Hausärzte,2022,6.62
+09562000,Erlangen,q_ärzte_bev,Ärzte,2022,20.78
+09563000,"Fürth, Stadt",H01_pfil_,Postfillialen insgesamt,2024,15.0
+09563000,"Fürth, Stadt",Kitas,Kindertagesstätten,2024,110.0
+09563000,"Fürth, Stadt",apoth,Apotheken,2024,25.0
+09563000,"Fürth, Stadt",bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,131712.0
+09563000,"Fürth, Stadt",q_hausarzt_bev,Hausärzte,2022,6.45
+09563000,"Fürth, Stadt",q_ärzte_bev,Ärzte,2022,17.76
+09564000,Nürnberg,H01_pfil_,Postfillialen insgesamt,2024,58.0
+09564000,Nürnberg,Kitas,Kindertagesstätten,2024,453.0
+09564000,Nürnberg,apoth,Apotheken,2024,108.0
+09564000,Nürnberg,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,526606.0
+09564000,Nürnberg,q_hausarzt_bev,Hausärzte,2022,6.78
+09564000,Nürnberg,q_ärzte_bev,Ärzte,2022,18.7
+09565000,Schwabach,H01_pfil_,Postfillialen insgesamt,2024,5.0
+09565000,Schwabach,Kitas,Kindertagesstätten,2024,28.0
+09565000,Schwabach,apoth,Apotheken,2024,9.0
+09565000,Schwabach,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,40994.0
+09565000,Schwabach,q_hausarzt_bev,Hausärzte,2022,7.6
+09565000,Schwabach,q_ärzte_bev,Ärzte,2022,18.19
+09571000,Ansbach,H01_pfil_,Postfillialen insgesamt,2024,37.0
+09571000,Ansbach,Kitas,Kindertagesstätten,2024,120.0
+09571000,Ansbach,apoth,Apotheken,2024,39.0
+09571000,Ansbach,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,187340.0
+09571000,Ansbach,q_hausarzt_bev,Hausärzte,2022,5.5
+09571000,Ansbach,q_ärzte_bev,Ärzte,2022,9.18
+09572000,Erlangen-Höchstadt,H01_pfil_,Postfillialen insgesamt,2024,27.0
+09572000,Erlangen-Höchstadt,Kitas,Kindertagesstätten,2024,116.0
+09572000,Erlangen-Höchstadt,apoth,Apotheken,2024,31.0
+09572000,Erlangen-Höchstadt,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,138581.0
+09572000,Erlangen-Höchstadt,q_hausarzt_bev,Hausärzte,2022,6.74
+09572000,Erlangen-Höchstadt,q_ärzte_bev,Ärzte,2022,12.86
+09573000,Fürth,H01_pfil_,Postfillialen insgesamt,2024,19.0
+09573000,Fürth,Kitas,Kindertagesstätten,2024,92.0
+09573000,Fürth,apoth,Apotheken,2024,24.0
+09573000,Fürth,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,117617.0
+09573000,Fürth,q_hausarzt_bev,Hausärzte,2022,6.7
+09573000,Fürth,q_ärzte_bev,Ärzte,2022,12.29
+09574000,Nürnberger Land,H01_pfil_,Postfillialen insgesamt,2024,29.0
+09574000,Nürnberger Land,Kitas,Kindertagesstätten,2024,154.0
+09574000,Nürnberger Land,apoth,Apotheken,2024,35.0
+09574000,Nürnberger Land,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,169193.0
+09574000,Nürnberger Land,q_hausarzt_bev,Hausärzte,2022,6.69
+09574000,Nürnberger Land,q_ärzte_bev,Ärzte,2022,13.55
+09575000,Neustadt a.d.Aisch-Bad Windsheim,H01_pfil_,Postfillialen insgesamt,2024,22.0
+09575000,Neustadt a.d.Aisch-Bad Windsheim,Kitas,Kindertagesstätten,2024,73.0
+09575000,Neustadt a.d.Aisch-Bad Windsheim,apoth,Apotheken,2024,25.0
+09575000,Neustadt a.d.Aisch-Bad Windsheim,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,100982.0
+09575000,Neustadt a.d.Aisch-Bad Windsheim,q_hausarzt_bev,Hausärzte,2022,6.14
+09575000,Neustadt a.d.Aisch-Bad Windsheim,q_ärzte_bev,Ärzte,2022,11.96
+09576000,Roth,H01_pfil_,Postfillialen insgesamt,2024,27.0
+09576000,Roth,Kitas,Kindertagesstätten,2024,143.0
+09576000,Roth,apoth,Apotheken,2024,23.0
+09576000,Roth,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,128438.0
+09576000,Roth,q_hausarzt_bev,Hausärzte,2022,6.49
+09576000,Roth,q_ärzte_bev,Ärzte,2022,11.36
+09577000,Weißenburg-Gunzenhausen,H01_pfil_,Postfillialen insgesamt,2024,18.0
+09577000,Weißenburg-Gunzenhausen,Kitas,Kindertagesstätten,2024,74.0
+09577000,Weißenburg-Gunzenhausen,apoth,Apotheken,2024,25.0
+09577000,Weißenburg-Gunzenhausen,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,94670.0
+09577000,Weißenburg-Gunzenhausen,q_hausarzt_bev,Hausärzte,2022,6.99
+09577000,Weißenburg-Gunzenhausen,q_ärzte_bev,Ärzte,2022,13.34
+09661000,"Aschaffenburg, Stadt",H01_pfil_,Postfillialen insgesamt,2024,11.0
+09661000,"Aschaffenburg, Stadt",Kitas,Kindertagesstätten,2024,38.0
+09661000,"Aschaffenburg, Stadt",apoth,Apotheken,2024,20.0
+09661000,"Aschaffenburg, Stadt",bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,72554.0
+09661000,"Aschaffenburg, Stadt",q_hausarzt_bev,Hausärzte,2022,5.97
+09661000,"Aschaffenburg, Stadt",q_ärzte_bev,Ärzte,2022,26.96
+09662000,"Schweinfurt, Stadt",H01_pfil_,Postfillialen insgesamt,2024,10.0
+09662000,"Schweinfurt, Stadt",Kitas,Kindertagesstätten,2024,32.0
+09662000,"Schweinfurt, Stadt",apoth,Apotheken,2024,18.0
+09662000,"Schweinfurt, Stadt",bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,53938.0
+09662000,"Schweinfurt, Stadt",q_hausarzt_bev,Hausärzte,2022,7.19
+09662000,"Schweinfurt, Stadt",q_ärzte_bev,Ärzte,2022,29.09
+09663000,"Würzburg, Stadt",H01_pfil_,Postfillialen insgesamt,2024,19.0
+09663000,"Würzburg, Stadt",Kitas,Kindertagesstätten,2024,87.0
+09663000,"Würzburg, Stadt",apoth,Apotheken,2024,37.0
+09663000,"Würzburg, Stadt",bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,131759.0
+09663000,"Würzburg, Stadt",q_hausarzt_bev,Hausärzte,2022,7.7
+09663000,"Würzburg, Stadt",q_ärzte_bev,Ärzte,2022,28.53
+09671000,Aschaffenburg,H01_pfil_,Postfillialen insgesamt,2024,35.0
+09671000,Aschaffenburg,Kitas,Kindertagesstätten,2024,115.0
+09671000,Aschaffenburg,apoth,Apotheken,2024,35.0
+09671000,Aschaffenburg,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,170856.0
+09671000,Aschaffenburg,q_hausarzt_bev,Hausärzte,2022,6.5
+09671000,Aschaffenburg,q_ärzte_bev,Ärzte,2022,9.26
+09672000,Bad Kissingen,H01_pfil_,Postfillialen insgesamt,2024,23.0
+09672000,Bad Kissingen,Kitas,Kindertagesstätten,2024,78.0
+09672000,Bad Kissingen,apoth,Apotheken,2024,23.0
+09672000,Bad Kissingen,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,103447.0
+09672000,Bad Kissingen,q_hausarzt_bev,Hausärzte,2022,6.38
+09672000,Bad Kissingen,q_ärzte_bev,Ärzte,2022,12.61
+09673000,Rhön-Grabfeld,H01_pfil_,Postfillialen insgesamt,2024,18.0
+09673000,Rhön-Grabfeld,Kitas,Kindertagesstätten,2024,79.0
+09673000,Rhön-Grabfeld,apoth,Apotheken,2024,21.0
+09673000,Rhön-Grabfeld,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,79430.0
+09673000,Rhön-Grabfeld,q_hausarzt_bev,Hausärzte,2022,6.31
+09673000,Rhön-Grabfeld,q_ärzte_bev,Ärzte,2022,13.0
+09674000,Haßberge,H01_pfil_,Postfillialen insgesamt,2024,17.0
+09674000,Haßberge,Kitas,Kindertagesstätten,2024,66.0
+09674000,Haßberge,apoth,Apotheken,2024,16.0
+09674000,Haßberge,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,83673.0
+09674000,Haßberge,q_hausarzt_bev,Hausärzte,2022,6.55
+09674000,Haßberge,q_ärzte_bev,Ärzte,2022,12.55
+09675000,Kitzingen,H01_pfil_,Postfillialen insgesamt,2024,15.0
+09675000,Kitzingen,Kitas,Kindertagesstätten,2024,70.0
+09675000,Kitzingen,apoth,Apotheken,2024,21.0
+09675000,Kitzingen,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,91197.0
+09675000,Kitzingen,q_hausarzt_bev,Hausärzte,2022,6.24
+09675000,Kitzingen,q_ärzte_bev,Ärzte,2022,12.34
+09676000,Miltenberg,H01_pfil_,Postfillialen insgesamt,2024,30.0
+09676000,Miltenberg,Kitas,Kindertagesstätten,2024,70.0
+09676000,Miltenberg,apoth,Apotheken,2024,29.0
+09676000,Miltenberg,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,127204.0
+09676000,Miltenberg,q_hausarzt_bev,Hausärzte,2022,6.75
+09676000,Miltenberg,q_ärzte_bev,Ärzte,2022,12.12
+09677000,Main-Spessart,H01_pfil_,Postfillialen insgesamt,2024,25.0
+09677000,Main-Spessart,Kitas,Kindertagesstätten,2024,93.0
+09677000,Main-Spessart,apoth,Apotheken,2024,27.0
+09677000,Main-Spessart,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,125814.0
+09677000,Main-Spessart,q_hausarzt_bev,Hausärzte,2022,6.33
+09677000,Main-Spessart,q_ärzte_bev,Ärzte,2022,12.09
+09678000,Schweinfurt,H01_pfil_,Postfillialen insgesamt,2024,22.0
+09678000,Schweinfurt,Kitas,Kindertagesstätten,2024,91.0
+09678000,Schweinfurt,apoth,Apotheken,2024,22.0
+09678000,Schweinfurt,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,114404.0
+09678000,Schweinfurt,q_hausarzt_bev,Hausärzte,2022,5.93
+09678000,Schweinfurt,q_ärzte_bev,Ärzte,2022,8.06
+09679000,Würzburg,H01_pfil_,Postfillialen insgesamt,2024,39.0
+09679000,Würzburg,Kitas,Kindertagesstätten,2024,129.0
+09679000,Würzburg,apoth,Apotheken,2024,33.0
+09679000,Würzburg,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,160879.0
+09679000,Würzburg,q_hausarzt_bev,Hausärzte,2022,6.37
+09679000,Würzburg,q_ärzte_bev,Ärzte,2022,12.18
+09761000,"Augsburg, Stadt",H01_pfil_,Postfillialen insgesamt,2024,34.0
+09761000,"Augsburg, Stadt",Kitas,Kindertagesstätten,2024,215.0
+09761000,"Augsburg, Stadt",apoth,Apotheken,2024,62.0
+09761000,"Augsburg, Stadt",bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,298972.0
+09761000,"Augsburg, Stadt",q_hausarzt_bev,Hausärzte,2022,6.28
+09761000,"Augsburg, Stadt",q_ärzte_bev,Ärzte,2022,19.41
+09762000,Kaufbeuren,H01_pfil_,Postfillialen insgesamt,2024,7.0
+09762000,Kaufbeuren,Kitas,Kindertagesstätten,2024,26.0
+09762000,Kaufbeuren,apoth,Apotheken,2024,9.0
+09762000,Kaufbeuren,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,46071.0
+09762000,Kaufbeuren,q_hausarzt_bev,Hausärzte,2022,6.65
+09762000,Kaufbeuren,q_ärzte_bev,Ärzte,2022,24.09
+09763000,Kempten (Allgäu),H01_pfil_,Postfillialen insgesamt,2024,7.0
+09763000,Kempten (Allgäu),Kitas,Kindertagesstätten,2024,35.0
+09763000,Kempten (Allgäu),apoth,Apotheken,2024,15.0
+09763000,Kempten (Allgäu),bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,65933.0
+09763000,Kempten (Allgäu),q_hausarzt_bev,Hausärzte,2022,7.67
+09763000,Kempten (Allgäu),q_ärzte_bev,Ärzte,2022,25.53
+09764000,Memmingen,H01_pfil_,Postfillialen insgesamt,2024,7.0
+09764000,Memmingen,Kitas,Kindertagesstätten,2024,29.0
+09764000,Memmingen,apoth,Apotheken,2024,15.0
+09764000,Memmingen,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,44048.0
+09764000,Memmingen,q_hausarzt_bev,Hausärzte,2022,6.69
+09764000,Memmingen,q_ärzte_bev,Ärzte,2022,23.57
+09771000,Aichach-Friedberg,H01_pfil_,Postfillialen insgesamt,2024,25.0
+09771000,Aichach-Friedberg,Kitas,Kindertagesstätten,2024,105.0
+09771000,Aichach-Friedberg,apoth,Apotheken,2024,20.0
+09771000,Aichach-Friedberg,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,136430.0
+09771000,Aichach-Friedberg,q_hausarzt_bev,Hausärzte,2022,5.77
+09771000,Aichach-Friedberg,q_ärzte_bev,Ärzte,2022,11.51
+09772000,Augsburg,H01_pfil_,Postfillialen insgesamt,2024,44.0
+09772000,Augsburg,Kitas,Kindertagesstätten,2024,179.0
+09772000,Augsburg,apoth,Apotheken,2024,45.0
+09772000,Augsburg,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,261600.0
+09772000,Augsburg,q_hausarzt_bev,Hausärzte,2022,6.47
+09772000,Augsburg,q_ärzte_bev,Ärzte,2022,12.15
+09773000,Dillingen a.d.Donau,H01_pfil_,Postfillialen insgesamt,2024,15.0
+09773000,Dillingen a.d.Donau,Kitas,Kindertagesstätten,2024,63.0
+09773000,Dillingen a.d.Donau,apoth,Apotheken,2024,18.0
+09773000,Dillingen a.d.Donau,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,98474.0
+09773000,Dillingen a.d.Donau,q_hausarzt_bev,Hausärzte,2022,5.72
+09773000,Dillingen a.d.Donau,q_ärzte_bev,Ärzte,2022,11.52
+09774000,Günzburg,H01_pfil_,Postfillialen insgesamt,2024,19.0
+09774000,Günzburg,Kitas,Kindertagesstätten,2024,79.0
+09774000,Günzburg,apoth,Apotheken,2024,20.0
+09774000,Günzburg,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,129696.0
+09774000,Günzburg,q_hausarzt_bev,Hausärzte,2022,5.83
+09774000,Günzburg,q_ärzte_bev,Ärzte,2022,12.17
+09775000,Neu-Ulm,H01_pfil_,Postfillialen insgesamt,2024,27.0
+09775000,Neu-Ulm,Kitas,Kindertagesstätten,2024,124.0
+09775000,Neu-Ulm,apoth,Apotheken,2024,25.0
+09775000,Neu-Ulm,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,182560.0
+09775000,Neu-Ulm,q_hausarzt_bev,Hausärzte,2022,5.37
+09775000,Neu-Ulm,q_ärzte_bev,Ärzte,2022,9.89
+09776000,Lindau (Bodensee),H01_pfil_,Postfillialen insgesamt,2024,18.0
+09776000,Lindau (Bodensee),Kitas,Kindertagesstätten,2024,54.0
+09776000,Lindau (Bodensee),apoth,Apotheken,2024,19.0
+09776000,Lindau (Bodensee),bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,82224.0
+09776000,Lindau (Bodensee),q_hausarzt_bev,Hausärzte,2022,6.53
+09776000,Lindau (Bodensee),q_ärzte_bev,Ärzte,2022,14.2
+09777000,Ostallgäu,H01_pfil_,Postfillialen insgesamt,2024,30.0
+09777000,Ostallgäu,Kitas,Kindertagesstätten,2024,98.0
+09777000,Ostallgäu,apoth,Apotheken,2024,25.0
+09777000,Ostallgäu,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,141137.0
+09777000,Ostallgäu,q_hausarzt_bev,Hausärzte,2022,6.35
+09777000,Ostallgäu,q_ärzte_bev,Ärzte,2022,11.02
+09778000,Unterallgäu,H01_pfil_,Postfillialen insgesamt,2024,27.0
+09778000,Unterallgäu,Kitas,Kindertagesstätten,2024,94.0
+09778000,Unterallgäu,apoth,Apotheken,2024,26.0
+09778000,Unterallgäu,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,145298.0
+09778000,Unterallgäu,q_hausarzt_bev,Hausärzte,2022,5.62
+09778000,Unterallgäu,q_ärzte_bev,Ärzte,2022,8.91
+09779000,Donau-Ries,H01_pfil_,Postfillialen insgesamt,2024,29.0
+09779000,Donau-Ries,Kitas,Kindertagesstätten,2024,97.0
+09779000,Donau-Ries,apoth,Apotheken,2024,26.0
+09779000,Donau-Ries,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,134677.0
+09779000,Donau-Ries,q_hausarzt_bev,Hausärzte,2022,5.82
+09779000,Donau-Ries,q_ärzte_bev,Ärzte,2022,10.97
+09780000,Oberallgäu,H01_pfil_,Postfillialen insgesamt,2024,32.0
+09780000,Oberallgäu,Kitas,Kindertagesstätten,2024,91.0
+09780000,Oberallgäu,apoth,Apotheken,2024,27.0
+09780000,Oberallgäu,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,153394.0
+09780000,Oberallgäu,q_hausarzt_bev,Hausärzte,2022,6.86
+09780000,Oberallgäu,q_ärzte_bev,Ärzte,2022,11.71
+10041000,Regionalverband Saarbrücken,H01_pfil_,Postfillialen insgesamt,2024,58.0
+10041000,Regionalverband Saarbrücken,Kitas,Kindertagesstätten,2024,164.0
+10041000,Regionalverband Saarbrücken,apoth,Apotheken,2024,83.0
+10041000,Regionalverband Saarbrücken,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,332416.0
+10041000,Regionalverband Saarbrücken,q_hausarzt_bev,Hausärzte,2022,6.2
+10041000,Regionalverband Saarbrücken,q_ärzte_bev,Ärzte,2022,17.34
+10042000,Merzig-Wadern,H01_pfil_,Postfillialen insgesamt,2024,18.0
+10042000,Merzig-Wadern,Kitas,Kindertagesstätten,2024,62.0
+10042000,Merzig-Wadern,apoth,Apotheken,2024,26.0
+10042000,Merzig-Wadern,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,109336.0
+10042000,Merzig-Wadern,q_hausarzt_bev,Hausärzte,2022,5.78
+10042000,Merzig-Wadern,q_ärzte_bev,Ärzte,2022,12.18
+10043000,Neunkirchen,H01_pfil_,Postfillialen insgesamt,2024,27.0
+10043000,Neunkirchen,Kitas,Kindertagesstätten,2024,55.0
+10043000,Neunkirchen,apoth,Apotheken,2024,32.0
+10043000,Neunkirchen,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,133667.0
+10043000,Neunkirchen,q_hausarzt_bev,Hausärzte,2022,5.39
+10043000,Neunkirchen,q_ärzte_bev,Ärzte,2022,13.52
+10044000,Saarlouis,H01_pfil_,Postfillialen insgesamt,2024,38.0
+10044000,Saarlouis,Kitas,Kindertagesstätten,2024,85.0
+10044000,Saarlouis,apoth,Apotheken,2024,56.0
+10044000,Saarlouis,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,206094.0
+10044000,Saarlouis,q_hausarzt_bev,Hausärzte,2022,6.11
+10044000,Saarlouis,q_ärzte_bev,Ärzte,2022,13.92
+10045000,Saarpfalz-Kreis,H01_pfil_,Postfillialen insgesamt,2024,30.0
+10045000,Saarpfalz-Kreis,Kitas,Kindertagesstätten,2024,79.0
+10045000,Saarpfalz-Kreis,apoth,Apotheken,2024,40.0
+10045000,Saarpfalz-Kreis,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,144478.0
+10045000,Saarpfalz-Kreis,q_hausarzt_bev,Hausärzte,2022,6.51
+10045000,Saarpfalz-Kreis,q_ärzte_bev,Ärzte,2022,15.78
+10046000,St. Wendel,H01_pfil_,Postfillialen insgesamt,2024,23.0
+10046000,St. Wendel,Kitas,Kindertagesstätten,2024,42.0
+10046000,St. Wendel,apoth,Apotheken,2024,23.0
+10046000,St. Wendel,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,88056.0
+10046000,St. Wendel,q_hausarzt_bev,Hausärzte,2022,6.85
+10046000,St. Wendel,q_ärzte_bev,Ärzte,2022,13.72
+11000000,"Berlin, Stadt",H01_pfil_,Postfillialen insgesamt,2024,363.0
+11000000,"Berlin, Stadt",Kitas,Kindertagesstätten,2024,2946.0
+11000000,"Berlin, Stadt",apoth,Apotheken,2024,702.0
+11000000,"Berlin, Stadt",bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,3662381.0
+11000000,"Berlin, Stadt",q_hausarzt_bev,Hausärzte,2022,6.53
+11000000,"Berlin, Stadt",q_ärzte_bev,Ärzte,2022,17.91
+12051000,"Brandenburg an der Havel, Stadt",H01_pfil_,Postfillialen insgesamt,2024,12.0
+12051000,"Brandenburg an der Havel, Stadt",Kitas,Kindertagesstätten,2024,58.0
+12051000,"Brandenburg an der Havel, Stadt",apoth,Apotheken,2024,16.0
+12051000,"Brandenburg an der Havel, Stadt",bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,73939.0
+12051000,"Brandenburg an der Havel, Stadt",q_hausarzt_bev,Hausärzte,2022,6.86
+12051000,"Brandenburg an der Havel, Stadt",q_ärzte_bev,Ärzte,2022,19.63
+12052000,"Cottbus, Stadt",H01_pfil_,Postfillialen insgesamt,2024,16.0
+12052000,"Cottbus, Stadt",Kitas,Kindertagesstätten,2024,75.0
+12052000,"Cottbus, Stadt",apoth,Apotheken,2024,25.0
+12052000,"Cottbus, Stadt",bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,94778.0
+12052000,"Cottbus, Stadt",q_hausarzt_bev,Hausärzte,2022,8.28
+12052000,"Cottbus, Stadt",q_ärzte_bev,Ärzte,2022,25.52
+12053000,"Frankfurt (Oder), Stadt",H01_pfil_,Postfillialen insgesamt,2024,7.0
+12053000,"Frankfurt (Oder), Stadt",Kitas,Kindertagesstätten,2024,38.0
+12053000,"Frankfurt (Oder), Stadt",apoth,Apotheken,2024,16.0
+12053000,"Frankfurt (Oder), Stadt",bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,57065.0
+12053000,"Frankfurt (Oder), Stadt",q_hausarzt_bev,Hausärzte,2022,7.71
+12053000,"Frankfurt (Oder), Stadt",q_ärzte_bev,Ärzte,2022,23.12
+12054000,"Potsdam, Stadt",H01_pfil_,Postfillialen insgesamt,2024,22.0
+12054000,"Potsdam, Stadt",Kitas,Kindertagesstätten,2024,150.0
+12054000,"Potsdam, Stadt",apoth,Apotheken,2024,37.0
+12054000,"Potsdam, Stadt",bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,184290.0
+12054000,"Potsdam, Stadt",q_hausarzt_bev,Hausärzte,2022,6.5
+12054000,"Potsdam, Stadt",q_ärzte_bev,Ärzte,2022,20.02
+12060000,Barnim,H01_pfil_,Postfillialen insgesamt,2024,25.0
+12060000,Barnim,Kitas,Kindertagesstätten,2024,140.0
+12060000,Barnim,apoth,Apotheken,2024,31.0
+12060000,Barnim,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,192776.0
+12060000,Barnim,q_hausarzt_bev,Hausärzte,2022,5.35
+12060000,Barnim,q_ärzte_bev,Ärzte,2022,11.6
+12061000,Dahme-Spreewald,H01_pfil_,Postfillialen insgesamt,2024,31.0
+12061000,Dahme-Spreewald,Kitas,Kindertagesstätten,2024,140.0
+12061000,Dahme-Spreewald,apoth,Apotheken,2024,36.0
+12061000,Dahme-Spreewald,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,177662.0
+12061000,Dahme-Spreewald,q_hausarzt_bev,Hausärzte,2022,5.84
+12061000,Dahme-Spreewald,q_ärzte_bev,Ärzte,2022,12.16
+12062000,Elbe-Elster,H01_pfil_,Postfillialen insgesamt,2024,22.0
+12062000,Elbe-Elster,Kitas,Kindertagesstätten,2024,99.0
+12062000,Elbe-Elster,apoth,Apotheken,2024,24.0
+12062000,Elbe-Elster,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,98750.0
+12062000,Elbe-Elster,q_hausarzt_bev,Hausärzte,2022,7.35
+12062000,Elbe-Elster,q_ärzte_bev,Ärzte,2022,13.72
+12063000,Havelland,H01_pfil_,Postfillialen insgesamt,2024,24.0
+12063000,Havelland,Kitas,Kindertagesstätten,2024,145.0
+12063000,Havelland,apoth,Apotheken,2024,30.0
+12063000,Havelland,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,169721.0
+12063000,Havelland,q_hausarzt_bev,Hausärzte,2022,5.82
+12063000,Havelland,q_ärzte_bev,Ärzte,2022,11.37
+12064000,Märkisch-Oderland,H01_pfil_,Postfillialen insgesamt,2024,31.0
+12064000,Märkisch-Oderland,Kitas,Kindertagesstätten,2024,150.0
+12064000,Märkisch-Oderland,apoth,Apotheken,2024,41.0
+12064000,Märkisch-Oderland,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,197785.0
+12064000,Märkisch-Oderland,q_hausarzt_bev,Hausärzte,2022,6.03
+12064000,Märkisch-Oderland,q_ärzte_bev,Ärzte,2022,12.87
+12065000,Oberhavel,H01_pfil_,Postfillialen insgesamt,2024,32.0
+12065000,Oberhavel,Kitas,Kindertagesstätten,2024,140.0
+12065000,Oberhavel,apoth,Apotheken,2024,49.0
+12065000,Oberhavel,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,217290.0
+12065000,Oberhavel,q_hausarzt_bev,Hausärzte,2022,6.17
+12065000,Oberhavel,q_ärzte_bev,Ärzte,2022,12.26
+12066000,Oberspreewald-Lausitz,H01_pfil_,Postfillialen insgesamt,2024,22.0
+12066000,Oberspreewald-Lausitz,Kitas,Kindertagesstätten,2024,90.0
+12066000,Oberspreewald-Lausitz,apoth,Apotheken,2024,25.0
+12066000,Oberspreewald-Lausitz,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,108434.0
+12066000,Oberspreewald-Lausitz,q_hausarzt_bev,Hausärzte,2022,6.39
+12066000,Oberspreewald-Lausitz,q_ärzte_bev,Ärzte,2022,12.26
+12067000,Oder-Spree,H01_pfil_,Postfillialen insgesamt,2024,33.0
+12067000,Oder-Spree,Kitas,Kindertagesstätten,2024,147.0
+12067000,Oder-Spree,apoth,Apotheken,2024,43.0
+12067000,Oder-Spree,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,180499.0
+12067000,Oder-Spree,q_hausarzt_bev,Hausärzte,2022,5.84
+12067000,Oder-Spree,q_ärzte_bev,Ärzte,2022,12.88
+12068000,Ostprignitz-Ruppin,H01_pfil_,Postfillialen insgesamt,2024,24.0
+12068000,Ostprignitz-Ruppin,Kitas,Kindertagesstätten,2024,93.0
+12068000,Ostprignitz-Ruppin,apoth,Apotheken,2024,22.0
+12068000,Ostprignitz-Ruppin,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,99372.0
+12068000,Ostprignitz-Ruppin,q_hausarzt_bev,Hausärzte,2022,6.8
+12068000,Ostprignitz-Ruppin,q_ärzte_bev,Ärzte,2022,15.69
+12069000,Potsdam-Mittelmark,H01_pfil_,Postfillialen insgesamt,2024,39.0
+12069000,Potsdam-Mittelmark,Kitas,Kindertagesstätten,2024,188.0
+12069000,Potsdam-Mittelmark,apoth,Apotheken,2024,40.0
+12069000,Potsdam-Mittelmark,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,220158.0
+12069000,Potsdam-Mittelmark,q_hausarzt_bev,Hausärzte,2022,6.13
+12069000,Potsdam-Mittelmark,q_ärzte_bev,Ärzte,2022,10.79
+12070000,Prignitz,H01_pfil_,Postfillialen insgesamt,2024,19.0
+12070000,Prignitz,Kitas,Kindertagesstätten,2024,70.0
+12070000,Prignitz,apoth,Apotheken,2024,23.0
+12070000,Prignitz,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,76148.0
+12070000,Prignitz,q_hausarzt_bev,Hausärzte,2022,6.52
+12070000,Prignitz,q_ärzte_bev,Ärzte,2022,13.86
+12071000,Spree-Neiße,H01_pfil_,Postfillialen insgesamt,2024,26.0
+12071000,Spree-Neiße,Kitas,Kindertagesstätten,2024,97.0
+12071000,Spree-Neiße,apoth,Apotheken,2024,21.0
+12071000,Spree-Neiße,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,110580.0
+12071000,Spree-Neiße,q_hausarzt_bev,Hausärzte,2022,5.47
+12071000,Spree-Neiße,q_ärzte_bev,Ärzte,2022,10.49
+12072000,Teltow-Fläming,H01_pfil_,Postfillialen insgesamt,2024,28.0
+12072000,Teltow-Fläming,Kitas,Kindertagesstätten,2024,129.0
+12072000,Teltow-Fläming,apoth,Apotheken,2024,32.0
+12072000,Teltow-Fläming,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,177420.0
+12072000,Teltow-Fläming,q_hausarzt_bev,Hausärzte,2022,5.51
+12072000,Teltow-Fläming,q_ärzte_bev,Ärzte,2022,10.94
+12073000,Uckermark,H01_pfil_,Postfillialen insgesamt,2024,25.0
+12073000,Uckermark,Kitas,Kindertagesstätten,2024,99.0
+12073000,Uckermark,apoth,Apotheken,2024,25.0
+12073000,Uckermark,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,117797.0
+12073000,Uckermark,q_hausarzt_bev,Hausärzte,2022,6.39
+12073000,Uckermark,q_ärzte_bev,Ärzte,2022,13.92
+13003000,Rostock,H01_pfil_,Postfillialen insgesamt,2024,24.0
+13003000,Rostock,Kitas,Kindertagesstätten,2024,89.0
+13003000,Rostock,apoth,Apotheken,2024,45.0
+13003000,Rostock,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,204948.0
+13003000,Rostock,q_hausarzt_bev,Hausärzte,2022,6.93
+13003000,Rostock,q_ärzte_bev,Ärzte,2022,21.99
+13004000,Schwerin,H01_pfil_,Postfillialen insgesamt,2024,15.0
+13004000,Schwerin,Kitas,Kindertagesstätten,2024,53.0
+13004000,Schwerin,apoth,Apotheken,2024,23.0
+13004000,Schwerin,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,97850.0
+13004000,Schwerin,q_hausarzt_bev,Hausärzte,2022,7.27
+13004000,Schwerin,q_ärzte_bev,Ärzte,2022,22.36
+13071000,Mecklenburgische Seenplatte,H01_pfil_,Postfillialen insgesamt,2024,57.0
+13071000,Mecklenburgische Seenplatte,Kitas,Kindertagesstätten,2024,174.0
+13071000,Mecklenburgische Seenplatte,apoth,Apotheken,2024,66.0
+13071000,Mecklenburgische Seenplatte,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,247575.0
+13071000,Mecklenburgische Seenplatte,q_hausarzt_bev,Hausärzte,2022,7.27
+13071000,Mecklenburgische Seenplatte,q_ärzte_bev,Ärzte,2022,15.54
+13072000,Landkreis Rostock,H01_pfil_,Postfillialen insgesamt,2024,38.0
+13072000,Landkreis Rostock,Kitas,Kindertagesstätten,2024,153.0
+13072000,Landkreis Rostock,apoth,Apotheken,2024,45.0
+13072000,Landkreis Rostock,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,218780.0
+13072000,Landkreis Rostock,q_hausarzt_bev,Hausärzte,2022,6.67
+13072000,Landkreis Rostock,q_ärzte_bev,Ärzte,2022,12.93
+13073000,Vorpommern-Rügen,H01_pfil_,Postfillialen insgesamt,2024,51.0
+13073000,Vorpommern-Rügen,Kitas,Kindertagesstätten,2024,160.0
+13073000,Vorpommern-Rügen,apoth,Apotheken,2024,59.0
+13073000,Vorpommern-Rügen,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,216175.0
+13073000,Vorpommern-Rügen,q_hausarzt_bev,Hausärzte,2022,7.11
+13073000,Vorpommern-Rügen,q_ärzte_bev,Ärzte,2022,15.33
+13074000,Nordwestmecklenburg,H01_pfil_,Postfillialen insgesamt,2024,25.0
+13074000,Nordwestmecklenburg,Kitas,Kindertagesstätten,2024,108.0
+13074000,Nordwestmecklenburg,apoth,Apotheken,2024,30.0
+13074000,Nordwestmecklenburg,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,157160.0
+13074000,Nordwestmecklenburg,q_hausarzt_bev,Hausärzte,2022,6.62
+13074000,Nordwestmecklenburg,q_ärzte_bev,Ärzte,2022,12.71
+13075000,Vorpommern-Greifswald,H01_pfil_,Postfillialen insgesamt,2024,49.0
+13075000,Vorpommern-Greifswald,Kitas,Kindertagesstätten,2024,184.0
+13075000,Vorpommern-Greifswald,apoth,Apotheken,2024,58.0
+13075000,Vorpommern-Greifswald,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,226181.0
+13075000,Vorpommern-Greifswald,q_hausarzt_bev,Hausärzte,2022,7.66
+13075000,Vorpommern-Greifswald,q_ärzte_bev,Ärzte,2022,16.36
+13076000,Ludwigslust-Parchim,H01_pfil_,Postfillialen insgesamt,2024,49.0
+13076000,Ludwigslust-Parchim,Kitas,Kindertagesstätten,2024,160.0
+13076000,Ludwigslust-Parchim,apoth,Apotheken,2024,43.0
+13076000,Ludwigslust-Parchim,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,209372.0
+13076000,Ludwigslust-Parchim,q_hausarzt_bev,Hausärzte,2022,6.15
+13076000,Ludwigslust-Parchim,q_ärzte_bev,Ärzte,2022,11.51
+14511000,"Chemnitz, Stadt",H01_pfil_,Postfillialen insgesamt,2024,33.0
+14511000,"Chemnitz, Stadt",Kitas,Kindertagesstätten,2024,146.0
+14511000,"Chemnitz, Stadt",apoth,Apotheken,2024,54.0
+14511000,"Chemnitz, Stadt",bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,245150.0
+14511000,"Chemnitz, Stadt",q_hausarzt_bev,Hausärzte,2022,5.98
+14511000,"Chemnitz, Stadt",q_ärzte_bev,Ärzte,2022,18.19
+14521000,Erzgebirgskreis,H01_pfil_,Postfillialen insgesamt,2024,85.0
+14521000,Erzgebirgskreis,Kitas,Kindertagesstätten,2024,240.0
+14521000,Erzgebirgskreis,apoth,Apotheken,2024,81.0
+14521000,Erzgebirgskreis,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,322179.0
+14521000,Erzgebirgskreis,q_hausarzt_bev,Hausärzte,2022,5.68
+14521000,Erzgebirgskreis,q_ärzte_bev,Ärzte,2022,12.71
+14522000,Mittelsachsen,H01_pfil_,Postfillialen insgesamt,2024,59.0
+14522000,Mittelsachsen,Kitas,Kindertagesstätten,2024,249.0
+14522000,Mittelsachsen,apoth,Apotheken,2024,75.0
+14522000,Mittelsachsen,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,297766.0
+14522000,Mittelsachsen,q_hausarzt_bev,Hausärzte,2022,6.14
+14522000,Mittelsachsen,q_ärzte_bev,Ärzte,2022,12.87
+14523000,Vogtlandkreis,H01_pfil_,Postfillialen insgesamt,2024,46.0
+14523000,Vogtlandkreis,Kitas,Kindertagesstätten,2024,179.0
+14523000,Vogtlandkreis,apoth,Apotheken,2024,53.0
+14523000,Vogtlandkreis,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,221088.0
+14523000,Vogtlandkreis,q_hausarzt_bev,Hausärzte,2022,6.06
+14523000,Vogtlandkreis,q_ärzte_bev,Ärzte,2022,13.8
+14524000,Zwickau,H01_pfil_,Postfillialen insgesamt,2024,62.0
+14524000,Zwickau,Kitas,Kindertagesstätten,2024,184.0
+14524000,Zwickau,apoth,Apotheken,2024,76.0
+14524000,Zwickau,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,309866.0
+14524000,Zwickau,q_hausarzt_bev,Hausärzte,2022,6.02
+14524000,Zwickau,q_ärzte_bev,Ärzte,2022,14.55
+14612000,"Dresden, Stadt",H01_pfil_,Postfillialen insgesamt,2024,67.0
+14612000,"Dresden, Stadt",Kitas,Kindertagesstätten,2024,392.0
+14612000,"Dresden, Stadt",apoth,Apotheken,2024,108.0
+14612000,"Dresden, Stadt",bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,563019.0
+14612000,"Dresden, Stadt",q_hausarzt_bev,Hausärzte,2022,6.47
+14612000,"Dresden, Stadt",q_ärzte_bev,Ärzte,2022,17.91
+14625000,Bautzen,H01_pfil_,Postfillialen insgesamt,2024,72.0
+14625000,Bautzen,Kitas,Kindertagesstätten,2024,236.0
+14625000,Bautzen,apoth,Apotheken,2024,59.0
+14625000,Bautzen,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,294746.0
+14625000,Bautzen,q_hausarzt_bev,Hausärzte,2022,6.83
+14625000,Bautzen,q_ärzte_bev,Ärzte,2022,14.25
+14626000,Görlitz,H01_pfil_,Postfillialen insgesamt,2024,56.0
+14626000,Görlitz,Kitas,Kindertagesstätten,2024,216.0
+14626000,Görlitz,apoth,Apotheken,2024,56.0
+14626000,Görlitz,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,245867.0
+14626000,Görlitz,q_hausarzt_bev,Hausärzte,2022,6.56
+14626000,Görlitz,q_ärzte_bev,Ärzte,2022,13.73
+14627000,Meißen,H01_pfil_,Postfillialen insgesamt,2024,40.0
+14627000,Meißen,Kitas,Kindertagesstätten,2024,174.0
+14627000,Meißen,apoth,Apotheken,2024,45.0
+14627000,Meißen,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,240368.0
+14627000,Meißen,q_hausarzt_bev,Hausärzte,2022,6.37
+14627000,Meißen,q_ärzte_bev,Ärzte,2022,14.38
+14628000,Sächsische Schweiz-Osterzgebirge,H01_pfil_,Postfillialen insgesamt,2024,50.0
+14628000,Sächsische Schweiz-Osterzgebirge,Kitas,Kindertagesstätten,2024,201.0
+14628000,Sächsische Schweiz-Osterzgebirge,apoth,Apotheken,2024,50.0
+14628000,Sächsische Schweiz-Osterzgebirge,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,245143.0
+14628000,Sächsische Schweiz-Osterzgebirge,q_hausarzt_bev,Hausärzte,2022,6.49
+14628000,Sächsische Schweiz-Osterzgebirge,q_ärzte_bev,Ärzte,2022,13.37
+14713000,"Leipzig, Stadt",H01_pfil_,Postfillialen insgesamt,2024,64.0
+14713000,"Leipzig, Stadt",Kitas,Kindertagesstätten,2024,314.0
+14713000,"Leipzig, Stadt",apoth,Apotheken,2024,129.0
+14713000,"Leipzig, Stadt",bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,608013.0
+14713000,"Leipzig, Stadt",q_hausarzt_bev,Hausärzte,2022,6.27
+14713000,"Leipzig, Stadt",q_ärzte_bev,Ärzte,2022,17.63
+14729000,Leipzig,H01_pfil_,Postfillialen insgesamt,2024,47.0
+14729000,Leipzig,Kitas,Kindertagesstätten,2024,215.0
+14729000,Leipzig,apoth,Apotheken,2024,58.0
+14729000,Leipzig,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,260706.0
+14729000,Leipzig,q_hausarzt_bev,Hausärzte,2022,7.18
+14729000,Leipzig,q_ärzte_bev,Ärzte,2022,14.01
+14730000,Nordsachsen,H01_pfil_,Postfillialen insgesamt,2024,39.0
+14730000,Nordsachsen,Kitas,Kindertagesstätten,2024,162.0
+14730000,Nordsachsen,apoth,Apotheken,2024,49.0
+14730000,Nordsachsen,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,200778.0
+14730000,Nordsachsen,q_hausarzt_bev,Hausärzte,2022,6.34
+14730000,Nordsachsen,q_ärzte_bev,Ärzte,2022,13.25
+15001000,"Dessau-Roßlau, Stadt",H01_pfil_,Postfillialen insgesamt,2024,12.0
+15001000,"Dessau-Roßlau, Stadt",Kitas,Kindertagesstätten,2024,43.0
+15001000,"Dessau-Roßlau, Stadt",apoth,Apotheken,2024,20.0
+15001000,"Dessau-Roßlau, Stadt",bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,76062.0
+15001000,"Dessau-Roßlau, Stadt",q_hausarzt_bev,Hausärzte,2022,6.97
+15001000,"Dessau-Roßlau, Stadt",q_ärzte_bev,Ärzte,2022,21.99
+15002000,"Halle (Saale), Stadt",H01_pfil_,Postfillialen insgesamt,2024,33.0
+15002000,"Halle (Saale), Stadt",Kitas,Kindertagesstätten,2024,163.0
+15002000,"Halle (Saale), Stadt",apoth,Apotheken,2024,74.0
+15002000,"Halle (Saale), Stadt",bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,227639.0
+15002000,"Halle (Saale), Stadt",q_hausarzt_bev,Hausärzte,2022,7.39
+15002000,"Halle (Saale), Stadt",q_ärzte_bev,Ärzte,2022,22.66
+15003000,"Magdeburg, Landeshauptstadt",H01_pfil_,Postfillialen insgesamt,2024,29.0
+15003000,"Magdeburg, Landeshauptstadt",Kitas,Kindertagesstätten,2024,145.0
+15003000,"Magdeburg, Landeshauptstadt",apoth,Apotheken,2024,59.0
+15003000,"Magdeburg, Landeshauptstadt",bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,242491.0
+15003000,"Magdeburg, Landeshauptstadt",q_hausarzt_bev,Hausärzte,2022,6.69
+15003000,"Magdeburg, Landeshauptstadt",q_ärzte_bev,Ärzte,2022,19.85
+15081000,Altmarkkreis Salzwedel,H01_pfil_,Postfillialen insgesamt,2024,22.0
+15081000,Altmarkkreis Salzwedel,Kitas,Kindertagesstätten,2024,81.0
+15081000,Altmarkkreis Salzwedel,apoth,Apotheken,2024,19.0
+15081000,Altmarkkreis Salzwedel,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,80780.0
+15081000,Altmarkkreis Salzwedel,q_hausarzt_bev,Hausärzte,2022,4.95
+15081000,Altmarkkreis Salzwedel,q_ärzte_bev,Ärzte,2022,9.52
+15082000,Anhalt-Bitterfeld,H01_pfil_,Postfillialen insgesamt,2024,32.0
+15082000,Anhalt-Bitterfeld,Kitas,Kindertagesstätten,2024,119.0
+15082000,Anhalt-Bitterfeld,apoth,Apotheken,2024,41.0
+15082000,Anhalt-Bitterfeld,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,153801.0
+15082000,Anhalt-Bitterfeld,q_hausarzt_bev,Hausärzte,2022,6.49
+15082000,Anhalt-Bitterfeld,q_ärzte_bev,Ärzte,2022,13.28
+15083000,Börde,H01_pfil_,Postfillialen insgesamt,2024,29.0
+15083000,Börde,Kitas,Kindertagesstätten,2024,159.0
+15083000,Börde,apoth,Apotheken,2024,39.0
+15083000,Börde,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,168593.0
+15083000,Börde,q_hausarzt_bev,Hausärzte,2022,6.32
+15083000,Börde,q_ärzte_bev,Ärzte,2022,11.5
+15084000,Burgenlandkreis,H01_pfil_,Postfillialen insgesamt,2024,34.0
+15084000,Burgenlandkreis,Kitas,Kindertagesstätten,2024,154.0
+15084000,Burgenlandkreis,apoth,Apotheken,2024,51.0
+15084000,Burgenlandkreis,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,175217.0
+15084000,Burgenlandkreis,q_hausarzt_bev,Hausärzte,2022,6.48
+15084000,Burgenlandkreis,q_ärzte_bev,Ärzte,2022,13.97
+15085000,Harz,H01_pfil_,Postfillialen insgesamt,2024,44.0
+15085000,Harz,Kitas,Kindertagesstätten,2024,159.0
+15085000,Harz,apoth,Apotheken,2024,55.0
+15085000,Harz,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,207134.0
+15085000,Harz,q_hausarzt_bev,Hausärzte,2022,6.7
+15085000,Harz,q_ärzte_bev,Ärzte,2022,13.76
+15086000,Jerichower Land,H01_pfil_,Postfillialen insgesamt,2024,18.0
+15086000,Jerichower Land,Kitas,Kindertagesstätten,2024,76.0
+15086000,Jerichower Land,apoth,Apotheken,2024,18.0
+15086000,Jerichower Land,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,88695.0
+15086000,Jerichower Land,q_hausarzt_bev,Hausärzte,2022,6.32
+15086000,Jerichower Land,q_ärzte_bev,Ärzte,2022,12.21
+15087000,Mansfeld-Südharz,H01_pfil_,Postfillialen insgesamt,2024,28.0
+15087000,Mansfeld-Südharz,Kitas,Kindertagesstätten,2024,114.0
+15087000,Mansfeld-Südharz,apoth,Apotheken,2024,36.0
+15087000,Mansfeld-Südharz,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,130162.0
+15087000,Mansfeld-Südharz,q_hausarzt_bev,Hausärzte,2022,6.39
+15087000,Mansfeld-Südharz,q_ärzte_bev,Ärzte,2022,13.14
+15088000,Saalekreis,H01_pfil_,Postfillialen insgesamt,2024,30.0
+15088000,Saalekreis,Kitas,Kindertagesstätten,2024,164.0
+15088000,Saalekreis,apoth,Apotheken,2024,41.0
+15088000,Saalekreis,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,182677.0
+15088000,Saalekreis,q_hausarzt_bev,Hausärzte,2022,6.17
+15088000,Saalekreis,q_ärzte_bev,Ärzte,2022,12.2
+15089000,Salzlandkreis,H01_pfil_,Postfillialen insgesamt,2024,34.0
+15089000,Salzlandkreis,Kitas,Kindertagesstätten,2024,157.0
+15089000,Salzlandkreis,apoth,Apotheken,2024,48.0
+15089000,Salzlandkreis,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,182296.0
+15089000,Salzlandkreis,q_hausarzt_bev,Hausärzte,2022,6.74
+15089000,Salzlandkreis,q_ärzte_bev,Ärzte,2022,13.8
+15090000,Stendal,H01_pfil_,Postfillialen insgesamt,2024,25.0
+15090000,Stendal,Kitas,Kindertagesstätten,2024,98.0
+15090000,Stendal,apoth,Apotheken,2024,26.0
+15090000,Stendal,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,106793.0
+15090000,Stendal,q_hausarzt_bev,Hausärzte,2022,6.77
+15090000,Stendal,q_ärzte_bev,Ärzte,2022,13.61
+15091000,Wittenberg,H01_pfil_,Postfillialen insgesamt,2024,27.0
+15091000,Wittenberg,Kitas,Kindertagesstätten,2024,126.0
+15091000,Wittenberg,apoth,Apotheken,2024,31.0
+15091000,Wittenberg,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,122230.0
+15091000,Wittenberg,q_hausarzt_bev,Hausärzte,2022,6.43
+15091000,Wittenberg,q_ärzte_bev,Ärzte,2022,12.66
+16051000,"Erfurt, Stadt",H01_pfil_,Postfillialen insgesamt,2024,22.0
+16051000,"Erfurt, Stadt",Kitas,Kindertagesstätten,2024,104.0
+16051000,"Erfurt, Stadt",apoth,Apotheken,2024,45.0
+16051000,"Erfurt, Stadt",bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,219549.0
+16051000,"Erfurt, Stadt",q_hausarzt_bev,Hausärzte,2022,6.38
+16051000,"Erfurt, Stadt",q_ärzte_bev,Ärzte,2022,18.68
+16052000,"Gera, Stadt",H01_pfil_,Postfillialen insgesamt,2024,13.0
+16052000,"Gera, Stadt",Kitas,Kindertagesstätten,2024,38.0
+16052000,"Gera, Stadt",apoth,Apotheken,2024,25.0
+16052000,"Gera, Stadt",bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,95695.0
+16052000,"Gera, Stadt",q_hausarzt_bev,Hausärzte,2022,6.8
+16052000,"Gera, Stadt",q_ärzte_bev,Ärzte,2022,21.76
+16053000,"Jena, Stadt",H01_pfil_,Postfillialen insgesamt,2024,11.0
+16053000,"Jena, Stadt",Kitas,Kindertagesstätten,2024,68.0
+16053000,"Jena, Stadt",apoth,Apotheken,2024,29.0
+16053000,"Jena, Stadt",bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,110076.0
+16053000,"Jena, Stadt",q_hausarzt_bev,Hausärzte,2022,6.7
+16053000,"Jena, Stadt",q_ärzte_bev,Ärzte,2022,21.05
+16054000,"Suhl, Stadt",H01_pfil_,Postfillialen insgesamt,2024,8.0
+16054000,"Suhl, Stadt",Kitas,Kindertagesstätten,2024,15.0
+16054000,"Suhl, Stadt",apoth,Apotheken,2024,10.0
+16054000,"Suhl, Stadt",bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,36307.0
+16054000,"Suhl, Stadt",q_hausarzt_bev,Hausärzte,2022,6.19
+16054000,"Suhl, Stadt",q_ärzte_bev,Ärzte,2022,18.93
+16055000,"Weimar, Stadt",H01_pfil_,Postfillialen insgesamt,2024,10.0
+16055000,"Weimar, Stadt",Kitas,Kindertagesstätten,2024,36.0
+16055000,"Weimar, Stadt",apoth,Apotheken,2024,14.0
+16055000,"Weimar, Stadt",bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,65528.0
+16055000,"Weimar, Stadt",q_hausarzt_bev,Hausärzte,2022,7.02
+16055000,"Weimar, Stadt",q_ärzte_bev,Ärzte,2022,19.92
+16061000,Eichsfeld,H01_pfil_,Postfillialen insgesamt,2024,17.0
+16061000,Eichsfeld,Kitas,Kindertagesstätten,2024,73.0
+16061000,Eichsfeld,apoth,Apotheken,2024,22.0
+16061000,Eichsfeld,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,102699.0
+16061000,Eichsfeld,q_hausarzt_bev,Hausärzte,2022,6.82
+16061000,Eichsfeld,q_ärzte_bev,Ärzte,2022,13.69
+16062000,Nordhausen,H01_pfil_,Postfillialen insgesamt,2024,17.0
+16062000,Nordhausen,Kitas,Kindertagesstätten,2024,46.0
+16062000,Nordhausen,apoth,Apotheken,2024,21.0
+16062000,Nordhausen,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,81502.0
+16062000,Nordhausen,q_hausarzt_bev,Hausärzte,2022,6.78
+16062000,Nordhausen,q_ärzte_bev,Ärzte,2022,16.2
+16063000,Wartburgkreis,H01_pfil_,Postfillialen insgesamt,2024,33.0
+16063000,Wartburgkreis,Kitas,Kindertagesstätten,2024,102.0
+16063000,Wartburgkreis,apoth,Apotheken,2024,34.0
+16063000,Wartburgkreis,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,156334.0
+16063000,Wartburgkreis,q_hausarzt_bev,Hausärzte,2022,6.56
+16063000,Wartburgkreis,q_ärzte_bev,Ärzte,2022,14.29
+16064000,Unstrut-Hainich-Kreis,H01_pfil_,Postfillialen insgesamt,2024,19.0
+16064000,Unstrut-Hainich-Kreis,Kitas,Kindertagesstätten,2024,68.0
+16064000,Unstrut-Hainich-Kreis,apoth,Apotheken,2024,19.0
+16064000,Unstrut-Hainich-Kreis,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,96458.0
+16064000,Unstrut-Hainich-Kreis,q_hausarzt_bev,Hausärzte,2022,6.97
+16064000,Unstrut-Hainich-Kreis,q_ärzte_bev,Ärzte,2022,15.03
+16065000,Kyffhäuserkreis,H01_pfil_,Postfillialen insgesamt,2024,16.0
+16065000,Kyffhäuserkreis,Kitas,Kindertagesstätten,2024,53.0
+16065000,Kyffhäuserkreis,apoth,Apotheken,2024,17.0
+16065000,Kyffhäuserkreis,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,72556.0
+16065000,Kyffhäuserkreis,q_hausarzt_bev,Hausärzte,2022,6.3
+16065000,Kyffhäuserkreis,q_ärzte_bev,Ärzte,2022,11.88
+16066000,Schmalkalden-Meiningen,H01_pfil_,Postfillialen insgesamt,2024,33.0
+16066000,Schmalkalden-Meiningen,Kitas,Kindertagesstätten,2024,80.0
+16066000,Schmalkalden-Meiningen,apoth,Apotheken,2024,28.0
+16066000,Schmalkalden-Meiningen,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,121151.0
+16066000,Schmalkalden-Meiningen,q_hausarzt_bev,Hausärzte,2022,6.86
+16066000,Schmalkalden-Meiningen,q_ärzte_bev,Ärzte,2022,14.94
+16067000,Gotha,H01_pfil_,Postfillialen insgesamt,2024,28.0
+16067000,Gotha,Kitas,Kindertagesstätten,2024,73.0
+16067000,Gotha,apoth,Apotheken,2024,30.0
+16067000,Gotha,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,136933.0
+16067000,Gotha,q_hausarzt_bev,Hausärzte,2022,6.28
+16067000,Gotha,q_ärzte_bev,Ärzte,2022,12.25
+16068000,Sömmerda,H01_pfil_,Postfillialen insgesamt,2024,11.0
+16068000,Sömmerda,Kitas,Kindertagesstätten,2024,50.0
+16068000,Sömmerda,apoth,Apotheken,2024,15.0
+16068000,Sömmerda,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,68109.0
+16068000,Sömmerda,q_hausarzt_bev,Hausärzte,2022,6.81
+16068000,Sömmerda,q_ärzte_bev,Ärzte,2022,11.78
+16069000,Hildburghausen,H01_pfil_,Postfillialen insgesamt,2024,15.0
+16069000,Hildburghausen,Kitas,Kindertagesstätten,2024,38.0
+16069000,Hildburghausen,apoth,Apotheken,2024,14.0
+16069000,Hildburghausen,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,60691.0
+16069000,Hildburghausen,q_hausarzt_bev,Hausärzte,2022,6.37
+16069000,Hildburghausen,q_ärzte_bev,Ärzte,2022,12.89
+16070000,Ilm-Kreis,H01_pfil_,Postfillialen insgesamt,2024,20.0
+16070000,Ilm-Kreis,Kitas,Kindertagesstätten,2024,59.0
+16070000,Ilm-Kreis,apoth,Apotheken,2024,21.0
+16070000,Ilm-Kreis,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,107002.0
+16070000,Ilm-Kreis,q_hausarzt_bev,Hausärzte,2022,6.45
+16070000,Ilm-Kreis,q_ärzte_bev,Ärzte,2022,12.25
+16071000,Weimarer Land,H01_pfil_,Postfillialen insgesamt,2024,12.0
+16071000,Weimarer Land,Kitas,Kindertagesstätten,2024,60.0
+16071000,Weimarer Land,apoth,Apotheken,2024,17.0
+16071000,Weimarer Land,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,82868.0
+16071000,Weimarer Land,q_hausarzt_bev,Hausärzte,2022,6.61
+16071000,Weimarer Land,q_ärzte_bev,Ärzte,2022,12.39
+16072000,Sonneberg,H01_pfil_,Postfillialen insgesamt,2024,14.0
+16072000,Sonneberg,Kitas,Kindertagesstätten,2024,35.0
+16072000,Sonneberg,apoth,Apotheken,2024,18.0
+16072000,Sonneberg,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,55959.0
+16072000,Sonneberg,q_hausarzt_bev,Hausärzte,2022,7.22
+16072000,Sonneberg,q_ärzte_bev,Ärzte,2022,14.76
+16073000,Saalfeld-Rudolstadt,H01_pfil_,Postfillialen insgesamt,2024,24.0
+16073000,Saalfeld-Rudolstadt,Kitas,Kindertagesstätten,2024,57.0
+16073000,Saalfeld-Rudolstadt,apoth,Apotheken,2024,33.0
+16073000,Saalfeld-Rudolstadt,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,101111.0
+16073000,Saalfeld-Rudolstadt,q_hausarzt_bev,Hausärzte,2022,6.87
+16073000,Saalfeld-Rudolstadt,q_ärzte_bev,Ärzte,2022,13.96
+16074000,Saale-Holzland-Kreis,H01_pfil_,Postfillialen insgesamt,2024,13.0
+16074000,Saale-Holzland-Kreis,Kitas,Kindertagesstätten,2024,59.0
+16074000,Saale-Holzland-Kreis,apoth,Apotheken,2024,20.0
+16074000,Saale-Holzland-Kreis,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,84040.0
+16074000,Saale-Holzland-Kreis,q_hausarzt_bev,Hausärzte,2022,7.15
+16074000,Saale-Holzland-Kreis,q_ärzte_bev,Ärzte,2022,13.61
+16075000,Saale-Orla-Kreis,H01_pfil_,Postfillialen insgesamt,2024,19.0
+16075000,Saale-Orla-Kreis,Kitas,Kindertagesstätten,2024,57.0
+16075000,Saale-Orla-Kreis,apoth,Apotheken,2024,19.0
+16075000,Saale-Orla-Kreis,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,77859.0
+16075000,Saale-Orla-Kreis,q_hausarzt_bev,Hausärzte,2022,6.73
+16075000,Saale-Orla-Kreis,q_ärzte_bev,Ärzte,2022,11.96
+16076000,Greiz,H01_pfil_,Postfillialen insgesamt,2024,23.0
+16076000,Greiz,Kitas,Kindertagesstätten,2024,71.0
+16076000,Greiz,apoth,Apotheken,2024,23.0
+16076000,Greiz,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,94488.0
+16076000,Greiz,q_hausarzt_bev,Hausärzte,2022,6.35
+16076000,Greiz,q_ärzte_bev,Ärzte,2022,12.91
+16077000,Altenburger Land,H01_pfil_,Postfillialen insgesamt,2024,14.0
+16077000,Altenburger Land,Kitas,Kindertagesstätten,2024,55.0
+16077000,Altenburger Land,apoth,Apotheken,2024,19.0
+16077000,Altenburger Land,bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),2023,87955.0
+16077000,Altenburger Land,q_hausarzt_bev,Hausärzte,2022,6.65
+16077000,Altenburger Land,q_ärzte_bev,Ärzte,2022,15.65

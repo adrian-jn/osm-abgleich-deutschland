@@ -1,0 +1,19 @@
+kh_id,name,standort,strasse,hausnummer,plz,ort,notfallstufe,lat,lon,osm,osm_name,emergency
+1315,Segeberger Kliniken GmbH,Bad Segeberg – Stationäre Behandlung,Am Kurpark,1,23795,Bad Segeberg,2,53.943572,10.307886,w628289787,Segeberger Kliniken Herzzentrum,no
+2012,KRH-Klinikum Lehrte,KRH Klinikum Lehrte – Stationäre Behandlung,Manskestraße,22,31275,Lehrte,1,52.380137,9.983747,n5546363832,Tagesklinik,no
+2881,Paracelsus-Klinik Bremen GmbH,Paracelsus-Klinik Bremen,In der Vahr,65,28329,Bremen,1,53.079629,8.876978,w244776535,Paracelsus Kurfürstenklinik,no
+2579,GFO Klinik Engelskirchen,St. Josef-Krankenhaus,Wohlandstraße,30,51766,Engelskirchen,1,50.986233,7.379548,w184231481,St. Josef Krankenhaus,no
+2990,Sana Fabricius-Klinik Remscheid GmbH,Sana Fabricius-Klinik Remscheid GmbH,Brüderstrasse,65,42853,Remscheid,1,51.180106,7.18056,r1437871,Fabricius-Klinik,no
+1463,Krankenhaus Bethanien Moers,Krankenhaus Bethanien Moers,Bethanienstraße,21,47441,Moers,2,51.460703,6.634911,w160900623,Krankenhaus Bethanien,no
+2886,Katholische Hospitalvereinigung Ostwestfalen gGmbH Bielefeld,Sankt Lucia Hospital Harsewinkel,Dechant-Budde-Weg,3,33428,Harsewinkel,1,51.963143,8.225064,w32803161,St. Lucia,no
+1996,Hardtwaldklinik I,Bad Zwesten,Hardtstraße,31,34596,Bad Zwesten,1,51.061959,9.171999,w892964434,Hardtwaldklinik I,no
+1741,Bergman Clinics Mathilden-Hospital Büdingen,Bergman Clinics Mathilden-Hospital,Am Schlag,9,63654,Büdingen,1,50.287161,9.113497,w1033559043,Bergman Clinics Mathilden-Hospital,no
+1470,Heilig-Geist-Hospital,Heilig-Geist-Hospital Bingen gGmbH,Kapuzinerstraße,15–17,55411,Bingen am Rhein,1,49.968465,7.896772,w469427780,Heilig-Geist-Hospital Bingen,no
+2137,Klinik Sankt Elisabeth,Klinik Sankt Elisabeth,Max-Reger-Straße,7,69121,Heidelberg,1,49.421178,8.681679,w342045912,Klinik Sankt Elisabeth,no
+2769,"Kreiskliniken Bad Reichenhall, Berchtesgaden, Freilassing","Kreiskliniken Bad Reichenhall, Berchtesgaden, Freilassing – Kreisklinik Berchtesgaden",Locksteinstr.,16,83471,Berchtesgaden,1,47.640099,13.005257,w1465342584,Kliniken Südostbayern - Fachklinik Berchtesgaden,no
+1345,Krankenhaus GmbH Landkreis Weilheim-Schongau – Krankenhaus Weilheim,Krankenhaus GmbH Landkreis Weilheim-Schongau – Krankenhaus Weilheim,Johann-Baur-Str.,4,82362,Weilheim,1,47.836916,11.144045,w376053967,Weilheim,no
+2755,Landkreis Passau Gesundheitseinrichtungen,Krankenhaus Rotthalmünster,Simbacher Str.,35,94094,Rotthalmünster,1,48.354349,13.202,n276543686,Kreiskrankenhaus Rotthalmünster,no
+1101,Klinikum Aschaffenburg-Alzenau,Klinikum Aschaffenburg-Alzenau Standort Alzenau,Schloßhof,1,63755,Alzenau,1,50.069947,9.07613,w1278603481,Klinikum Aschaffenburg-Alzenau,no
+1166,Donau-Ries Kliniken,Donau-Ries Kliniken Klinik Nördlingen,Stoffelsberg,4,86720,Nördlingen,1,48.836593,10.498749,w73365606,Stiftungskrankenhaus Nördlingen,no
+1436,Krankenhaus St. Carolus Kamenz,Krankenhaus St. Carolus,Carolusstr.,212,2827,Görlitz,1,51.144411,14.938851,w1287359050,Malteser Krankenhaus Sankt Carolus,no
+2553,"Waldklinik Bernburg GmbH, Parkinson-Spezialklinik",Waldklinik Bernburg,Keßlerstraße,8,6406,Bernburg (Saale),1,51.793698,11.718673,w1179613777,Waldklinik,no

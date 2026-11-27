@@ -1,0 +1,18 @@
+kh_id,name,standort,strasse,hausnummer,plz,ort,notfallstufe,lat,lon,verortung
+1875,DIAKOVERE Henriettenstift,Marienstr. 72–90 – Stationäre Behandlung,Marienstraße,72–90,30171,Hannover,2,52.36907,9.745903,street
+2974,Niels-Stensen-Kliniken Marienhospital Osnabrück,Standort Natruper Holz,Am Natruper Holz,69,49076,Osnabrück,1,52.289254,8.010904,address
+1391,Alexianer Johannisstift GmbH,Ev.  Krankenhaus Johannisstift,Wichernstraße,8,48147,"Münster, Westfalen",1,51.972526,7.624829,address
+1445,DRK-Kinderklinik Siegen gGmbH,DRK Kinderklinik gGmbH,Wellersbergstraße,60,57072,Siegen,2,50.884145,8.019061,address
+2436,Elisabeth-Krankenhaus GmbH,Elisabeth-Krankenhaus,Cranger Straße,226,45891,Gelsenkirchen,1,51.56305,7.083901,address
+2287,St. Marien-Krankenhaus Ratingen GmbH,St. Marien-Krankenhaus Ratingen GmbH,Werdener Straße,3,40878,Ratingen,1,51.300001,6.851788,address
+2284,Krankenhaus St. Marienwörth,Krankenhaus St. Marienwörth,Mühlenstraße,39,55543,Bad Kreuznach,1,49.846408,7.86108,address
+2900,ALB FILS KLINIKEN,Klinik am Eichert,Eichertstraße,3,73035,Göppingen,2,48.690554,9.648819,address
+2880,Kreisklinikum Calw-Nagold,Kliniken Calw,Eduard-Conz-Straße,6,75365,Calw,1,48.715451,8.744846,address
+1990,Klinikum Traunstein und Kreisklinik Ruhpolding,Klinikum Traunstein und Kreisklinik Ruhpolding – Kreisklinik Vinzentinum Ruhpolding,Hauptstr.,24,83324,Ruhpolding,1,47.763605,12.642584,address
+2631,Kliniken HochFranken,Kliniken HochFranken Klinik Münchberg,Hofer Str.,40,95213,Münchberg,1,50.195116,11.794221,address
+2115,Rotkreuzklinik Lindenberg gemeinnützige GmbH,Rotkreuzklinik Lindenberg gemeinnützige GmbH,Dr.-Otto-Geßler-Platz,1,88161,Lindenberg,1,47.610901,9.88256,address
+1542,Klinik Amsee GmbH,Klinik Amsee,Amsee,6,17192,Waren (Müritz),1,53.541935,12.689256,address
+1415,Erzgebirgsklinikum gGmbH – Haus Olbernhau,"Klinikum Mittleres Erzgebirge, Haus Olbernhau",Krankenhausstr.,1,9526,Olbernhau,1,50.654188,13.347806,address
+2493,"HELIOS-Park-Klinikum, Hauptstandort","HELIOS-Park-Klinikum, Hauptstandort",Strümpellstr.,41,4289,Leipzig,1,51.308226,12.435688,address
+1259,Herzzentrum Leipzig GmbH,Herzzentrum Leipzig GmbH,Strümpellstr.,39,4289,Leipzig,1,51.306934,12.436514,address
+2828,Kreiskrankenhaus Torgau Johann Kentmann,Kreiskrankenhaus Torgau Johann Kentmann,Christianistr.,1,4860,Torgau,1,51.561518,12.984348,address

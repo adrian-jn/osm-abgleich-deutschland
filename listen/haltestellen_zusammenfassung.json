@@ -1,0 +1,142 @@
+{
+ "osm_haltestellen_objekte": 788844,
+ "haltestellen_im_fahrplan": 239511,
+ "gefunden_100m": 217714,
+ "anteil_gefunden": 0.909,
+ "ohne_osm_100m": 21797,
+ "ohne_osm_250m": 14300,
+ "ohne_osm_nach_verkehr": {
+  "Bus": 19797,
+  "nur Rufbus": 1917,
+  "Bahn oder Tram": 83
+ },
+ "alle_nach_verkehr": {
+  "Bus": 219405,
+  "Bahn oder Tram": 14813,
+  "nur Rufbus": 5293
+ },
+ "kreise_ab_20_prozent": 39,
+ "kreise_bis_2_prozent": 111,
+ "kreise_top": [
+  [
+   "12068",
+   "Ostprignitz-Ruppin",
+   "Landkreis",
+   598,
+   324,
+   0.542
+  ],
+  [
+   "07232",
+   "Eifelkreis Bitburg-Prüm",
+   "Landkreis",
+   818,
+   345,
+   0.422
+  ],
+  [
+   "01054",
+   "Nordfriesland",
+   "Kreis",
+   1275,
+   500,
+   0.392
+  ],
+  [
+   "09377",
+   "Tirschenreuth",
+   "Landkreis",
+   835,
+   322,
+   0.386
+  ],
+  [
+   "03460",
+   "Vechta",
+   "Landkreis",
+   497,
+   189,
+   0.38
+  ],
+  [
+   "03459",
+   "Osnabrück",
+   "Landkreis",
+   1972,
+   691,
+   0.35
+  ],
+  [
+   "03453",
+   "Cloppenburg",
+   "Landkreis",
+   739,
+   253,
+   0.342
+  ],
+  [
+   "08437",
+   "Sigmaringen",
+   "Landkreis",
+   607,
+   189,
+   0.311
+  ],
+  [
+   "05566",
+   "Steinfurt",
+   "Kreis",
+   2310,
+   707,
+   0.306
+  ],
+  [
+   "03454",
+   "Emsland",
+   "Landkreis",
+   1379,
+   422,
+   0.306
+  ],
+  [
+   "07233",
+   "Vulkaneifel",
+   "Landkreis",
+   360,
+   110,
+   0.306
+  ],
+  [
+   "03102",
+   "Salzgitter",
+   "Kreisfreie Stadt",
+   314,
+   93,
+   0.296
+  ],
+  [
+   "12073",
+   "Uckermark",
+   "Landkreis",
+   953,
+   282,
+   0.296
+  ],
+  [
+   "05754",
+   "Gütersloh",
+   "Kreis",
+   1314,
+   380,
+   0.289
+  ],
+  [
+   "09479",
+   "Wunsiedel i.Fichtelgebirge",
+   "Landkreis",
+   430,
+   118,
+   0.274
+  ]
+ ]
+}
