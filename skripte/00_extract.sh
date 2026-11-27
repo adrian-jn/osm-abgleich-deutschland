@@ -10,3 +10,6 @@ osmium tags-filter -O -o "$out/poi.osm.pbf" "$pbf" \
   nwr/railway=tram_stop,halt,station,platform w/addr:interpolation
 osmium tags-filter -O -o "$out/addr.osm.pbf" "$pbf" nwr/addr:housenumber
 osmium tags-filter -O -o "$out/buildings.osm.pbf" "$pbf" w/building
+osmium tags-filter -O -o "$out/landuse.osm.pbf" "$pbf" wr/landuse=farmland,meadow,grass wr/natural=grassland
+osmium tags-filter -O -R -o "$out/lines.osm.pbf" "$pbf" w/highway w/waterway
+osmium tags-filter -O -o "$out/boundaries.osm.pbf" "$pbf" r/boundary=administrative

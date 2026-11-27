@@ -5,6 +5,9 @@ Paths come from environment variables so the scripts run anywhere:
     OSM_POI        osmium extract of the POI, stop and interpolation tags (00_extract.sh)
     OSM_ADDR       osmium extract of every object with addr:housenumber
     OSM_BUILDINGS  osmium extract of every way with building=*
+    OSM_LANDUSE    osmium extract of landuse=farmland/meadow/grass, natural=grassland
+    OSM_LINES      osmium extract of highway and waterway ways (ways only)
+    OSM_BOUNDARIES osmium extract of boundary=administrative relations with members
     VG250          BKG VG250 zip (vg250_01-01.utm32s.shape.ebenen.zip)
     ZENSUS_POP     Zensus2022_Bevoelkerungszahl_100m-Gitter.csv
     DELFI_GTFS     DELFI Germany-wide GTFS zip

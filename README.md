@@ -30,6 +30,7 @@ Entstanden ist das beim Bau von [WohnData](https://wohn-data.de), einem Wohnlage
 | `listen/kita_paare.csv` | Paare von `amenity=kindergarten` unter 25 m Abstand |
 | `listen/abdeckung_kreise.csv` | Zählung und Index je Kreis für Apotheken, Kitas, Post und Arztpraxen |
 | `listen/supermarkt_marken.csv` | Supermärkte nach `brand` |
+| `listen/landuse_verklebt.csv`, `.geojson` | große `landuse=farmland/meadow/grass` und `natural=grassland`, die mit Straßen, Gewässern oder Verwaltungsgrenzen verklebt sind, mit Kreis und Gemeinde. Das GeoJSON lässt sich direkt in JOSM öffnen |
 
 **Bitte nichts aus den amtlichen Daten oder dem Fahrplan in OSM kopieren.** Die Listen sind Hinweise, wo sich ein Blick vor Ort oder auf Luftbilder lohnt. Positionen im Fahrplan und Adressen im Krankenhausverzeichnis können ungenau sein, und manche Haltestelle dient nur dem Schulbus oder dem Rufbus.
 
@@ -45,9 +46,11 @@ export OSM_POI=extrakte/poi.osm.pbf OSM_ADDR=extrakte/addr.osm.pbf OSM_BUILDINGS
 export VG250=vg250_01-01.utm32s.shape.ebenen.zip
 export ZENSUS_POP=Zensus2022_Bevoelkerungszahl_100m-Gitter.csv
 export DELFI_GTFS=20261123_fahrplaene_gesamtdeutschland_gtfs.zip
+export OSM_LANDUSE=extrakte/landuse.osm.pbf OSM_LINES=extrakte/lines.osm.pbf OSM_BOUNDARIES=extrakte/boundaries.osm.pbf
 cd skripte
 python 10_abdeckung_kreise.py && python 20_adressen.py && python 30_haltestellen.py
 python 40_krankenhaeuser.py && python 50_kita_paare.py && python 60_karten.py
+python 70_landuse_verklebt.py
 ```
 
 Die Adress- und die Gebäudeauswertung brauchen etwa 6 GB Arbeitsspeicher.
@@ -68,6 +71,7 @@ Quellen der Eingangsdaten:
 - Haltestellen: Steige mit derselben Haltestellen-ID (DHID, erste drei Teile) sind eine Haltestelle. Gezählt sind nur Steige, die im Fahrplan angefahren werden.
 - Krankenhäuser: Zuordnung im Umkreis von 250 m, ein Objekt mit `emergency=yes` hat Vorrang.
 - Hausnummern: Zellen des Zensus-Gitters, Nachbarschaft 3x3.
+- Verklebte Landnutzung: Ein Knoten gilt als verklebt, wenn er auch zu einem `highway`, einem `waterway` oder einem Weg einer Verwaltungsgrenze gehört. Gemeinsame Knoten mit anderen Landnutzungsflächen zählen nicht. Gelistet sind Flächen mit mindestens 25 verklebten Knoten und mindestens 50 ha oder mindestens 30 Mitgliedern.
 
 ## Lizenzen
 

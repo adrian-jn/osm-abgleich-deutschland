@@ -1,0 +1,31 @@
+{
+ "kandidaten_ab_ha": 10,
+ "kandidaten": 301495,
+ "liste_kriterium": "mindestens 25 verklebte Knoten und mindestens 50 ha oder 30 Mitglieder",
+ "liste": 3759,
+ "liste_flaeche_ha": 678421,
+ "nach_tag": {
+  "landuse=farmland": 2696,
+  "landuse=meadow": 969,
+  "landuse=grass": 64,
+  "natural=grassland": 30
+ },
+ "relationen": 1654,
+ "kreise_top": {
+  "Rostock": 345,
+  "Vorpommern-Rügen": 229,
+  "Nordwestmecklenburg": 164,
+  "Cuxhaven": 130,
+  "Ludwigslust-Parchim": 108,
+  "Ravensburg": 79,
+  "Nordsachsen": 78,
+  "Meißen": 74,
+  "Rendsburg-Eckernförde": 54,
+  "Unterallgäu": 54,
+  "Leipzig": 47,
+  "Freudenstadt": 47,
+  "Germersheim": 46,
+  "Weilheim-Schongau": 44,
+  "Tübingen": 44
+ }
+}
