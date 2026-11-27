@@ -4,7 +4,7 @@ Wo OpenStreetMap in Deutschland neben offenen amtlichen Daten noch Lücken hat, 
 
 **Stand:** OpenStreetMap 26.11.2026 (Geofabrik, 21:21 UTC), DELFI-Fahrplan 23.11.2026, INKAR 2025, Zensus 2022, Krankenhausverzeichnis 2024.
 
-Entstanden ist das beim Bau von [WohnData](https://wohn-data.de), einem Wohnlagen-Check, der auf OSM aufbaut. Die ausführliche Erklärung steht im [OSM-Tagebuch](LINK).
+Entstanden ist das beim Bau von [WohnData](https://wohn-data.de), einem Wohnlagen-Check, der auf OSM aufbaut. Die ausführliche Erklärung steht im [OSM-Tagebuch](https://www.openstreetmap.org/user/Adrian%20Joswowitz-Niemierski/diary/409731).
 
 ## Die wichtigsten Ergebnisse
 
